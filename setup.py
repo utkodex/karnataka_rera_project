@@ -5,5 +5,5 @@ setup(name="karnataka-scraping-system",
        author="utkarsh",
        author_email="bizzboosterdata@gmail.com",
        packages=find_packages(),
-       install_requires=['gspread', 'langchain', 'langgraph', 'tavily-python', 'polygon']
+       install_requires=['gspread', 'selenium', 'webdriver-manager', 'google-auth', 'bs4', 'undetected-chromedriver']
        )

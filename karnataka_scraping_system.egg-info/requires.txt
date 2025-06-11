@@ -1,0 +1,6 @@
+gspread
+selenium
+webdriver-manager
+google-auth
+bs4
+undetected-chromedriver
