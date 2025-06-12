@@ -16,9 +16,9 @@ class TableScrapper:
         # print(html_content)
         return html_content
 
-    def extract_home_table(html_content):
+    def home_table_json(driver):
 
-        html_content = TableScrapper.home_table_extractor()
+        html_content = TableScrapper.home_table_extractor(driver)
 
         soup = BeautifulSoup(html_content, "html.parser")
         row = soup.find("tr")

@@ -1,0 +1,34 @@
+[ 2025-06-12 07:47:25,915 ] 346 undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Utkarsh\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+[ 2025-06-12 07:47:26,538 ] 61 RERAScrapper - INFO - Browser initialized successfully.
+[ 2025-06-12 07:47:30,473 ] 70 RERAScrapper - INFO - Navigated to URL: https://rera.karnataka.gov.in/viewAllProjects
+[ 2025-06-12 07:47:30,629 ] 83 RERAScrapper - INFO - City 'Vijayapura' selected from dropdown.
+[ 2025-06-12 07:47:31,720 ] 94 RERAScrapper - ERROR - Error during city selection: Message: element click intercepted: Element <input name="btn1" class="btn-style" value="Search" type="submit" style="font-size: 13px;"> is not clickable at point (944, 609). Other element would receive the click: <div id="loader" style="font-size: 13px; opacity: 0.289482;"></div>
+  (Session info: chrome=137.0.7151.70)
+Stacktrace:
+	GetHandleVerifier [0x0xc33783+63299]
+	GetHandleVerifier [0x0xc337c4+63364]
+	(No symbol) [0x0xa61113]
+	(No symbol) [0x0xaafbb0]
+	(No symbol) [0x0xaadf6a]
+	(No symbol) [0x0xaabad7]
+	(No symbol) [0x0xaaada7]
+	(No symbol) [0x0xa9f445]
+	(No symbol) [0x0xace57c]
+	(No symbol) [0x0xa9eed4]
+	(No symbol) [0x0xace7f4]
+	(No symbol) [0x0xaefa4a]
+	(No symbol) [0x0xace376]
+	(No symbol) [0x0xa9d6e0]
+	(No symbol) [0x0xa9e544]
+	GetHandleVerifier [0x0xe8e073+2531379]
+	GetHandleVerifier [0x0xe89372+2511666]
+	GetHandleVerifier [0x0xc59efa+220858]
+	GetHandleVerifier [0x0xc4a548+156936]
+	GetHandleVerifier [0x0xc50c7d+183357]
+	GetHandleVerifier [0x0xc3b6e8+95912]
+	GetHandleVerifier [0x0xc3b890+96336]
+	GetHandleVerifier [0x0xc2666a+9770]
+	BaseThreadInitThunk [0x0x7653fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77a582ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77a5827e+238]
+

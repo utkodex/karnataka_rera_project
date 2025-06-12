@@ -1,7 +1,7 @@
 import gspread
 from google.oauth2.service_account import Credentials
 import sys
-from exception.exceptions import seleniumBotException
+from exception.exceptions import SeleniumBotException
 import os
 
 # Add the project root to PYTHONPATH
@@ -41,4 +41,4 @@ if __name__ == '__main__':
     except Exception as e:
         print(f"\n🔴▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔴\n")
         logger.error(f"An error occurred: {str(e)}")  # Log the error first
-        raise seleniumBotException(e, sys)  # Raise the custom exception
+        raise SeleniumBotException(e, sys)  # Raise the custom exception

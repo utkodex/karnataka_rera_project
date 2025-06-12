@@ -1,12 +1,9 @@
 import os
 import sys
 
-# Add the project root to PYTHONPATH
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-
 from custom_logging.my_logger import logger
 
-class seleniumBotException(Exception):
+class SeleniumBotException(Exception):
     def __init__(self,error_message,error_details:sys):
         self.error_message = error_message
         _,_,exc_tb = error_details.exc_info()
@@ -22,11 +19,11 @@ class seleniumBotException(Exception):
     
 if __name__ == '__main__':
     try:
-        a=1/0
-        print("This will not be printed",a)
+        a=1/1
+        logger.info(f"This will not be printed: {a}")
     except Exception as e:
         print(f"\n🔴▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬🔴\n")
         logger.error(f"An error occurred: {str(e)}")  # Log the error first
-        raise seleniumBotException(e, sys)  # Raise the custom exception
+        raise SeleniumBotException(e, sys)  # Raise the custom exception
         
         

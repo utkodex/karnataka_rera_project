@@ -12,9 +12,13 @@ LOG_FILE_PATH = os.path.join(LOG_DIR, LOG_FILE)
 
 # Logging configuration
 logging.basicConfig(
-    filename=LOG_FILE_PATH,
+    level=logging.INFO,  # Set the logging level
     format="[ %(asctime)s ] %(lineno)d %(name)s - %(levelname)s - %(message)s",
-    level=logging.INFO,
+    handlers=[
+        logging.FileHandler(LOG_FILE_PATH),  # Write logs to file
+        logging.StreamHandler()  # Print logs to the console
+    ],
 )
 
-logger = logging.getLogger("my_agentic_app")
+# Create logger
+logger = logging.getLogger("RERAScrapper")

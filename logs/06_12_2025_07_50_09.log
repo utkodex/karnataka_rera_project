@@ -1,0 +1,27 @@
+[ 2025-06-12 07:50:12,024 ] 346 undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Utkarsh\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+[ 2025-06-12 07:50:12,644 ] 61 RERAScrapper - INFO - Browser initialized successfully.
+[ 2025-06-12 07:50:18,278 ] 70 RERAScrapper - INFO - Navigated to URL: https://rera.karnataka.gov.in/viewAllProjects
+[ 2025-06-12 07:50:27,061 ] 83 RERAScrapper - INFO - City 'Vijayapura' selected from dropdown.
+[ 2025-06-12 07:50:36,325 ] 100 RERAScrapper - INFO - Home table JSON extracted: {
+    "S.No": "2",
+    "ACKNOWLEDGEMENT NO": "PR/KN/170729/000289",
+    "REGISTRATION NO": "PRM/KA/RERA/1275/448/PR/171025/000289",
+    "View Project Details": "",
+    "PROMOTER NAME": "Amrut Porwal",
+    "PROJECT NAME": "Sanjeevini Nagar",
+    "STATUS": "APPROVED",
+    "DISTRICT": "Vijayapura",
+    "TALUK": "Bijapur",
+    "PROJECT TYPE": "Plotted Development",
+    "APPROVED ON": "25/10/2017",
+    "PROPOSED COMPLETION DATE": "31/12/2020",
+    "PROPOSED COMPLETION DATE AT THE TIME OF REGISTRATION": "31-12-2020",
+    "COVID-19 EXTENSION DATE": "",
+    "SECTION 6 EXTENSION DATE": "",
+    "FURTHER EXTENSION DATE": "",
+    "Certificate": "/certificate?CER_NO=PRM/KA/RERA/1275/448/PR/171025/000289",
+    "Covid Certificate": "",
+    "Renewed Certificate": "",
+    "FURTHER EXTENSION ORDER": "",
+    "COMPLAINTS / LITIGATION": ""
+}
