@@ -1,0 +1,167 @@
+[ 2025-06-12 21:35:26,755 ] 61 RERAScrapper - INFO - Browser initialized successfully.
+[ 2025-06-12 21:35:31,911 ] 69 RERAScrapper - INFO - Navigated to URL: https://rera.karnataka.gov.in/viewAllProjects
+[ 2025-06-12 21:35:32,097 ] 82 RERAScrapper - INFO - City 'Vijayapura' selected from dropdown.
+[ 2025-06-12 21:35:46,483 ] 100 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-12 21:35:49,544 ] 122 RERAScrapper - INFO - Promoter Details '{
+    "Promoter Details": [
+        "Promoter Type : Company",
+        "Name: Svamitva Infra Private limited",
+        "PAN Number: AAACN6347C",
+        "Address : 61,jODHBHAVI PETH,Near Vyapari Bank",
+        "District : Solapur",
+        "State/UT: Maharashtra",
+        "PIN Code : 413002",
+        "Company Registration No. : U55101MH1995PTC093084",
+        "Certificate: https://rera.karnataka.gov.in/download_jc?DOC_ID=wXix0IEXBs%2Fd5YaDofK41A%3D%3D"
+    ]
+}' scrapped.
+[ 2025-06-12 21:35:49,545 ] 123 RERAScrapper - INFO - Authorized Signatory Detail '{
+    "Authorized Signatory Detail": [
+        "Name : Mahavir Mehta",
+        "Address: Near Vyapari Bank , 61,jODHBHAVI PETH",
+        "Photograph: https://rera.karnataka.gov.in/download_jc?DOC_ID=EYLwfg03W%2BWo7Yt0L384Bg%3D%3D"
+    ]
+}' scrapped.
+[ 2025-06-12 21:35:49,545 ] 124 RERAScrapper - INFO - Project Member Details '{
+    "Project Member Details": [
+        "Name : Girdharilal Mehta",
+        "Type: Director",
+        "Address: 61,jODHBHAVI PETH.Near Vyapari Bank",
+        "Pin Code: 413002",
+        "Photograph: https://rera.karnataka.gov.in/download_jc?DOC_ID=99ZbEyXTgg8k9%2BGMdQJEyw%3D%3D",
+        "Name : Gulabidevi Mehta",
+        "Type: Director",
+        "Address: 61,jODHBHAVI PETH.Near Vyapari Bank",
+        "Pin Code: 413002",
+        "Photograph: https://rera.karnataka.gov.in/download_jc?DOC_ID=oDyxZmAA2svlD2AdvPz7pg%3D%3D",
+        "Name : Vimaladevi Mehta",
+        "Type: Director",
+        "Address: 61,jODHBHAVI PETH.Near Vyapari Bank",
+        "Pin Code: 413002",
+        "Photograph: https://rera.karnataka.gov.in/download_jc?DOC_ID=0e9zeJjecdP7NIoCaPUfkA%3D%3D",
+        "Name : Shilpa Mehta",
+        "Type: Director",
+        "Address: 61,jODHBHAVI PETH.Near Vyapari Bank",
+        "Pin Code: 413002",
+        "Photograph: https://rera.karnataka.gov.in/download_jc?DOC_ID=pEH45vE0Ts3hYtZv2gOD4Q%3D%3D",
+        "Name : Hulasidevi Mehta",
+        "Type: Director",
+        "Address: 61,jODHBHAVI PETH.Near Vyapari Bank",
+        "Pin Code: 413002",
+        "Photograph: https://rera.karnataka.gov.in/download_jc?DOC_ID=FTlcac7OR2hjNDxabxa50g%3D%3D",
+        "Name : Babulal Mehta",
+        "Type: Director",
+        "Address: 61,jODHBHAVI PETH.Near Vyapari Bank",
+        "Pin Code: 413002",
+        "Photograph: https://rera.karnataka.gov.in/download_jc?DOC_ID=YcOXVxjFL20ktFPcYwzw5g%3D%3D",
+        "Name : Vijay Mehta",
+        "Type: Director",
+        "Address: 61,jODHBHAVI PETH.Near Vyapari Bank",
+        "Pin Code: 413002",
+        "Photograph: https://rera.karnataka.gov.in/download_jc?DOC_ID=%2FY6zxk5Es10fPKib1VHOmw%3D%3D",
+        "Name : Dimple Mehta",
+        "Type: Director",
+        "Address: 61,jODHBHAVI PETH.Near Vyapari Bank",
+        "Pin Code: 413002",
+        "Photograph: https://rera.karnataka.gov.in/download_jc?DOC_ID=k7q3ziE8rLTl0H8IIOUpkg%3D%3D",
+        "Name : Jay Mehta",
+        "Type: Director",
+        "Address: 61,jODHBHAVI PETH.Near Vyapari Bank",
+        "Pin Code: 413002",
+        "Photograph: https://rera.karnataka.gov.in/download_jc?DOC_ID=htLYLkTjnkHKG2karVJ0PQ%3D%3D",
+        "Name : Neelam Mehta",
+        "Type: Director",
+        "Address: 61,jODHBHAVI PETH.Near Vyapari Bank",
+        "Pin Code: 413002",
+        "Photograph: https://rera.karnataka.gov.in/download_jc?DOC_ID=n3wgktOinFc1NibpFQ52aA%3D%3D",
+        "Name : Nandadevi Mehta",
+        "Type: Director",
+        "Address: 61,jODHBHAVI PETH.Near Vyapari Bank",
+        "Pin Code: 413002",
+        "Photograph: https://rera.karnataka.gov.in/download_jc?DOC_ID=FjbcNbV%2F1RoWy8%2Bn%2FWAqDQ%3D%3D",
+        "Name : Manishkumar Mehta",
+        "Type: Director",
+        "Address: 61,jODHBHAVI PETH.Near Vyapari Bank",
+        "Pin Code: 413002",
+        "Photograph: https://rera.karnataka.gov.in/download_jc?DOC_ID=%2BhmD3ACW1ZyjlyWKAVw4aw%3D%3D",
+        "Name : Mahavirkumar Mehta",
+        "Type: Director",
+        "Address: 61,jODHBHAVI PETH.Near Vyapari Bank",
+        "Pin Code: 413002",
+        "Photograph: https://rera.karnataka.gov.in/download_jc?DOC_ID=M86O%2F0YdNqGrbe9khOQosA%3D%3D",
+        "Name : Payal mehta",
+        "Type: Director",
+        "Address: 61,jODHBHAVI PETH.Near Vyapari Bank",
+        "Pin Code: 413002",
+        "Photograph: https://rera.karnataka.gov.in/download_jc?DOC_ID=OzN0m5xNyvUszu14e8uRtQ%3D%3D"
+    ]
+}' scrapped.
+[ 2025-06-12 21:35:49,547 ] 125 RERAScrapper - INFO - Project Land Owner Details '{
+    "Project Land Owner Details": []
+}' scrapped.
+[ 2025-06-12 21:35:49,547 ] 126 RERAScrapper - INFO - RERA Registration Details with any other State/UTs '{
+    "RERA Registration Details with any other State/UTs": []
+}' scrapped.
+[ 2025-06-12 21:35:49,547 ] 127 RERAScrapper - INFO - Previous Project Details (Last 5 years only) '{
+    "Previous Project Details (Last 5 years only)": []
+}' scrapped.
+[ 2025-06-12 21:35:51,596 ] 135 RERAScrapper - INFO - Project Details page clicked.
+[ 2025-06-12 21:35:53,102 ] 144 RERAScrapper - INFO - Project Details '{
+    "": [
+        "Project Address: Baratgi Road, Vijayapura",
+        "District: Vijayapura",
+        "Taluk: Bijapur",
+        "North Latitude: 16\u00b052'34.9\" N",
+        "North Longitude: 75\u00b043'43.6\" E",
+        "East Latitude: 16\u00b052'27.4\"N",
+        "East Longitude: 75\u00b043'41.8\"E",
+        "West Latitude: 16\u00b052'25.6\"N",
+        "West Longitude: 75\u00b043'44.5\"E",
+        "South Latitude: 16\u00b052'29.0\"N",
+        "South Longitude: 75\u00b043'47.5\"E",
+        "Approving Authority: Vijayapura Urban Development Authority",
+        "No of Garage for Sale: 0",
+        "Area of Garage for Sale (Sq Mtr): 0",
+        "No of Parking for Sale: 0",
+        "Area of Parking for Sale (Sq Mtr): 0"
+    ]
+}' scrapped.
+[ 2025-06-12 21:35:53,103 ] 145 RERAScrapper - INFO - Development Details '{
+    "Development Details": [
+        "Type of Inventory: Plotted",
+        "No of Inventory: 143",
+        "Carpet Area (Sq Mtr): 14545SqMtr",
+        "Area of exclusive balcony/verandah (Sq Mtr): 0SqMtr",
+        "Area of exclusive open terrace if any (Sq Mtr): 0SqMtr"
+    ]
+}' scrapped.
+[ 2025-06-12 21:35:53,103 ] 146 RERAScrapper - INFO - External Development Work '{
+    "External Development Work": [
+        "Road System: Self Development",
+        "Water Supply: Local Authority",
+        "Sewege and Drainage System : Local Authority",
+        "Electricity Supply Transformer And Sub Station: Local Authority",
+        "Solid Waste Management And Disposal: Local Authority",
+        "Fire Fighting facility : Local Authority",
+        "Drinking Water Facility: Local Authority",
+        "Emergency Evacuation Services : Local Authority",
+        "Use of Renewable Energy: Local Authority"
+    ]
+}' scrapped.
+[ 2025-06-12 21:35:53,103 ] 147 RERAScrapper - INFO - Other External Development Work '{
+    "Other External Development Work": []
+}' scrapped.
+[ 2025-06-12 21:35:53,104 ] 148 RERAScrapper - INFO - Project Bank ( Escrow Account ) Details '{
+    "Project Bank ( Escrow Account ) Details": [
+        "Bank Name: UNITED BANK OF INDIA",
+        "Branch: Siddeshwar Temple Road Branch",
+        "ifscCode: UBIN0537594",
+        "Account No.(70% Account): 375901010032479",
+        "State: Karnataka",
+        "District: Vijayapura"
+    ]
+}' scrapped.
+[ 2025-06-12 21:35:53,104 ] 149 RERAScrapper - INFO - Project Agents '{
+    "Project Agents": []
+}' scrapped.
+[ 2025-06-12 21:35:53,140 ] 153 RERAScrapper - INFO - Uploaded Documents page clicked.

@@ -1,0 +1,36 @@
+[ 2025-06-12 14:01:44,286 ] 346 undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Utkarsh\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+[ 2025-06-12 14:01:44,893 ] 61 RERAScrapper - INFO - Browser initialized successfully.
+[ 2025-06-12 14:02:29,952 ] 70 RERAScrapper - INFO - Navigated to URL: https://rera.karnataka.gov.in/viewAllProjects
+[ 2025-06-12 14:03:42,967 ] 83 RERAScrapper - INFO - City 'Vijayapura' selected from dropdown.
+[ 2025-06-12 14:04:47,723 ] 101 RERAScrapper - INFO - Home table JSON extracted: {
+    "S.No": "2",
+    "ACKNOWLEDGEMENT NO": "PR/KN/170729/000289",
+    "REGISTRATION NO": "PRM/KA/RERA/1275/448/PR/171025/000289",
+    "View Project Details": "",
+    "PROMOTER NAME": "Amrut Porwal",
+    "PROJECT NAME": "Sanjeevini Nagar",
+    "STATUS": "APPROVED",
+    "DISTRICT": "Vijayapura",
+    "TALUK": "Bijapur",
+    "PROJECT TYPE": "Plotted Development",
+    "APPROVED ON": "25/10/2017",
+    "PROPOSED COMPLETION DATE": "31/12/2020",
+    "PROPOSED COMPLETION DATE AT THE TIME OF REGISTRATION": "31-12-2020",
+    "COVID-19 EXTENSION DATE": "",
+    "SECTION 6 EXTENSION DATE": "",
+    "FURTHER EXTENSION DATE": "",
+    "Certificate": "/certificate?CER_NO=PRM/KA/RERA/1275/448/PR/171025/000289",
+    "Covid Certificate": "",
+    "Renewed Certificate": "",
+    "FURTHER EXTENSION ORDER": "",
+    "COMPLAINTS / LITIGATION": ""
+}
+[ 2025-06-12 14:04:51,781 ] 123 RERAScrapper - INFO - Promoter Details 'promoter_details' scrapped.
+[ 2025-06-12 14:04:51,781 ] 124 RERAScrapper - INFO - Authorized Signatory Detail 'authorized_signatory_details' scrapped.
+[ 2025-06-12 14:04:51,781 ] 125 RERAScrapper - INFO - Project Member Details 'project_member_details' scrapped.
+[ 2025-06-12 14:04:51,781 ] 126 RERAScrapper - INFO - Project Land Owner Details 'project_land_owner_details' scrapped.
+[ 2025-06-12 14:04:51,781 ] 127 RERAScrapper - INFO - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' scrapped.
+[ 2025-06-12 14:04:51,782 ] 128 RERAScrapper - INFO - Previous Project Details (Last 5 years only) 'previous_project_details' scrapped.
+[ 2025-06-12 14:04:52,468 ] 134 RERAScrapper - INFO - Promoter Details '{
+    "": []
+}' scrapped.

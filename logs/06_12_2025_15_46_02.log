@@ -1,0 +1,5 @@
+[ 2025-06-12 15:46:05,458 ] 346 undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Utkarsh\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+[ 2025-06-12 15:46:06,455 ] 61 RERAScrapper - INFO - Browser initialized successfully.
+[ 2025-06-12 15:47:12,081 ] 69 RERAScrapper - INFO - Navigated to URL: https://rera.karnataka.gov.in/viewAllProjects
+[ 2025-06-12 15:47:12,387 ] 82 RERAScrapper - INFO - City 'Vijayapura' selected from dropdown.
+[ 2025-06-12 15:48:18,117 ] 100 RERAScrapper - INFO - Home table JSON extracted: home_table_json

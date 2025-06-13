@@ -1,0 +1,109 @@
+[ 2025-06-12 18:19:26,679 ] 346 undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Utkarsh\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+[ 2025-06-12 18:19:27,301 ] 61 RERAScrapper - INFO - Browser initialized successfully.
+[ 2025-06-12 18:20:28,702 ] 69 RERAScrapper - INFO - Navigated to URL: https://rera.karnataka.gov.in/viewAllProjects
+[ 2025-06-12 18:20:29,024 ] 82 RERAScrapper - INFO - City 'Vijayapura' selected from dropdown.
+[ 2025-06-12 18:21:46,549 ] 100 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-12 18:21:50,519 ] 122 RERAScrapper - INFO - Promoter Details '{
+    "Promoter Details": [
+        "Promoter Type : Company",
+        "Name: Svamitva Infra Private limited",
+        "PAN Number: AAACN6347C",
+        "Address : 61,jODHBHAVI PETH,Near Vyapari Bank",
+        "District : Solapur",
+        "State/UT: Maharashtra",
+        "PIN Code : 413002",
+        "Company Registration No. : U55101MH1995PTC093084",
+        "Certificate: Registration Certificate.pdf"
+    ]
+}' scrapped.
+[ 2025-06-12 18:21:50,520 ] 123 RERAScrapper - INFO - Authorized Signatory Detail '{
+    "Authorized Signatory Detail": [
+        "Name : Mahavir Mehta",
+        "Address: Near Vyapari Bank , 61,jODHBHAVI PETH",
+        "Photograph: Mahavirkumar S Mehta.jpg"
+    ]
+}' scrapped.
+[ 2025-06-12 18:21:50,520 ] 124 RERAScrapper - INFO - Project Member Details '{
+    "Project Member Details": [
+        "Name : Vimaladevi Mehta",
+        "Type: Director",
+        "Address: 61,jODHBHAVI PETH.Near Vyapari Bank",
+        "Pin Code: 413002",
+        "Photograph: Vimaladevi A Mehta.jpg",
+        "Name : Neelam Mehta",
+        "Type: Director",
+        "Address: 61,jODHBHAVI PETH.Near Vyapari Bank",
+        "Pin Code: 413002",
+        "Photograph: Neelam Mehta.jpg",
+        "Name : Mahavirkumar Mehta",
+        "Type: Director",
+        "Address: 61,jODHBHAVI PETH.Near Vyapari Bank",
+        "Pin Code: 413002",
+        "Photograph: Mahavirkumar S Mehta.jpg",
+        "Name : Babulal Mehta",
+        "Type: Director",
+        "Address: 61,jODHBHAVI PETH.Near Vyapari Bank",
+        "Pin Code: 413002",
+        "Photograph: Babulal S Mehta.jpg",
+        "Name : Vijay Mehta",
+        "Type: Director",
+        "Address: 61,jODHBHAVI PETH.Near Vyapari Bank",
+        "Pin Code: 413002",
+        "Photograph: Vijay G Mehta.jpg",
+        "Name : Hulasidevi Mehta",
+        "Type: Director",
+        "Address: 61,jODHBHAVI PETH.Near Vyapari Bank",
+        "Pin Code: 413002",
+        "Photograph: Hulasidevi G Mehta.jpg",
+        "Name : Gulabidevi Mehta",
+        "Type: Director",
+        "Address: 61,jODHBHAVI PETH.Near Vyapari Bank",
+        "Pin Code: 413002",
+        "Photograph: Gulabidevi B Mehta.jpg",
+        "Name : Payal mehta",
+        "Type: Director",
+        "Address: 61,jODHBHAVI PETH.Near Vyapari Bank",
+        "Pin Code: 413002",
+        "Photograph: Payal V mehta.jpg",
+        "Name : Girdharilal Mehta",
+        "Type: Director",
+        "Address: 61,jODHBHAVI PETH.Near Vyapari Bank",
+        "Pin Code: 413002",
+        "Photograph: Girdharilal Mehta.jpg",
+        "Name : Nandadevi Mehta",
+        "Type: Director",
+        "Address: 61,jODHBHAVI PETH.Near Vyapari Bank",
+        "Pin Code: 413002",
+        "Photograph: Nanda M Mehta.jpg",
+        "Name : Manishkumar Mehta",
+        "Type: Director",
+        "Address: 61,jODHBHAVI PETH.Near Vyapari Bank",
+        "Pin Code: 413002",
+        "Photograph: Manish B Mehta.jpg",
+        "Name : Dimple Mehta",
+        "Type: Director",
+        "Address: 61,jODHBHAVI PETH.Near Vyapari Bank",
+        "Pin Code: 413002",
+        "Photograph: Dimple J Mehta.jpg",
+        "Name : Jay Mehta",
+        "Type: Director",
+        "Address: 61,jODHBHAVI PETH.Near Vyapari Bank",
+        "Pin Code: 413002",
+        "Photograph: Jay G Mehta.jpg",
+        "Name : Shilpa Mehta",
+        "Type: Director",
+        "Address: 61,jODHBHAVI PETH.Near Vyapari Bank",
+        "Pin Code: 413002",
+        "Photograph: Shilpa Mehta.jpg"
+    ]
+}' scrapped.
+[ 2025-06-12 18:21:50,523 ] 125 RERAScrapper - INFO - Project Land Owner Details '{
+    "Project Land Owner Details": []
+}' scrapped.
+[ 2025-06-12 18:21:50,523 ] 126 RERAScrapper - INFO - RERA Registration Details with any other State/UTs '{
+    "RERA Registration Details with any other State/UTs": []
+}' scrapped.
+[ 2025-06-12 18:21:50,523 ] 127 RERAScrapper - INFO - Previous Project Details (Last 5 years only) '{
+    "Previous Project Details (Last 5 years only)": []
+}' scrapped.
+[ 2025-06-12 18:21:52,567 ] 135 RERAScrapper - INFO - Project Details page clicked.

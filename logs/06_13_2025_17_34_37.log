@@ -1,0 +1,12 @@
+[ 2025-06-13 17:34:38,535 ] 61 RERAScrapper - INFO - Browser initialized successfully.
+[ 2025-06-13 17:35:39,543 ] 69 RERAScrapper - INFO - Navigated to URL: https://rera.karnataka.gov.in/viewAllProjects
+[ 2025-06-13 17:35:43,454 ] 82 RERAScrapper - INFO - City 'Vijayapura' selected from dropdown.
+[ 2025-06-13 17:35:53,506 ] 100 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-13 17:35:58,668 ] 135 RERAScrapper - INFO - Project Details page clicked.
+[ 2025-06-13 17:36:00,201 ] 146 RERAScrapper - INFO - Project Details 'project_details' scrapped.
+[ 2025-06-13 17:36:00,201 ] 147 RERAScrapper - INFO - Development Details 'development_details' scrapped.
+[ 2025-06-13 17:36:00,202 ] 148 RERAScrapper - INFO - External Development Work 'external_development_work' scrapped.
+[ 2025-06-13 17:36:00,202 ] 149 RERAScrapper - INFO - Other External Development Work 'other_external_development_work' scrapped.
+[ 2025-06-13 17:36:00,202 ] 150 RERAScrapper - INFO - Project Bank ( Escrow Account ) Details 'project_bank_details' scrapped.
+[ 2025-06-13 17:36:00,202 ] 151 RERAScrapper - INFO - Project Agents 'project_agents' scrapped.
+[ 2025-06-13 17:36:00,232 ] 158 RERAScrapper - INFO - Uploaded Documents page clicked.

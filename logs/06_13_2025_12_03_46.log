@@ -1,0 +1,175 @@
+[ 2025-06-13 12:03:47,222 ] 61 RERAScrapper - INFO - Browser initialized successfully.
+[ 2025-06-13 12:03:56,105 ] 69 RERAScrapper - INFO - Navigated to URL: https://rera.karnataka.gov.in/viewAllProjects
+[ 2025-06-13 12:03:56,283 ] 82 RERAScrapper - INFO - City 'Vijayapura' selected from dropdown.
+[ 2025-06-13 12:04:06,350 ] 100 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-13 12:04:09,901 ] 122 RERAScrapper - INFO - Promoter Details 'promoter_details' scrapped.
+[ 2025-06-13 12:04:09,901 ] 123 RERAScrapper - INFO - Authorized Signatory Detail 'authorized_signatory_details' scrapped.
+[ 2025-06-13 12:04:09,901 ] 124 RERAScrapper - INFO - Project Member Details 'project_member_details' scrapped.
+[ 2025-06-13 12:04:09,901 ] 125 RERAScrapper - INFO - Project Land Owner Details 'project_land_owner_details' scrapped.
+[ 2025-06-13 12:04:09,902 ] 126 RERAScrapper - INFO - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' scrapped.
+[ 2025-06-13 12:04:09,902 ] 127 RERAScrapper - INFO - Previous Project Details (Last 5 years only) 'previous_project_details' scrapped.
+[ 2025-06-13 12:04:11,949 ] 135 RERAScrapper - INFO - Project Details page clicked.
+[ 2025-06-13 12:04:13,435 ] 146 RERAScrapper - INFO - Project Details 'project_details' scrapped.
+[ 2025-06-13 12:04:13,435 ] 147 RERAScrapper - INFO - Development Details 'development_details' scrapped.
+[ 2025-06-13 12:04:13,435 ] 148 RERAScrapper - INFO - External Development Work 'external_development_work' scrapped.
+[ 2025-06-13 12:04:13,436 ] 149 RERAScrapper - INFO - Other External Development Work 'other_external_development_work' scrapped.
+[ 2025-06-13 12:04:13,436 ] 150 RERAScrapper - INFO - Project Bank ( Escrow Account ) Details 'project_bank_details' scrapped.
+[ 2025-06-13 12:04:13,436 ] 151 RERAScrapper - INFO - Project Agents 'project_agents' scrapped.
+[ 2025-06-13 12:04:13,436 ] 152 RERAScrapper - INFO - Project Detail Table '{
+    "stage": "At the time of Registration",
+    "start_date": "09-08-2014",
+    "end_date": "31-07-2018",
+    "certificate_link": "/certificate?CER_NO=PRM/KA/RERA/1275/448/PR/171125/000175"
+}' scrapped.
+[ 2025-06-13 12:04:13,472 ] 158 RERAScrapper - INFO - Uploaded Documents page clicked.
+[ 2025-06-13 12:04:14,799 ] 168 RERAScrapper - INFO - Project Documents '{
+    "": []
+}' scrapped.
+[ 2025-06-13 12:04:14,799 ] 169 RERAScrapper - INFO - Project Approval '{
+    "": [
+        "Proforma For Sale Deed : https://rera.karnataka.gov.in/download_jc?DOC_ID=XHLYkPIFYBVIX7KIn45sWw%3D%3D",
+        "Proforma of Agreement for Sale : https://rera.karnataka.gov.in/download_jc?DOC_ID=87L3VQGjeHttBWrDgLtM%2FA%3D%3D",
+        "Existing Layout Plan : https://rera.karnataka.gov.in/download_jc?DOC_ID=",
+        "Existing Section Plan and Specification : https://rera.karnataka.gov.in/download_jc?DOC_ID=",
+        "Land documents and Location: https://rera.karnataka.gov.in/download_jc?DOC_ID=5GSTQzYMkbM%2FkaoQNnG6fw%3D%3D",
+        "Approved Section Of Building/Infrastructure Plan of Plotting: https://rera.karnataka.gov.in/download_jc?DOC_ID=Rrc6IuKr%2FRKN5nPp8pVOtg%3D%3D",
+        "Area Development Plan Of Project Area: https://rera.karnataka.gov.in/download_jc?DOC_ID=8lF6YH5cPKu2oRiRpEskaw%3D%3D",
+        "Performa of Allotment Letter: https://rera.karnataka.gov.in/download_jc?DOC_ID=Fh7h7qp%2F23F5vFf4uxrh7w%3D%3D",
+        "Brochure of Current Project: https://rera.karnataka.gov.in/download_jc?DOC_ID=flI3qnKPP6dTSkjt7Rhtpw%3D%3D",
+        "All NOCs from Authority: https://rera.karnataka.gov.in/download_jc?DOC_ID=%2FRPdoEXm0UZKcfHS02fgTQ%3D%3D",
+        "Project Specification: https://rera.karnataka.gov.in/download_jc?DOC_ID=1lwXXBpPZ57Xqwq6w%2BZVjA%3D%3D",
+        "Encumbrance Certificate: https://rera.karnataka.gov.in/download_jc?DOC_ID=%2F4QFFIbnc1iIFLQQUy6dNQ%3D%3D",
+        "Section 3(1) Notarized Affidavit: https://rera.karnataka.gov.in/download_jc?DOC_ID=",
+        "JD AFFIDAVIT CUM DECLARATION: https://rera.karnataka.gov.in/download_jc?DOC_ID=",
+        "Title Deed: https://rera.karnataka.gov.in/download_jc?DOC_ID=wVNdXOW01J9wz5X4N8w%2BVw%3D%3D",
+        "Joint Development Agreement: https://rera.karnataka.gov.in/download_jc?DOC_ID=b%2FHJDgI0Mig6NvMBgfp6PA%3D%3D",
+        "Any other document (Rights/Title/Interest/Name) : https://rera.karnataka.gov.in/download_jc?DOC_ID=naLY2ixKQS1BKSqVMXVxog%3D%3D",
+        "Conversion Certificate under Sec 95 of the KLR Act 1961 : https://rera.karnataka.gov.in/download_jc?DOC_ID=JU9Ax2zd2dUlPcbZAomQ%2Bg%3D%3D",
+        "Approval/NOC under Sec 14 of the KTCP Act: https://rera.karnataka.gov.in/download_jc?DOC_ID=y2Sa%2BxFSLV0by4pyN0v3Aw%3D%3D",
+        "Utilisation certificate: https://rera.karnataka.gov.in/download_jc?DOC_ID=O29O%2FEyn%2FYMnB3XnX2jUew%3D%3D",
+        "Transfer of development rights certificate: https://rera.karnataka.gov.in/download_jc?DOC_ID=vzFzvzVMRqSshYi1kjepuA%3D%3D",
+        "Relinquishment Deed: https://rera.karnataka.gov.in/download_jc?DOC_ID=9%2BgKRHPmrFbIAju0TtaO1w%3D%3D",
+        "Fire Force Department: https://rera.karnataka.gov.in/download_jc?DOC_ID=OmZian8sQ79K8%2B%2FhmkRaaQ%3D%3D",
+        "Airport Authority of India: https://rera.karnataka.gov.in/download_jc?DOC_ID=RFc9jgTRz4HJbPf4hPnLxA%3D%3D",
+        "BESCOM: https://rera.karnataka.gov.in/download_jc?DOC_ID=HAlPZebR9Vkb0Z%2FFSaJlQA%3D%3D",
+        "BWSSB: https://rera.karnataka.gov.in/download_jc?DOC_ID=YnAnWs03t8eut75VNAkyXQ%3D%3D",
+        "KSPCB: https://rera.karnataka.gov.in/download_jc?DOC_ID=4BnBqLHHcPiKPrGkrWopZw%3D%3D",
+        "SEIAA: https://rera.karnataka.gov.in/download_jc?DOC_ID=Ppi%2FNePtXiZy%2B7dH3R%2FVYg%3D%3D",
+        "BSNL: https://rera.karnataka.gov.in/download_jc?DOC_ID=WyGlY6vslfHyy0HKUbq7Cw%3D%3D",
+        "NOC in case of building proposals abutting to neighbouring properties: https://rera.karnataka.gov.in/download_jc?DOC_ID=HTc%2FvrmhZaDU2giHjBf0yA%3D%3D",
+        "Lift Authorities: https://rera.karnataka.gov.in/download_jc?DOC_ID=SXRgrUsEadDQz5ERYHpTBg%3D%3D",
+        "Urban Land Ceiling: https://rera.karnataka.gov.in/download_jc?DOC_ID=fvnjbTIjgGFhMVzDoJIXNw%3D%3D",
+        "BMRCL: https://rera.karnataka.gov.in/download_jc?DOC_ID=PY0m%2FHafHVYuIhjS788Wyg%3D%3D",
+        "Bangalore Urban Arts Commission: https://rera.karnataka.gov.in/download_jc?DOC_ID=a8i8lXDKpINZDs4qDbAwsg%3D%3D",
+        "Inspector of Factories Controller of explosives Railways: https://rera.karnataka.gov.in/download_jc?DOC_ID=DOfImno6c5rEsNFXsDsdMA%3D%3D",
+        "Dist Magistrate: https://rera.karnataka.gov.in/download_jc?DOC_ID=qXXYSg%2FwtmEM6f05QIbr0Q%3D%3D",
+        "Coastal Regulation Zone Authority: https://rera.karnataka.gov.in/download_jc?DOC_ID=viPQOuTskm8L6esjDPQ9Dw%3D%3D",
+        "Certificate from Registered Engineer indicating the structural safety of the building (for Apartments): https://rera.karnataka.gov.in/download_jc?DOC_ID=JAkGd61tTSQErFPuI0mgQw%3D%3D",
+        "Sectional Drawing of the apartments: https://rera.karnataka.gov.in/download_jc?DOC_ID=SCRLwP7YRZ7axIBZHK6xbQ%3D%3D",
+        "Existing Layout Plan: https://rera.karnataka.gov.in/download_jc?DOC_ID=",
+        "Existing Section Plan and Specification: https://rera.karnataka.gov.in/download_jc?DOC_ID=",
+        "Change of Land Use: https://rera.karnataka.gov.in/download_jc?DOC_ID=",
+        "Advocate Search Report: https://rera.karnataka.gov.in/download_jc?DOC_ID=o3KYSbvwIKYTqH6ut7izOQ%3D%3D"
+    ]
+}' scrapped.
+[ 2025-06-13 12:04:14,801 ] 170 RERAScrapper - INFO - Declaration '{
+    "Declaration": [
+        "Declaration (Form B): https://rera.karnataka.gov.in/download_jc?DOC_ID=TqjIX0IKz8w8kC33iAOokg%3D%3D"
+    ]
+}' scrapped.
+[ 2025-06-13 12:04:14,801 ] 171 RERAScrapper - INFO - Other Documents '{
+    "Other Documents": []
+}' scrapped.
+[ 2025-06-13 12:04:14,802 ] 172 RERAScrapper - INFO - Project Photo '{
+    "Project Photo": [
+        "Project Photo Uploaded: https://rera.karnataka.gov.in/download_jc?DOC_ID=HAff6diWHZTzrZKm0ipTWA%3D%3D",
+        "Project Photo Uploaded: https://rera.karnataka.gov.in/download_jc?DOC_ID=U4xu7MkbTVhY2TCk0p7UdQ%3D%3D",
+        "Project Photo Uploaded: https://rera.karnataka.gov.in/download_jc?DOC_ID=wt5gwXcsBw6RRyw%2FNo69Lg%3D%3D"
+    ]
+}' scrapped.
+[ 2025-06-13 12:04:14,802 ] 173 RERAScrapper - INFO - Financial Document '{
+    "Balance Sheet": {
+        "2015 - 2016": {
+            "name": "2015-2016 Balance Sheet.jpg",
+            "url": "/download_jc?DOC_ID=wCFJ05jHg2bpo11E6u1YNw%3D%3D"
+        },
+        "2014 - 2015": {
+            "name": "2014- 2015 Balance Sheet.jpg",
+            "url": "/download_jc?DOC_ID=yPb86vVqGgzVM2P5Wdr2SA%3D%3D"
+        },
+        "2013 - 2014": {
+            "name": "Balance Sheet 2013-2014.pdf",
+            "url": "/download_jc?DOC_ID=gVuGeRe9GgigVYE%2Fq6wOIA%3D%3D"
+        }
+    },
+    "Audited Profit and Loss Statement": {
+        "2015 - 2016": {
+            "name": "2015-2016 Audited P & L.jpg",
+            "url": "/download_jc?DOC_ID=sQZ8OHDwE7VJdEjLKp8Szg%3D%3D"
+        },
+        "2014 - 2015": {
+            "name": "2014-2015 Audited P & L.jpg",
+            "url": "/download_jc?DOC_ID=%2B6LsiWRa%2Fyj5Kxa73T4Fzw%3D%3D"
+        },
+        "2013 - 2014": {
+            "name": "Profit Loss 2013-2014.jpg",
+            "url": "/download_jc?DOC_ID=SBdkSkd5IPkPYKG20%2BeGQg%3D%3D"
+        }
+    },
+    "Director's Report": {
+        "2015 - 2016": {
+            "name": "Directors report 15-16.pdf",
+            "url": "/download_jc?DOC_ID=oo8Z44tWO7kLaV6LRmggeQ%3D%3D"
+        },
+        "2014 - 2015": {
+            "name": "DIRECTORS REPORT - 2014 - 2015.pdf",
+            "url": "/download_jc?DOC_ID=RSaw7EWFLFU8S2CyZMbiIQ%3D%3D"
+        },
+        "2013 - 2014": {
+            "name": "Director's report 2013-2014.pdf",
+            "url": "/download_jc?DOC_ID=nz%2B0yHCTg54iEdBZBLADRA%3D%3D"
+        }
+    },
+    "Cash Flow Statement": {
+        "2015 - 2016": {
+            "name": "Cash Flow Statement.pdf",
+            "url": "/download_jc?DOC_ID=mUBypf1tWxrtbo3wQ%2F0aJA%3D%3D"
+        },
+        "2014 - 2015": {
+            "name": "Cash Flow Statement.pdf",
+            "url": "/download_jc?DOC_ID=9bThZAqzlMsPO09lgzLodQ%3D%3D"
+        },
+        "2013 - 2014": {
+            "name": "Cash Flow Statement.pdf",
+            "url": "/download_jc?DOC_ID=9bThZAqzlMsPO09lgzLodQ%3D%3D"
+        }
+    },
+    "Auditor's Report": {
+        "2015 - 2016": {
+            "name": "Auditor's Report 15-16.pdf",
+            "url": "/download_jc?DOC_ID=zogq0H6B8MwajaYW8Pr4Jw%3D%3D"
+        },
+        "2014 - 2015": {
+            "name": "Auditor's Report 2014-2015.pdf",
+            "url": "/download_jc?DOC_ID=SEi1kZowDMXmlcchXp9PJQ%3D%3D"
+        },
+        "2013 - 2014": {
+            "name": "Auditor's Report 2013 - 2014.pdf",
+            "url": "/download_jc?DOC_ID=uor4D4vVg6kxwjVbJ%2FTNUA%3D%3D"
+        }
+    },
+    "Income Tax Return Acknowledgement": {
+        "2015 - 2016": {
+            "name": "ITR 2015-2016.jpg",
+            "url": "/download_jc?DOC_ID=uVgHD3WKSMYy7ENXoAwv9g%3D%3D"
+        },
+        "2014 - 2015": {
+            "name": "ITR 14-15.pdf",
+            "url": "/download_jc?DOC_ID=BeMz4jAuCkq8uDjhlqARcA%3D%3D"
+        },
+        "2013 - 2014": {
+            "name": "ITR 13-14.pdf",
+            "url": "/download_jc?DOC_ID=umFwH7GMh1xtqKbDdlZKdw%3D%3D"
+        }
+    }
+}' scrapped.

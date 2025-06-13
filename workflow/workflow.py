@@ -65,7 +65,6 @@ class RERAScrapper:
 
     def get_url(self):
         try:
-            self.initiailise_browers()
             self.driver.get(self.url)
             logger.info(f"Navigated to URL: {self.url}")
         except Exception as e:
@@ -98,7 +97,7 @@ class RERAScrapper:
     def view_project_details_table_process(self):
         try:
             home_table_json = TableScrapper.home_table_json(self.driver)
-            logger.info(f"Home table JSON extracted: {home_table_json}")
+            logger.info(f"Home table JSON extracted: home_table_json")
 
             project_details_button = WebDriverWait(self.driver, 20).until(
                 EC.presence_of_element_located((By.XPATH, "//a[@title='View Project Details']"))
@@ -115,28 +114,66 @@ class RERAScrapper:
         promoter_details=scrape_project_details.col_md("home", "Promoter", self.driver)
         authorized_signatory_details=scrape_project_details.col_md("home", "Authorized Signatory", self.driver)
 
-        project_member_details=scrape_project_details.h1("home", "Project Member", self.driver)
-        project_land_owner_details=scrape_project_details.h1("home", "Project Land Owner", self.driver)
-        rera_registration_details_with_any_details=scrape_project_details.h1("home", "RERA Registration Details with any", self.driver)
-        previous_project_details=scrape_project_details.h1("home", "Previous Project", self.driver)
+        project_member_details=scrape_project_details.h1("home", "Project Member", "Details", self.driver)
+        project_land_owner_details=scrape_project_details.h1("home", "Project Land Owner", "Details", self.driver)
+        rera_registration_details_with_any_details=scrape_project_details.h1("home", "RERA Registration Details with any", "Details", self.driver)
+        previous_project_details=scrape_project_details.h1("home", "Previous Project", "Details", self.driver)
 
-        logger.info(f"Promoter Details 'promoter_details' scrapped.")
-        logger.info(f"Authorized Signatory Detail 'authorized_signatory_details' scrapped.")
-        logger.info(f"Project Member Details 'project_member_details' scrapped.")
-        logger.info(f"Project Land Owner Details 'project_land_owner_details' scrapped.")
-        logger.info(f"RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' scrapped.")
-        logger.info(f"Previous Project Details (Last 5 years only) 'previous_project_details' scrapped.")
+        # logger.info(f"Promoter Details '{promoter_details}' scrapped.")
+        # logger.info(f"Authorized Signatory Detail '{authorized_signatory_details}' scrapped.")
+        # logger.info(f"Project Member Details '{project_member_details}' scrapped.")
+        # logger.info(f"Project Land Owner Details '{project_land_owner_details}' scrapped.")
+        # logger.info(f"RERA Registration Details with any other State/UTs '{rera_registration_details_with_any_details}' scrapped.")
+        # logger.info(f"Previous Project Details (Last 5 years only) '{previous_project_details}' scrapped.")
 
+        time.sleep(2)
 
+        # =============================================== Project Details =============================================== #
 
-        promoter_details=scrape_project_details.col_md("menu1", "Promoter", self.driver)
+        project_details_page = WebDriverWait(self.driver, 20).until(EC.presence_of_element_located((By.XPATH,"//a[normalize-space()='Project Details']")))
+        project_details_page.click()
+        logger.info(f"Project Details page clicked.")
+
+        project_details=scrape_project_details.col_md("menu1", "Project", self.driver, "Project Details")
+        development_details=scrape_project_details.h1("menu1", "Development", "Details", self.driver)
+        external_development_work=scrape_project_details.h1("menu1", "External Development", "Work", self.driver)
+        other_external_development_work=scrape_project_details.h1("menu1", "Other External Development", "Work", self.driver)
+        project_bank_details=scrape_project_details.h1("menu1", "Project Bank ( Escrow Account )", "Details", self.driver)
+        project_agents=scrape_project_details.h1("menu1", "Project", "Agents", self.driver)
+
+        project_detail_table=TableScrapper.project_detial_table_json_creator(self.driver)
+
+        logger.info(f"Project Details 'project_details' scrapped.")
+        logger.info(f"Development Details 'development_details' scrapped.")
+        logger.info(f"External Development Work 'external_development_work' scrapped.")
+        logger.info(f"Other External Development Work 'other_external_development_work' scrapped.")
+        logger.info(f"Project Bank ( Escrow Account ) Details 'project_bank_details' scrapped.")
+        logger.info(f"Project Agents 'project_agents' scrapped.")
+        # logger.info(f"Project Detail Table '{project_detail_table}' scrapped.")
+
+        # =============================================== Uploaded Documents =============================================== #
+
+        project_details_page = WebDriverWait(self.driver, 20).until(EC.presence_of_element_located((By.XPATH,"//a[normalize-space()='Uploaded Documents']")))
+        project_details_page.click()
+        logger.info(f"Uploaded Documents page clicked.")
+        time.sleep(2)
+
+        project_documents=scrape_project_details.uploaded_doc_extractor("Project", "Documents", self.driver)
+        project_approval=scrape_project_details.uploaded_doc_extractor("Project", "Approval", self.driver)
+        declaration=scrape_project_details.uploaded_doc_extractor("Declaration", "", self.driver)
+        other_documents=scrape_project_details.uploaded_doc_extractor("Other Documents", "", self.driver)
+        project_photo=scrape_project_details.uploaded_doc_extractor("Project", "Photo", self.driver)
         
-        # print(promoter_details)
-        # print(authorized_signatory_details)
-        # print(project_member_details)
-        # print(project_land_owner_details)
-        # print(rera_registration_details_with_any_details)
-        # print(previous_project_details)
+        financial_document=TableScrapper.financial_document_json_creator(self.driver)
+
+        logger.info(f"Project Documents 'project_documents' scrapped.")
+        logger.info(f"Project Approval 'project_approval' scrapped.")
+        logger.info(f"Declaration 'declaration' scrapped.")
+        logger.info(f"Other Documents 'other_documents' scrapped.")
+        logger.info(f"Project Photo 'project_photo' scrapped.")
+        logger.info(f"Financial Document 'financial_document' scrapped.")
+
+
 
         time.sleep(60)
 
@@ -149,6 +186,7 @@ class RERAScrapper:
 
 def main():
     scrapper = RERAScrapper()
+    scrapper.initiailise_browers()
     scrapper.get_url()
     scrapper.city_selection()
     scrapper.view_project_details_table_process()

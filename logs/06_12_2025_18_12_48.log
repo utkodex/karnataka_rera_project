@@ -1,0 +1,29 @@
+[ 2025-06-12 18:12:51,041 ] 346 undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Utkarsh\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+[ 2025-06-12 18:12:51,678 ] 61 RERAScrapper - INFO - Browser initialized successfully.
+[ 2025-06-12 18:14:21,542 ] 69 RERAScrapper - INFO - Navigated to URL: https://rera.karnataka.gov.in/viewAllProjects
+[ 2025-06-12 18:14:22,732 ] 82 RERAScrapper - INFO - City 'Vijayapura' selected from dropdown.
+[ 2025-06-12 18:14:53,234 ] 107 RERAScrapper - ERROR - Project details table process timed out: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x5e3783+63299]
+	GetHandleVerifier [0x0x5e37c4+63364]
+	(No symbol) [0x0x411113]
+	(No symbol) [0x0x45987e]
+	(No symbol) [0x0x459c1b]
+	(No symbol) [0x0x4a2212]
+	(No symbol) [0x0x47e5c4]
+	(No symbol) [0x0x49fa4a]
+	(No symbol) [0x0x47e376]
+	(No symbol) [0x0x44d6e0]
+	(No symbol) [0x0x44e544]
+	GetHandleVerifier [0x0x83e073+2531379]
+	GetHandleVerifier [0x0x839372+2511666]
+	GetHandleVerifier [0x0x609efa+220858]
+	GetHandleVerifier [0x0x5fa548+156936]
+	GetHandleVerifier [0x0x600c7d+183357]
+	GetHandleVerifier [0x0x5eb6e8+95912]
+	GetHandleVerifier [0x0x5eb890+96336]
+	GetHandleVerifier [0x0x5d666a+9770]
+	BaseThreadInitThunk [0x0x760dfcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x779382ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x7793827e+238]
+

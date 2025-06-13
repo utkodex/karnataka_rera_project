@@ -1,0 +1,3 @@
+[ 2025-06-12 14:10:25,556 ] 346 undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Utkarsh\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+[ 2025-06-12 14:10:26,186 ] 61 RERAScrapper - INFO - Browser initialized successfully.
+[ 2025-06-12 14:10:39,879 ] 72 RERAScrapper - ERROR - Failed to navigate to URL: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
