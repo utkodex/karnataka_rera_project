@@ -117,7 +117,7 @@ class scrape_project_details:
 
         row_xpath = "./following-sibling::div[@class='row'][@style='font-size: 13px;']//div"
         rows = h1_elements.find_elements(By.XPATH, row_xpath)
-        print(len(rows))
+        # print(len(rows))
 
         extracted_data = []
         
@@ -154,9 +154,64 @@ class scrape_project_details:
         }
 
         formatted_json = json.dumps(json_data, indent=4)
-        print(formatted_json)
+        # print(formatted_json)
 
         # Optionally, return the JSON data for further processing
         return formatted_json
 
 
+    def completion_details(text1, text2, driver):
+        project_details = WebDriverWait(driver, 20).until(
+                EC.presence_of_element_located((By.XPATH, "//div[@id='completion']"))
+            )
+        
+        h1_elements = project_details.find_element(By.XPATH, f"//h1[contains(., '{text1}') and contains(., '{text2}')]")
+        heading_one=h1_elements.text
+
+        h2_elements = project_details.find_element(By.XPATH, f"//span[contains(normalize-space(), 'Promoter has Applied')]")
+        heading_two = h2_elements.text
+
+        row_xpath = "./following-sibling::div[@class='row'][@style='font-size: 13px;']//div"
+        rows = h1_elements.find_elements(By.XPATH, row_xpath)
+
+        extracted_data= []
+
+        # Print the text of each row
+        for i in range(1, len(rows), 2):
+
+            try:
+                heading_xpath = f"({row_xpath})[{i}]"
+                content_xpath = f"({row_xpath})[{i+1}]"
+
+                heading_element = h1_elements.find_element(By.XPATH, heading_xpath)
+                content_element = h1_elements.find_element(By.XPATH, content_xpath)
+
+                heading = heading_element.text.strip().replace(":", "")
+                content = content_element.text.strip()
+
+                link_element = content_element.find_elements(By.TAG_NAME, "a")
+                if link_element:
+                    content = link_element[0].get_attribute("href")
+                else:
+                    content = content_element.text.strip()
+
+                if not heading:
+                    print(f"Skipped empty element at index {i-1}, {i}")
+                    continue
+
+                # Append formatted string to the list
+                extracted_data.append(f"{heading}: {content}")
+                
+            except Exception as e:
+                print(f"Error processing index {i-1}, {i}: {e}")
+
+
+        json_data = {
+            heading_one: {
+                heading_two: extracted_data
+            }
+        }
+
+        formatted_json = json.dumps(json_data, indent=4)
+
+        return formatted_json

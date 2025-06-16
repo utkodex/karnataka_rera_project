@@ -1,0 +1,27 @@
+[ 2025-06-16 18:07:52,803 ] 61 RERAScrapper - INFO - Browser initialized successfully.
+[ 2025-06-16 18:07:56,894 ] 69 RERAScrapper - INFO - Navigated to URL: https://rera.karnataka.gov.in/viewAllProjects
+[ 2025-06-16 18:07:57,055 ] 82 RERAScrapper - INFO - City 'Vijayapura' selected from dropdown.
+[ 2025-06-16 18:08:11,371 ] 100 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-16 18:08:14,445 ] 123 RERAScrapper - INFO - Promoter Details 'promoter_details' scrapped.
+[ 2025-06-16 18:08:14,445 ] 124 RERAScrapper - INFO - Authorized Signatory Detail 'authorized_signatory_details' scrapped.
+[ 2025-06-16 18:08:14,445 ] 125 RERAScrapper - INFO - Project Member Details 'project_member_details' scrapped.
+[ 2025-06-16 18:08:14,445 ] 126 RERAScrapper - INFO - Project Land Owner Details 'project_land_owner_details' scrapped.
+[ 2025-06-16 18:08:14,445 ] 127 RERAScrapper - INFO - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' scrapped.
+[ 2025-06-16 18:08:14,446 ] 128 RERAScrapper - INFO - Previous Project Details (Last 5 years only) 'previous_project_details' scrapped.
+[ 2025-06-16 18:08:16,481 ] 137 RERAScrapper - INFO - Project Details page clicked.
+[ 2025-06-16 18:08:17,961 ] 151 RERAScrapper - INFO - Project Details 'project_details' scrapped.
+[ 2025-06-16 18:08:17,961 ] 152 RERAScrapper - INFO - Development Details 'development_details' scrapped.
+[ 2025-06-16 18:08:17,961 ] 153 RERAScrapper - INFO - External Development Work 'external_development_work' scrapped.
+[ 2025-06-16 18:08:17,961 ] 154 RERAScrapper - INFO - Other External Development Work 'other_external_development_work' scrapped.
+[ 2025-06-16 18:08:17,961 ] 155 RERAScrapper - INFO - Project Bank ( Escrow Account ) Details 'project_bank_details' scrapped.
+[ 2025-06-16 18:08:17,961 ] 156 RERAScrapper - INFO - Project Agents 'project_agents' scrapped.
+[ 2025-06-16 18:08:17,962 ] 157 RERAScrapper - INFO - Project Detail Table 'project_detail_table' scrapped.
+[ 2025-06-16 18:08:17,997 ] 164 RERAScrapper - INFO - Uploaded Documents page clicked.
+[ 2025-06-16 18:08:21,923 ] 179 RERAScrapper - INFO - Project Documents 'project_documents' scrapped.
+[ 2025-06-16 18:08:21,923 ] 180 RERAScrapper - INFO - Project Approval 'project_approval' scrapped.
+[ 2025-06-16 18:08:21,923 ] 181 RERAScrapper - INFO - Declaration 'declaration' scrapped.
+[ 2025-06-16 18:08:21,924 ] 182 RERAScrapper - INFO - Other Documents 'other_documents' scrapped.
+[ 2025-06-16 18:08:21,924 ] 183 RERAScrapper - INFO - Project Photo 'project_photo' scrapped.
+[ 2025-06-16 18:08:21,924 ] 184 RERAScrapper - INFO - Financial Document 'financial_document' scrapped.
+[ 2025-06-16 18:08:21,956 ] 193 RERAScrapper - INFO - Completion Details page clicked.
+[ 2025-06-16 18:08:23,972 ] 209 RERAScrapper - ERROR - An error occurred in scrape_project_details: local variable 'h1_elements' referenced before assignment

@@ -111,68 +111,106 @@ class RERAScrapper:
             raise SeleniumBotException(e, sys)
         
     def scrape_project_details(self):
-        promoter_details=scrape_project_details.col_md("home", "Promoter", self.driver)
-        authorized_signatory_details=scrape_project_details.col_md("home", "Authorized Signatory", self.driver)
+        try:
+            promoter_details=scrape_project_details.col_md("home", "Promoter", self.driver)
+            authorized_signatory_details=scrape_project_details.col_md("home", "Authorized Signatory", self.driver)
 
-        project_member_details=scrape_project_details.h1("home", "Project Member", "Details", self.driver)
-        project_land_owner_details=scrape_project_details.h1("home", "Project Land Owner", "Details", self.driver)
-        rera_registration_details_with_any_details=scrape_project_details.h1("home", "RERA Registration Details with any", "Details", self.driver)
-        previous_project_details=scrape_project_details.h1("home", "Previous Project", "Details", self.driver)
+            project_member_details=scrape_project_details.h1("home", "Project Member", "Details", self.driver)
+            project_land_owner_details=scrape_project_details.h1("home", "Project Land Owner", "Details", self.driver)
+            rera_registration_details_with_any_details=scrape_project_details.h1("home", "RERA Registration Details with any", "Details", self.driver)
+            previous_project_details=scrape_project_details.h1("home", "Previous Project", "Details", self.driver)
 
-        # logger.info(f"Promoter Details '{promoter_details}' scrapped.")
-        # logger.info(f"Authorized Signatory Detail '{authorized_signatory_details}' scrapped.")
-        # logger.info(f"Project Member Details '{project_member_details}' scrapped.")
-        # logger.info(f"Project Land Owner Details '{project_land_owner_details}' scrapped.")
-        # logger.info(f"RERA Registration Details with any other State/UTs '{rera_registration_details_with_any_details}' scrapped.")
-        # logger.info(f"Previous Project Details (Last 5 years only) '{previous_project_details}' scrapped.")
+            logger.info(f"Promoter Details 'promoter_details' scrapped.")
+            logger.info(f"Authorized Signatory Detail 'authorized_signatory_details' scrapped.")
+            logger.info(f"Project Member Details 'project_member_details' scrapped.")
+            logger.info(f"Project Land Owner Details 'project_land_owner_details' scrapped.")
+            logger.info(f"RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' scrapped.")
+            logger.info(f"Previous Project Details (Last 5 years only) 'previous_project_details' scrapped.")
 
-        time.sleep(2)
+            time.sleep(2)
 
-        # =============================================== Project Details =============================================== #
+            # =============================================== Project Details =============================================== #
 
-        project_details_page = WebDriverWait(self.driver, 20).until(EC.presence_of_element_located((By.XPATH,"//a[normalize-space()='Project Details']")))
-        project_details_page.click()
-        logger.info(f"Project Details page clicked.")
+            try:
+                project_details_page = WebDriverWait(self.driver, 20).until(EC.presence_of_element_located((By.XPATH,"//a[normalize-space()='Project Details']")))
+                project_details_page.click()
+                logger.info(f"Project Details page clicked.")
+            except TimeoutException as te:
+                logger.error(f"Timed out waiting for Project Details page: {te}")
+                raise SeleniumBotException(te, sys)
 
-        project_details=scrape_project_details.col_md("menu1", "Project", self.driver, "Project Details")
-        development_details=scrape_project_details.h1("menu1", "Development", "Details", self.driver)
-        external_development_work=scrape_project_details.h1("menu1", "External Development", "Work", self.driver)
-        other_external_development_work=scrape_project_details.h1("menu1", "Other External Development", "Work", self.driver)
-        project_bank_details=scrape_project_details.h1("menu1", "Project Bank ( Escrow Account )", "Details", self.driver)
-        project_agents=scrape_project_details.h1("menu1", "Project", "Agents", self.driver)
+            project_details=scrape_project_details.col_md("menu1", "Project", self.driver, "Project Details")
+            development_details=scrape_project_details.h1("menu1", "Development", "Details", self.driver)
+            external_development_work=scrape_project_details.h1("menu1", "External Development", "Work", self.driver)
+            other_external_development_work=scrape_project_details.h1("menu1", "Other External Development", "Work", self.driver)
+            project_bank_details=scrape_project_details.h1("menu1", "Project Bank ( Escrow Account )", "Details", self.driver)
+            project_agents=scrape_project_details.h1("menu1", "Project", "Agents", self.driver)
 
-        project_detail_table=TableScrapper.project_detial_table_json_creator(self.driver)
+            project_detail_table=TableScrapper.project_detial_table_json_creator(self.driver)
 
-        logger.info(f"Project Details 'project_details' scrapped.")
-        logger.info(f"Development Details 'development_details' scrapped.")
-        logger.info(f"External Development Work 'external_development_work' scrapped.")
-        logger.info(f"Other External Development Work 'other_external_development_work' scrapped.")
-        logger.info(f"Project Bank ( Escrow Account ) Details 'project_bank_details' scrapped.")
-        logger.info(f"Project Agents 'project_agents' scrapped.")
-        # logger.info(f"Project Detail Table '{project_detail_table}' scrapped.")
+            logger.info(f"Project Details 'project_details' scrapped.")
+            logger.info(f"Development Details 'development_details' scrapped.")
+            logger.info(f"External Development Work 'external_development_work' scrapped.")
+            logger.info(f"Other External Development Work 'other_external_development_work' scrapped.")
+            logger.info(f"Project Bank ( Escrow Account ) Details 'project_bank_details' scrapped.")
+            logger.info(f"Project Agents 'project_agents' scrapped.")
+            logger.info(f"Project Detail Table 'project_detail_table' scrapped.")
 
-        # =============================================== Uploaded Documents =============================================== #
+            # =============================================== Uploaded Documents =============================================== #
 
-        project_details_page = WebDriverWait(self.driver, 20).until(EC.presence_of_element_located((By.XPATH,"//a[normalize-space()='Uploaded Documents']")))
-        project_details_page.click()
-        logger.info(f"Uploaded Documents page clicked.")
-        time.sleep(2)
+            try:
+                project_details_page = WebDriverWait(self.driver, 20).until(EC.presence_of_element_located((By.XPATH,"//a[normalize-space()='Uploaded Documents']")))
+                project_details_page.click()
+                logger.info(f"Uploaded Documents page clicked.")
+            except TimeoutException as te:
+                logger.error(f"Timed out waiting for Uploaded Documents page: {te}")
+                raise SeleniumBotException(te, sys)
+            
+            time.sleep(2)
 
-        project_documents=scrape_project_details.uploaded_doc_extractor("Project", "Documents", self.driver)
-        project_approval=scrape_project_details.uploaded_doc_extractor("Project", "Approval", self.driver)
-        declaration=scrape_project_details.uploaded_doc_extractor("Declaration", "", self.driver)
-        other_documents=scrape_project_details.uploaded_doc_extractor("Other Documents", "", self.driver)
-        project_photo=scrape_project_details.uploaded_doc_extractor("Project", "Photo", self.driver)
-        
-        financial_document=TableScrapper.financial_document_json_creator(self.driver)
+            project_documents=scrape_project_details.uploaded_doc_extractor("Project", "Documents", self.driver)
+            project_approval=scrape_project_details.uploaded_doc_extractor("Project", "Approval", self.driver)
+            declaration=scrape_project_details.uploaded_doc_extractor("Declaration", "", self.driver)
+            other_documents=scrape_project_details.uploaded_doc_extractor("Other Documents", "", self.driver)
+            project_photo=scrape_project_details.uploaded_doc_extractor("Project", "Photo", self.driver)
+            
+            financial_document=TableScrapper.financial_document_json_creator(self.driver)
 
-        logger.info(f"Project Documents 'project_documents' scrapped.")
-        logger.info(f"Project Approval 'project_approval' scrapped.")
-        logger.info(f"Declaration 'declaration' scrapped.")
-        logger.info(f"Other Documents 'other_documents' scrapped.")
-        logger.info(f"Project Photo 'project_photo' scrapped.")
-        logger.info(f"Financial Document 'financial_document' scrapped.")
+            logger.info(f"Project Documents 'project_documents' scrapped.")
+            logger.info(f"Project Approval 'project_approval' scrapped.")
+            logger.info(f"Declaration 'declaration' scrapped.")
+            logger.info(f"Other Documents 'other_documents' scrapped.")
+            logger.info(f"Project Photo 'project_photo' scrapped.")
+            logger.info(f"Financial Document 'financial_document' scrapped.")
 
+            # =============================================== Completion Details =============================================== #
+
+            try:
+                project_details_page = WebDriverWait(self.driver, 20).until(
+                    EC.presence_of_element_located((By.XPATH, "//a[normalize-space()='Completion Details']"))
+                )
+                project_details_page.click()
+                logger.info(f"Completion Details page clicked.")
+            except TimeoutException as te:
+                logger.error(f"Timed out waiting for Completion Details page: {te}")
+                raise SeleniumBotException(te, sys)
+            
+            time.sleep(2)
+
+            # project_documents=scrape_project_details.h1("Completion", "Details", self.driver, "checking")
+            completion_details=scrape_project_details.completion_details("Completion", "Details", self.driver)
+
+            logger.info(f"Project Documents '{completion_details}' scrapped.")
+
+        except TimeoutException as te:
+            logger.error(f"Timeout occurred in scrape_project_details: {te}")
+            raise SeleniumBotException(te, sys)
+        except NoSuchElementException as ne:
+            logger.error(f"Element not found in scrape_project_details: {ne}")
+            raise SeleniumBotException(ne, sys)
+        except Exception as e:
+            logger.error(f"An error occurred in scrape_project_details: {e}")
+            raise SeleniumBotException(e, sys)
 
 
         time.sleep(60)
