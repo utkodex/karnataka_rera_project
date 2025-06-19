@@ -1,0 +1,5 @@
+[ 2025-06-19 14:42:48,401 ] 62 RERAScrapper - INFO - Browser initialized successfully.
+[ 2025-06-19 14:42:56,842 ] 70 RERAScrapper - INFO - Navigated to URL: https://rera.karnataka.gov.in/viewAllProjects
+[ 2025-06-19 14:42:57,016 ] 83 RERAScrapper - INFO - City 'Vijayapura' selected from dropdown.
+[ 2025-06-19 14:43:08,500 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-19 14:43:29,299 ] 214 RERAScrapper - ERROR - An error occurred in scrape_project_details: local variable 'h1_elements' referenced before assignment

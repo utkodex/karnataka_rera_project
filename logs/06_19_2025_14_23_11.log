@@ -1,0 +1,3 @@
+[ 2025-06-19 14:23:12,570 ] 62 RERAScrapper - INFO - Browser initialized successfully.
+[ 2025-06-19 14:23:19,432 ] 70 RERAScrapper - INFO - Navigated to URL: https://rera.karnataka.gov.in/viewAllProjects
+[ 2025-06-19 14:23:19,597 ] 83 RERAScrapper - INFO - City 'Vijayapura' selected from dropdown.

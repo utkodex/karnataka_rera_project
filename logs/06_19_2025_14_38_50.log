@@ -1,0 +1,45 @@
+[ 2025-06-19 14:38:51,157 ] 62 RERAScrapper - INFO - Browser initialized successfully.
+[ 2025-06-19 14:38:58,341 ] 70 RERAScrapper - INFO - Navigated to URL: https://rera.karnataka.gov.in/viewAllProjects
+[ 2025-06-19 14:38:58,528 ] 83 RERAScrapper - INFO - City 'Vijayapura' selected from dropdown.
+[ 2025-06-19 14:39:14,114 ] 101 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-19 14:39:17,251 ] 124 RERAScrapper - INFO - Promoter Details 'promoter_details' scrapped.
+[ 2025-06-19 14:39:17,251 ] 125 RERAScrapper - INFO - Authorized Signatory Detail 'authorized_signatory_details' scrapped.
+[ 2025-06-19 14:39:17,251 ] 126 RERAScrapper - INFO - Project Member Details 'project_member_details' scrapped.
+[ 2025-06-19 14:39:17,252 ] 127 RERAScrapper - INFO - Project Land Owner Details 'project_land_owner_details' scrapped.
+[ 2025-06-19 14:39:17,252 ] 128 RERAScrapper - INFO - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' scrapped.
+[ 2025-06-19 14:39:17,252 ] 129 RERAScrapper - INFO - Previous Project Details (Last 5 years only) 'previous_project_details' scrapped.
+[ 2025-06-19 14:39:19,294 ] 138 RERAScrapper - INFO - Project Details page clicked.
+[ 2025-06-19 14:39:20,836 ] 152 RERAScrapper - INFO - Project Details 'project_details' scrapped.
+[ 2025-06-19 14:39:20,836 ] 153 RERAScrapper - INFO - Development Details 'development_details' scrapped.
+[ 2025-06-19 14:39:20,836 ] 154 RERAScrapper - INFO - External Development Work 'external_development_work' scrapped.
+[ 2025-06-19 14:39:20,836 ] 155 RERAScrapper - INFO - Other External Development Work 'other_external_development_work' scrapped.
+[ 2025-06-19 14:39:20,836 ] 156 RERAScrapper - INFO - Project Bank ( Escrow Account ) Details 'project_bank_details' scrapped.
+[ 2025-06-19 14:39:20,836 ] 157 RERAScrapper - INFO - Project Agents 'project_agents' scrapped.
+[ 2025-06-19 14:39:20,836 ] 158 RERAScrapper - INFO - Project Detail Table 'project_detail_table' scrapped.
+[ 2025-06-19 14:39:20,871 ] 165 RERAScrapper - INFO - Uploaded Documents page clicked.
+[ 2025-06-19 14:39:24,922 ] 180 RERAScrapper - INFO - Project Documents 'project_documents' scrapped.
+[ 2025-06-19 14:39:24,922 ] 181 RERAScrapper - INFO - Project Approval 'project_approval' scrapped.
+[ 2025-06-19 14:39:24,923 ] 182 RERAScrapper - INFO - Declaration 'declaration' scrapped.
+[ 2025-06-19 14:39:24,923 ] 183 RERAScrapper - INFO - Other Documents 'other_documents' scrapped.
+[ 2025-06-19 14:39:24,923 ] 184 RERAScrapper - INFO - Project Photo 'project_photo' scrapped.
+[ 2025-06-19 14:39:24,923 ] 185 RERAScrapper - INFO - Financial Document 'financial_document' scrapped.
+[ 2025-06-19 14:39:24,957 ] 194 RERAScrapper - INFO - Completion Details page clicked.
+[ 2025-06-19 14:39:27,585 ] 204 RERAScrapper - INFO - Completion Details '{
+    "Completion Details": {
+        "Promoter has Applied for Completion on 14/11/2018": [
+            "Name : Occupancy Certificate",
+            "Approval Date: 13-07-2018",
+            "Document: https://rera.karnataka.gov.in/download_jc?DOC_ID=mMug6EgIH9MIGIlUs38Dtg%3D%3D",
+            "Name : Completion certificate",
+            "Approval Date: 13-07-2018",
+            "Document: https://rera.karnataka.gov.in/download_jc?DOC_ID=J0R%2BSWcaZJ3erqmGWUsrdw%3D%3D",
+            "Name : Registered Agreement of Sale",
+            "Approval Date: 13-08-2018",
+            "Document: https://rera.karnataka.gov.in/download_jc?DOC_ID=JeUNLceuZtd6J1izyRpbzg%3D%3D",
+            "Name : Registered conveyance deed for an individual unit",
+            "Approval Date: 13-07-2018",
+            "Document: https://rera.karnataka.gov.in/download_jc?DOC_ID=ibgAe%2F76BT5z1W00B1yZcQ%3D%3D"
+        ]
+    }
+}' scrapped.
+[ 2025-06-19 14:39:31,750 ] 83 RERAScrapper - INFO - City 'Vijayapura' selected from dropdown.

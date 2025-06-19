@@ -29,12 +29,13 @@ from scrapper.table_scrapper import *
 from scrapper.project_details_scrapper import *
 from exception.exceptions import SeleniumBotException
 from custom_logging.my_logger import logger
+from utils.utita_tools import SimpleTools
 
 class RERAScrapper:
 
     def __init__(self):
         self.url="https://rera.karnataka.gov.in/viewAllProjects"
-        self.city="Vijayapura"
+        self.city="Kolar"
         self.driver=None
 
     def initiailise_browers(self):
@@ -84,9 +85,10 @@ class RERAScrapper:
             search_button = WebDriverWait(self.driver, 20).until(
                 EC.presence_of_element_located((By.XPATH, "//input[@name='btn1']"))
             )
-            time.sleep(5)
+            time.sleep(1)
             search_button.click()
-            time.sleep(5)
+            logger.info(f"Select Button Clicked.")
+            time.sleep(1)
         except TimeoutException as te:
             logger.error(f"City selection timed out: {te}")
             raise SeleniumBotException(te, sys)
@@ -94,13 +96,16 @@ class RERAScrapper:
             logger.error(f"Error during city selection: {e}")
             raise SeleniumBotException(e, sys)
 
-    def view_project_details_table_process(self):
+    def view_project_details_table_process(self, i):
         try:
             home_table_json = TableScrapper.home_table_json(self.driver)
             logger.info(f"Home table JSON extracted: home_table_json")
 
+            # project_details_button = WebDriverWait(self.driver, 20).until(
+            #     EC.presence_of_element_located((By.XPATH, "//a[@title='View Project Details']"))
+            # )
             project_details_button = WebDriverWait(self.driver, 20).until(
-                EC.presence_of_element_located((By.XPATH, "//a[@title='View Project Details']"))
+                EC.presence_of_element_located((By.XPATH, f"//tbody/tr[{i}]/td[4]"))
             )
             project_details_button.click()
         except TimeoutException as te:
@@ -137,83 +142,167 @@ class RERAScrapper:
                 logger.info(f"Project Details page clicked.")
             except TimeoutException as te:
                 logger.error(f"Timed out waiting for Project Details page: {te}")
-                raise SeleniumBotException(te, sys)
+                # raise SeleniumBotException(te, sys)
 
-            project_details=scrape_project_details.col_md("menu1", "Project", self.driver, "Project Details")
-            development_details=scrape_project_details.h1("menu1", "Development", "Details", self.driver)
-            external_development_work=scrape_project_details.h1("menu1", "External Development", "Work", self.driver)
-            other_external_development_work=scrape_project_details.h1("menu1", "Other External Development", "Work", self.driver)
-            project_bank_details=scrape_project_details.h1("menu1", "Project Bank ( Escrow Account )", "Details", self.driver)
-            project_agents=scrape_project_details.h1("menu1", "Project", "Agents", self.driver)
+            if project_details_page:
+                project_details=scrape_project_details.col_md("menu1", "Project", self.driver, "Project Details")
+                development_details=scrape_project_details.h1("menu1", "Development", "Details", self.driver)
+                external_development_work=scrape_project_details.h1("menu1", "External Development", "Work", self.driver)
+                other_external_development_work=scrape_project_details.h1("menu1", "Other External Development", "Work", self.driver)
+                project_bank_details=scrape_project_details.h1("menu1", "Project Bank ( Escrow Account )", "Details", self.driver)
+                project_agents=scrape_project_details.h1("menu1", "Project", "Agents", self.driver)
 
-            project_detail_table=TableScrapper.project_detial_table_json_creator(self.driver)
+                project_detail_table=TableScrapper.project_detial_table_json_creator(self.driver)
 
-            logger.info(f"Project Details 'project_details' scrapped.")
-            logger.info(f"Development Details 'development_details' scrapped.")
-            logger.info(f"External Development Work 'external_development_work' scrapped.")
-            logger.info(f"Other External Development Work 'other_external_development_work' scrapped.")
-            logger.info(f"Project Bank ( Escrow Account ) Details 'project_bank_details' scrapped.")
-            logger.info(f"Project Agents 'project_agents' scrapped.")
-            logger.info(f"Project Detail Table 'project_detail_table' scrapped.")
+                logger.info(f"Project Details 'project_details' scrapped.")
+                logger.info(f"Development Details 'development_details' scrapped.")
+                logger.info(f"External Development Work 'external_development_work' scrapped.")
+                logger.info(f"Other External Development Work 'other_external_development_work' scrapped.")
+                logger.info(f"Project Bank ( Escrow Account ) Details 'project_bank_details' scrapped.")
+                logger.info(f"Project Agents 'project_agents' scrapped.")
+                logger.info(f"Project Detail Table 'project_detail_table' scrapped.")
 
             # =============================================== Uploaded Documents =============================================== #
 
             try:
-                project_details_page = WebDriverWait(self.driver, 20).until(EC.presence_of_element_located((By.XPATH,"//a[normalize-space()='Uploaded Documents']")))
-                project_details_page.click()
+                uploaded_documents_page = WebDriverWait(self.driver, 20).until(EC.presence_of_element_located((By.XPATH,"//a[normalize-space()='Uploaded Documents']")))
+                uploaded_documents_page.click()
                 logger.info(f"Uploaded Documents page clicked.")
             except TimeoutException as te:
                 logger.error(f"Timed out waiting for Uploaded Documents page: {te}")
-                raise SeleniumBotException(te, sys)
-            
-            time.sleep(2)
+                # raise SeleniumBotException(te, sys)
 
-            project_documents=scrape_project_details.uploaded_doc_extractor("Project", "Documents", self.driver)
-            project_approval=scrape_project_details.uploaded_doc_extractor("Project", "Approval", self.driver)
-            declaration=scrape_project_details.uploaded_doc_extractor("Declaration", "", self.driver)
-            other_documents=scrape_project_details.uploaded_doc_extractor("Other Documents", "", self.driver)
-            project_photo=scrape_project_details.uploaded_doc_extractor("Project", "Photo", self.driver)
-            
-            financial_document=TableScrapper.financial_document_json_creator(self.driver)
+            if uploaded_documents_page:    
+                project_documents=scrape_project_details.uploaded_doc_extractor("Project", "Documents", self.driver)
+                project_approval=scrape_project_details.uploaded_doc_extractor("Project", "Approval", self.driver)
+                declaration=scrape_project_details.uploaded_doc_extractor("Declaration", "", self.driver)
+                other_documents=scrape_project_details.uploaded_doc_extractor("Other Documents", "", self.driver)
+                project_photo=scrape_project_details.uploaded_doc_extractor("Project", "Photo", self.driver)
+                
+                financial_document=TableScrapper.financial_document_json_creator(self.driver)
 
-            logger.info(f"Project Documents 'project_documents' scrapped.")
-            logger.info(f"Project Approval 'project_approval' scrapped.")
-            logger.info(f"Declaration 'declaration' scrapped.")
-            logger.info(f"Other Documents 'other_documents' scrapped.")
-            logger.info(f"Project Photo 'project_photo' scrapped.")
-            logger.info(f"Financial Document 'financial_document' scrapped.")
+                logger.info(f"Project Documents 'project_documents' scrapped.")
+                logger.info(f"Project Approval 'project_approval' scrapped.")
+                logger.info(f"Declaration 'declaration' scrapped.")
+                logger.info(f"Other Documents 'other_documents' scrapped.")
+                logger.info(f"Project Photo 'project_photo' scrapped.")
+                logger.info(f"Financial Document 'financial_document' scrapped.")
 
             # =============================================== Completion Details =============================================== #
 
             try:
-                project_details_page = WebDriverWait(self.driver, 20).until(
+                completion_details_page = WebDriverWait(self.driver, 20).until(
                     EC.presence_of_element_located((By.XPATH, "//a[normalize-space()='Completion Details']"))
                 )
-                project_details_page.click()
+                completion_details_page.click()
                 logger.info(f"Completion Details page clicked.")
             except TimeoutException as te:
                 logger.error(f"Timed out waiting for Completion Details page: {te}")
-                raise SeleniumBotException(te, sys)
+                # raise SeleniumBotException(te, sys)
             
-            time.sleep(2)
+            if completion_details_page:
+                completion_details=scrape_project_details.completion_details("Completion", "Details", self.driver)
 
-            # project_documents=scrape_project_details.h1("Completion", "Details", self.driver, "checking")
-            completion_details=scrape_project_details.completion_details("Completion", "Details", self.driver)
-
-            logger.info(f"Project Documents '{completion_details}' scrapped.")
+                logger.info(f"Completion Details '{completion_details}' scrapped.")
 
         except TimeoutException as te:
             logger.error(f"Timeout occurred in scrape_project_details: {te}")
-            raise SeleniumBotException(te, sys)
+            # raise SeleniumBotException(te, sys)
         except NoSuchElementException as ne:
             logger.error(f"Element not found in scrape_project_details: {ne}")
-            raise SeleniumBotException(ne, sys)
+            # raise SeleniumBotException(ne, sys)
         except Exception as e:
             logger.error(f"An error occurred in scrape_project_details: {e}")
-            raise SeleniumBotException(e, sys)
+            # raise SeleniumBotException(e, sys)
+        
+    def table_iter(self, page_num):
+
+        project_details_button = WebDriverWait(self.driver, 20).until(
+                EC.presence_of_all_elements_located((By.XPATH, f"//tbody/tr/td[4]"))
+            )
+        num_of_iter=len(project_details_button)+1
+
+        for i in range(1, num_of_iter):
+
+            self.view_project_details_table_process(i)
+
+            self.scrape_project_details()
+            
+            time.sleep(2)
+
+            try:
+                checking_project_details = WebDriverWait(self.driver, 2).until(
+                    EC.presence_of_element_located((By.XPATH, "//body/section[@id='site-content']/div[@class='pop_main']/div[@id='project_details_popup']/div[@class='modal-dialog-lg']/div[@class='modal-content']/div[@class='modal-body']/div[@id='result']/section[@id='site-content']/div[1]"))
+                )
+            except TimeoutException:
+                print(f"Row {i} not clickable. Skipping.")
+                # continue
+                checking_project_details=None
+
+            if checking_project_details:
+                print("Project Details Pages")
+                self.driver.back()
+
+                try:
+                    project_details_button = WebDriverWait(self.driver, 2).until(
+                            EC.element_to_be_clickable((By.XPATH, f"//tbody/tr[{i}]/td[4]"))
+                        )
+                except TimeoutException:
+                    print(f"table disappeared")
+                    # continue
+                    project_details_button = None
+                
+                if not project_details_button:
+
+                    self.city_selection()
+                    
+                    time.sleep(2)
+
+                # page_num=1
+                SimpleTools.page_number_finder(page_num, self.driver)
+
+                time.sleep(4)
+
+            print("-"*150)
+
+    def page_iter(self):
+
+        largest_num = SimpleTools.largest_page_number(self.driver)
+        for i in range (largest_num):
+            page_num=i+1
+
+            pages = SimpleTools.ava_page_number(self.driver)
+            second_largest=SimpleTools.second_largest_number(pages)
+            print(f"{page_num} : {second_largest}")
+
+            while page_num > second_largest:
+                print(second_largest)
+                try:
+                    next_page_button = WebDriverWait(self.driver, 20).until(EC.element_to_be_clickable((By.XPATH, f"//a[@class='paginate_button '][normalize-space(text())='{second_largest}']")))
+                    next_page_button.click()
+                    second_largest += 1
+                    time.sleep(2)
+                except TimeoutException:
+                    print("No more pages available.")
+                    break
+
+            # print(page_num)
+            if page_num > 1:
+
+                print("Page Num: ", page_num)
+                next_button_element = WebDriverWait(self.driver, 20).until(
+                    EC.presence_of_element_located((By.XPATH, f"//a[@class='paginate_button '][normalize-space(text())='{page_num}']"))
+                )
+                next_button_element.click()
+                
+                time.sleep(2)
+
+            self.table_iter(page_num)
+
+                
 
 
-        time.sleep(60)
+        
 
 
 
@@ -227,8 +316,10 @@ def main():
     scrapper.initiailise_browers()
     scrapper.get_url()
     scrapper.city_selection()
-    scrapper.view_project_details_table_process()
-    scrapper.scrape_project_details()
+    # scrapper.view_project_details_table_process()
+    # scrapper.scrape_project_details()
+    scrapper.page_iter()
+    time.sleep(20000)
 
 
 if __name__ == '__main__':
