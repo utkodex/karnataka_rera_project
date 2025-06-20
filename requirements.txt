@@ -6,6 +6,7 @@ google-auth
 bs4
 pandas
 fake_useragent
+PyYAML
 
 
 -e .
