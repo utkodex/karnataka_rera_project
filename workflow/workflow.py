@@ -35,7 +35,7 @@ class RERAScrapper:
 
     def __init__(self):
         self.url="https://rera.karnataka.gov.in/viewAllProjects"
-        self.city="Kolar"
+        self.city="Vijayapura"
         self.driver=None
 
     def initiailise_browers(self):
@@ -120,6 +120,10 @@ class RERAScrapper:
             project_details_page = None
             uploaded_documents_page = None
             completion_details_page = None
+
+            complaint_page = None
+            complaint_on_project_page = None
+
             completion_details_page = None
             
             # print(f"home_table_json", "home_table_json")
@@ -148,6 +152,9 @@ class RERAScrapper:
             other_documents=None
             project_photo=None
             financial_document=None
+            # -----------------------------------
+            promoter_table=None
+            project_table=None
             # -----------------------------------
             completion_details=None
             development_details_completion=None
@@ -291,6 +298,37 @@ class RERAScrapper:
                 except Exception as e:
                     logger.warning(f"Financial Document 'financial_document' **not** scrapped.")
 
+            # =============================================== Complaint Details =============================================== #
+
+            try:
+                complaint_page = WebDriverWait(self.driver, 2).until(EC.presence_of_element_located((By.XPATH,"//a[normalize-space()='Complaints']")))
+                complaint_page.click()
+                logger.info(f"Complaint page clicked.")
+            except TimeoutException as te:
+                logger.error(f"Timed out waiting for Complaint page: {te}")
+
+            if complaint_page:
+                try:  
+                    promoter_table=TableScrapper.complaints_scrapper("Complaints On this Promoter", self.driver)
+                    logger.info(f"Promoter Table 'promoter_table' scrapped.")
+                except Exception as e:
+                    logger.warning(f"Promoter Table 'project_table' **not** scrapped.")
+
+                time.sleep(2)
+                try: 
+                    complaint_on_project_page = WebDriverWait(self.driver, 20).until(EC.presence_of_element_located((By.XPATH,"//a[contains(normalize-space(), 'Complaints On this Project')]")))
+                    complaint_on_project_page.click()
+                    logger.info(f"Project Complaint sub-page clicked.")
+                except TimeoutException as te:
+                    logger.error(f"Timed out waiting for Project Complaint sub-page: {te}")
+
+                if complaint_on_project_page:
+                    try:  
+                        project_table=TableScrapper.complaints_scrapper("Complaints On this Project", self.driver)
+                        logger.info(f"Other Documents 'project_table' scrapped.")
+                    except Exception as e:
+                        logger.warning(f"Other Documents 'project_table' **not** scrapped.")
+
             # =============================================== Completion Details =============================================== #
 
             try:
@@ -352,8 +390,11 @@ class RERAScrapper:
                     'Other Documents': other_documents,
                     'Project Photo': project_photo,
                     'Financial Document': financial_document,
-                    'Completion Details': completion_details,
 
+                    "Promoter Table": promoter_table,
+                    "Project Table": project_table,
+
+                    'Completion Details': completion_details,
                     'Development Details': development_details_completion,
                     'Uploaded Documents': uploaded_documents,
                     'Photos Uploaded': photos_uploaded,

@@ -1,0 +1,63 @@
+[ 2025-06-25 14:32:37,805 ] 61 RERAScrapper - INFO - Browser initialized successfully.
+[ 2025-06-25 14:32:58,157 ] 69 RERAScrapper - INFO - Navigated to URL: https://rera.karnataka.gov.in/viewAllProjects
+[ 2025-06-25 14:33:04,041 ] 82 RERAScrapper - INFO - City 'Vijayapura' selected from dropdown.
+[ 2025-06-25 14:33:09,287 ] 89 RERAScrapper - INFO - Select Button Clicked.
+[ 2025-06-25 14:33:17,940 ] 101 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-25 14:33:17,973 ] 130 RERAScrapper - INFO - Home Table JSON 'home_table_json' scrapped.
+[ 2025-06-25 14:33:19,218 ] 168 RERAScrapper - INFO - Promoter Details 'promoter_details' scrapped.
+[ 2025-06-25 14:33:19,290 ] 174 RERAScrapper - INFO - Authorized Signatory Detail 'authorized_signatory_details' scrapped.
+[ 2025-06-25 14:33:21,034 ] 180 RERAScrapper - INFO - Project Member Details 'project_member_details' scrapped.
+[ 2025-06-25 14:33:21,056 ] 186 RERAScrapper - INFO - Project Land Owner Details 'project_land_owner_details' scrapped.
+[ 2025-06-25 14:33:21,077 ] 192 RERAScrapper - INFO - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' scrapped.
+[ 2025-06-25 14:33:21,098 ] 198 RERAScrapper - INFO - Previous Project Details (Last 5 years only) 'previous_project_details' scrapped.
+[ 2025-06-25 14:33:21,137 ] 207 RERAScrapper - INFO - Project Details page clicked.
+[ 2025-06-25 14:33:21,968 ] 214 RERAScrapper - INFO - Project Details 'project_details' scrapped.
+[ 2025-06-25 14:33:22,137 ] 220 RERAScrapper - INFO - Development Details 'development_details' scrapped.
+[ 2025-06-25 14:33:22,440 ] 226 RERAScrapper - INFO - External Development Work 'external_development_work' scrapped.
+[ 2025-06-25 14:33:22,465 ] 232 RERAScrapper - INFO - Other External Development Work 'other_external_development_work' scrapped.
+[ 2025-06-25 14:33:22,677 ] 238 RERAScrapper - INFO - Project Bank ( Escrow Account ) Details 'project_bank_details' scrapped.
+[ 2025-06-25 14:33:22,702 ] 244 RERAScrapper - INFO - Project Agents 'project_agents' scrapped.
+[ 2025-06-25 14:33:22,711 ] 251 RERAScrapper - INFO - Project Detail Table 'project_detail_table' scrapped.
+[ 2025-06-25 14:33:22,745 ] 260 RERAScrapper - INFO - Uploaded Documents page clicked.
+[ 2025-06-25 14:33:22,819 ] 267 RERAScrapper - INFO - Project Documents 'project_documents' scrapped.
+[ 2025-06-25 14:33:24,546 ] 273 RERAScrapper - INFO - Project Approval 'project_approval' scrapped.
+[ 2025-06-25 14:33:24,614 ] 279 RERAScrapper - INFO - Declaration 'declaration' scrapped.
+[ 2025-06-25 14:33:24,644 ] 285 RERAScrapper - INFO - Other Documents 'other_documents' scrapped.
+[ 2025-06-25 14:33:24,795 ] 291 RERAScrapper - INFO - Project Photo 'project_photo' scrapped.
+[ 2025-06-25 14:33:24,804 ] 297 RERAScrapper - INFO - Financial Document 'financial_document' scrapped.
+[ 2025-06-25 14:33:24,840 ] 306 RERAScrapper - INFO - Complaint page clicked.
+[ 2025-06-25 14:33:24,850 ] 315 RERAScrapper - WARNING - Promoter Table 'project_table' **not** scrapped.
+[ 2025-06-25 14:33:26,920 ] 328 RERAScrapper - INFO - Project Complaint sub-page clicked.
+[ 2025-06-25 14:33:26,957 ] 348 RERAScrapper - INFO - Completion Details page clicked.
+[ 2025-06-25 14:33:29,591 ] 357 RERAScrapper - INFO - Completion Details 'completion_details' scrapped.
+[ 2025-06-25 14:33:29,599 ] 365 RERAScrapper - WARNING - Development Details 'development_details_completion' **not** scrapped.
+[ 2025-06-25 14:33:29,610 ] 371 RERAScrapper - WARNING - Uploaded Documents 'uploaded_documents' **not** scrapped.
+[ 2025-06-25 14:33:29,619 ] 377 RERAScrapper - WARNING - Photos Uploaded 'photos_uploaded' **not** scrapped.
+[ 2025-06-25 14:33:34,050 ] 448 RERAScrapper - INFO - Project Details Page Detected.
+[ 2025-06-25 14:33:38,890 ] 101 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-25 14:33:38,923 ] 130 RERAScrapper - INFO - Home Table JSON 'home_table_json' scrapped.
+[ 2025-06-25 14:33:40,326 ] 168 RERAScrapper - INFO - Promoter Details 'promoter_details' scrapped.
+[ 2025-06-25 14:33:40,336 ] 176 RERAScrapper - WARNING - Authorized Signatory Detail 'authorized_signatory_details' **************not************** scrapped.
+[ 2025-06-25 14:33:40,345 ] 182 RERAScrapper - WARNING - Project Member Details 'project_member_details' **************not************** scrapped.
+[ 2025-06-25 14:33:40,374 ] 186 RERAScrapper - INFO - Project Land Owner Details 'project_land_owner_details' scrapped.
+[ 2025-06-25 14:33:40,382 ] 194 RERAScrapper - WARNING - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' **************not************** scrapped.
+[ 2025-06-25 14:33:40,409 ] 198 RERAScrapper - INFO - Previous Project Details (Last 5 years only) 'previous_project_details' scrapped.
+[ 2025-06-25 14:33:40,442 ] 207 RERAScrapper - INFO - Project Details page clicked.
+[ 2025-06-25 14:33:41,704 ] 214 RERAScrapper - INFO - Project Details 'project_details' scrapped.
+[ 2025-06-25 14:33:41,955 ] 220 RERAScrapper - INFO - Development Details 'development_details' scrapped.
+[ 2025-06-25 14:33:42,402 ] 226 RERAScrapper - INFO - External Development Work 'external_development_work' scrapped.
+[ 2025-06-25 14:33:42,432 ] 232 RERAScrapper - INFO - Other External Development Work 'other_external_development_work' scrapped.
+[ 2025-06-25 14:33:42,770 ] 238 RERAScrapper - INFO - Project Bank ( Escrow Account ) Details 'project_bank_details' scrapped.
+[ 2025-06-25 14:33:42,798 ] 244 RERAScrapper - INFO - Project Agents 'project_agents' scrapped.
+[ 2025-06-25 14:33:42,804 ] 251 RERAScrapper - INFO - Project Detail Table 'project_detail_table' scrapped.
+[ 2025-06-25 14:33:42,836 ] 260 RERAScrapper - INFO - Uploaded Documents page clicked.
+[ 2025-06-25 14:33:42,936 ] 267 RERAScrapper - INFO - Project Documents 'project_documents' scrapped.
+[ 2025-06-25 14:33:45,385 ] 273 RERAScrapper - INFO - Project Approval 'project_approval' scrapped.
+[ 2025-06-25 14:33:45,480 ] 279 RERAScrapper - INFO - Declaration 'declaration' scrapped.
+[ 2025-06-25 14:33:45,516 ] 285 RERAScrapper - INFO - Other Documents 'other_documents' scrapped.
+[ 2025-06-25 14:33:45,549 ] 291 RERAScrapper - INFO - Project Photo 'project_photo' scrapped.
+[ 2025-06-25 14:33:45,557 ] 297 RERAScrapper - INFO - Financial Document 'financial_document' scrapped.
+[ 2025-06-25 14:33:45,587 ] 306 RERAScrapper - INFO - Complaint page clicked.
+[ 2025-06-25 14:33:45,594 ] 315 RERAScrapper - WARNING - Promoter Table 'project_table' **not** scrapped.
+[ 2025-06-25 14:33:47,667 ] 328 RERAScrapper - INFO - Project Complaint sub-page clicked.
+[ 2025-06-25 14:33:47,699 ] 348 RERAScrapper - INFO - Completion Details page clicked.

@@ -124,3 +124,26 @@ class TableScrapper:
 
         json_data = {headers[i]: data[i] if i < len(data) else "" for i in range(len(headers))}
         return json.dumps(json_data, indent=4)
+    
+    def complaints_scrapper(complaint_party, driver):
+        project_details = WebDriverWait(driver, 20).until(
+                EC.presence_of_element_located((By.XPATH, "//div[@id='menu-comp']//div[@id='accordion']"))
+            )
+        html_content=project_details.get_attribute("outerHTML")
+
+        soup = BeautifulSoup(html_content, 'html.parser')
+
+        table = soup.find('table', {'id': 'complaintList'})
+
+        headers = [header.text.strip() for header in table.find_all('th')]
+
+        rows = []
+        for row in table.find('tbody').find_all('tr'):
+            cells = row.find_all('td')
+            row_data = {headers[i]: cells[i].text.strip() for i in range(len(cells))}
+            rows.append(row_data)
+
+        table_data = {complaint_party: rows}
+        json_data = json.dumps(table_data, indent=4)
+
+        return json_data
