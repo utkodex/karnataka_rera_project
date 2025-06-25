@@ -1,0 +1,2863 @@
+[ 2025-06-24 14:45:33,334 ] 346 undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Utkarsh\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+[ 2025-06-24 14:45:33,947 ] 62 RERAScrapper - INFO - Browser initialized successfully.
+[ 2025-06-24 14:45:37,451 ] 70 RERAScrapper - INFO - Navigated to URL: https://rera.karnataka.gov.in/viewAllProjects
+[ 2025-06-24 14:45:37,622 ] 83 RERAScrapper - INFO - City 'Kolar' selected from dropdown.
+[ 2025-06-24 14:45:42,691 ] 90 RERAScrapper - INFO - Select Button Clicked.
+[ 2025-06-24 14:45:43,750 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 14:45:43,781 ] 130 RERAScrapper - INFO - Home Table JSON 'home_table_json' scrapped.
+[ 2025-06-24 14:45:45,166 ] 141 RERAScrapper - INFO - Promoter Details 'promoter_details' scrapped.
+[ 2025-06-24 14:45:45,167 ] 142 RERAScrapper - INFO - Authorized Signatory Detail 'authorized_signatory_details' scrapped.
+[ 2025-06-24 14:45:45,167 ] 143 RERAScrapper - INFO - Project Member Details 'project_member_details' scrapped.
+[ 2025-06-24 14:45:45,167 ] 144 RERAScrapper - INFO - Project Land Owner Details 'project_land_owner_details' scrapped.
+[ 2025-06-24 14:45:45,167 ] 145 RERAScrapper - INFO - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' scrapped.
+[ 2025-06-24 14:45:45,167 ] 146 RERAScrapper - INFO - Previous Project Details (Last 5 years only) 'previous_project_details' scrapped.
+[ 2025-06-24 14:45:47,217 ] 172 RERAScrapper - INFO - Project Details page clicked.
+[ 2025-06-24 14:45:48,220 ] 188 RERAScrapper - INFO - Project Details 'project_details' scrapped.
+[ 2025-06-24 14:45:48,220 ] 189 RERAScrapper - INFO - Development Details 'development_details' scrapped.
+[ 2025-06-24 14:45:48,220 ] 190 RERAScrapper - INFO - External Development Work 'external_development_work' scrapped.
+[ 2025-06-24 14:45:48,220 ] 191 RERAScrapper - INFO - Other External Development Work 'other_external_development_work' scrapped.
+[ 2025-06-24 14:45:48,221 ] 192 RERAScrapper - INFO - Project Bank ( Escrow Account ) Details 'project_bank_details' scrapped.
+[ 2025-06-24 14:45:48,221 ] 193 RERAScrapper - INFO - Project Agents 'project_agents' scrapped.
+[ 2025-06-24 14:45:48,221 ] 194 RERAScrapper - INFO - Project Detail Table 'project_detail_table' scrapped.
+[ 2025-06-24 14:45:48,254 ] 221 RERAScrapper - INFO - Uploaded Documents page clicked.
+[ 2025-06-24 14:45:49,429 ] 236 RERAScrapper - INFO - Project Documents 'project_documents' scrapped.
+[ 2025-06-24 14:45:49,429 ] 237 RERAScrapper - INFO - Project Approval 'project_approval' scrapped.
+[ 2025-06-24 14:45:49,429 ] 238 RERAScrapper - INFO - Declaration 'declaration' scrapped.
+[ 2025-06-24 14:45:49,429 ] 239 RERAScrapper - INFO - Other Documents 'other_documents' scrapped.
+[ 2025-06-24 14:45:49,429 ] 240 RERAScrapper - INFO - Project Photo 'project_photo' scrapped.
+[ 2025-06-24 14:45:49,429 ] 241 RERAScrapper - INFO - Financial Document 'financial_document' scrapped.
+[ 2025-06-24 14:45:49,467 ] 268 RERAScrapper - INFO - Completion Details page clicked.
+[ 2025-06-24 14:45:52,001 ] 283 RERAScrapper - INFO - Completion Details 'completion_details' scrapped.
+[ 2025-06-24 14:45:52,001 ] 284 RERAScrapper - INFO - Development Details 'development_details_completion' scrapped.
+[ 2025-06-24 14:45:52,001 ] 285 RERAScrapper - INFO - Uploaded Documents 'uploaded_documents' scrapped.
+[ 2025-06-24 14:45:52,001 ] 286 RERAScrapper - INFO - Photos Uploaded 'photos_uploaded' scrapped.
+[ 2025-06-24 14:46:01,166 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 14:46:01,196 ] 130 RERAScrapper - INFO - Home Table JSON 'home_table_json' scrapped.
+[ 2025-06-24 14:46:03,000 ] 141 RERAScrapper - INFO - Promoter Details 'promoter_details' scrapped.
+[ 2025-06-24 14:46:03,001 ] 142 RERAScrapper - INFO - Authorized Signatory Detail 'authorized_signatory_details' scrapped.
+[ 2025-06-24 14:46:03,001 ] 143 RERAScrapper - INFO - Project Member Details 'project_member_details' scrapped.
+[ 2025-06-24 14:46:03,001 ] 144 RERAScrapper - INFO - Project Land Owner Details 'project_land_owner_details' scrapped.
+[ 2025-06-24 14:46:03,001 ] 145 RERAScrapper - INFO - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' scrapped.
+[ 2025-06-24 14:46:03,001 ] 146 RERAScrapper - INFO - Previous Project Details (Last 5 years only) 'previous_project_details' scrapped.
+[ 2025-06-24 14:46:05,031 ] 172 RERAScrapper - INFO - Project Details page clicked.
+[ 2025-06-24 14:46:05,932 ] 188 RERAScrapper - INFO - Project Details 'project_details' scrapped.
+[ 2025-06-24 14:46:05,932 ] 189 RERAScrapper - INFO - Development Details 'development_details' scrapped.
+[ 2025-06-24 14:46:05,932 ] 190 RERAScrapper - INFO - External Development Work 'external_development_work' scrapped.
+[ 2025-06-24 14:46:05,933 ] 191 RERAScrapper - INFO - Other External Development Work 'other_external_development_work' scrapped.
+[ 2025-06-24 14:46:05,933 ] 192 RERAScrapper - INFO - Project Bank ( Escrow Account ) Details 'project_bank_details' scrapped.
+[ 2025-06-24 14:46:05,933 ] 193 RERAScrapper - INFO - Project Agents 'project_agents' scrapped.
+[ 2025-06-24 14:46:05,933 ] 194 RERAScrapper - INFO - Project Detail Table 'project_detail_table' scrapped.
+[ 2025-06-24 14:46:05,963 ] 221 RERAScrapper - INFO - Uploaded Documents page clicked.
+[ 2025-06-24 14:46:07,014 ] 236 RERAScrapper - INFO - Project Documents 'project_documents' scrapped.
+[ 2025-06-24 14:46:07,014 ] 237 RERAScrapper - INFO - Project Approval 'project_approval' scrapped.
+[ 2025-06-24 14:46:07,014 ] 238 RERAScrapper - INFO - Declaration 'declaration' scrapped.
+[ 2025-06-24 14:46:07,015 ] 239 RERAScrapper - INFO - Other Documents 'other_documents' scrapped.
+[ 2025-06-24 14:46:07,015 ] 240 RERAScrapper - INFO - Project Photo 'project_photo' scrapped.
+[ 2025-06-24 14:46:07,015 ] 241 RERAScrapper - INFO - Financial Document 'financial_document' scrapped.
+[ 2025-06-24 14:46:27,067 ] 270 RERAScrapper - ERROR - Timed out waiting for Completion Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 14:46:29,068 ] 343 RERAScrapper - ERROR - An error occurred in scrape_project_details: local variable 'completion_details' referenced before assignment
+[ 2025-06-24 14:46:33,164 ] 83 RERAScrapper - INFO - City 'Kolar' selected from dropdown.
+[ 2025-06-24 14:46:42,228 ] 90 RERAScrapper - INFO - Select Button Clicked.
+[ 2025-06-24 14:46:49,303 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 14:46:49,334 ] 130 RERAScrapper - INFO - Home Table JSON 'home_table_json' scrapped.
+[ 2025-06-24 14:47:09,367 ] 150 RERAScrapper - WARNING - Promoter Details 'promoter_details' **************not************** scrapped.
+[ 2025-06-24 14:47:09,368 ] 151 RERAScrapper - WARNING - Authorized Signatory Detail 'authorized_signatory_details' **************not************** scrapped.
+[ 2025-06-24 14:47:09,368 ] 152 RERAScrapper - WARNING - Project Member Details 'project_member_details' **************not************** scrapped.
+[ 2025-06-24 14:47:09,368 ] 153 RERAScrapper - WARNING - Project Land Owner Details 'project_land_owner_details' **************not************** scrapped.
+[ 2025-06-24 14:47:09,368 ] 154 RERAScrapper - WARNING - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' **************not************** scrapped.
+[ 2025-06-24 14:47:09,368 ] 155 RERAScrapper - WARNING - Previous Project Details (Last 5 years only) 'previous_project_details' **************not************** scrapped.
+[ 2025-06-24 14:47:31,902 ] 174 RERAScrapper - ERROR - Timed out waiting for Project Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 14:47:52,389 ] 223 RERAScrapper - ERROR - Timed out waiting for Uploaded Documents page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 14:48:12,895 ] 270 RERAScrapper - ERROR - Timed out waiting for Completion Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 14:48:14,904 ] 343 RERAScrapper - ERROR - An error occurred in scrape_project_details: local variable 'project_details' referenced before assignment
+[ 2025-06-24 14:48:18,985 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 14:48:19,017 ] 130 RERAScrapper - INFO - Home Table JSON 'home_table_json' scrapped.
+[ 2025-06-24 14:48:20,604 ] 141 RERAScrapper - INFO - Promoter Details 'promoter_details' scrapped.
+[ 2025-06-24 14:48:20,604 ] 142 RERAScrapper - INFO - Authorized Signatory Detail 'authorized_signatory_details' scrapped.
+[ 2025-06-24 14:48:20,604 ] 143 RERAScrapper - INFO - Project Member Details 'project_member_details' scrapped.
+[ 2025-06-24 14:48:20,604 ] 144 RERAScrapper - INFO - Project Land Owner Details 'project_land_owner_details' scrapped.
+[ 2025-06-24 14:48:20,604 ] 145 RERAScrapper - INFO - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' scrapped.
+[ 2025-06-24 14:48:20,605 ] 146 RERAScrapper - INFO - Previous Project Details (Last 5 years only) 'previous_project_details' scrapped.
+[ 2025-06-24 14:48:22,651 ] 172 RERAScrapper - INFO - Project Details page clicked.
+[ 2025-06-24 14:48:23,640 ] 188 RERAScrapper - INFO - Project Details 'project_details' scrapped.
+[ 2025-06-24 14:48:23,641 ] 189 RERAScrapper - INFO - Development Details 'development_details' scrapped.
+[ 2025-06-24 14:48:23,641 ] 190 RERAScrapper - INFO - External Development Work 'external_development_work' scrapped.
+[ 2025-06-24 14:48:23,641 ] 191 RERAScrapper - INFO - Other External Development Work 'other_external_development_work' scrapped.
+[ 2025-06-24 14:48:23,641 ] 192 RERAScrapper - INFO - Project Bank ( Escrow Account ) Details 'project_bank_details' scrapped.
+[ 2025-06-24 14:48:23,641 ] 193 RERAScrapper - INFO - Project Agents 'project_agents' scrapped.
+[ 2025-06-24 14:48:23,641 ] 194 RERAScrapper - INFO - Project Detail Table 'project_detail_table' scrapped.
+[ 2025-06-24 14:48:23,678 ] 221 RERAScrapper - INFO - Uploaded Documents page clicked.
+[ 2025-06-24 14:48:24,854 ] 236 RERAScrapper - INFO - Project Documents 'project_documents' scrapped.
+[ 2025-06-24 14:48:24,854 ] 237 RERAScrapper - INFO - Project Approval 'project_approval' scrapped.
+[ 2025-06-24 14:48:24,854 ] 238 RERAScrapper - INFO - Declaration 'declaration' scrapped.
+[ 2025-06-24 14:48:24,855 ] 239 RERAScrapper - INFO - Other Documents 'other_documents' scrapped.
+[ 2025-06-24 14:48:24,855 ] 240 RERAScrapper - INFO - Project Photo 'project_photo' scrapped.
+[ 2025-06-24 14:48:24,855 ] 241 RERAScrapper - INFO - Financial Document 'financial_document' scrapped.
+[ 2025-06-24 14:48:24,887 ] 268 RERAScrapper - INFO - Completion Details page clicked.
+[ 2025-06-24 14:48:27,178 ] 289 RERAScrapper - WARNING - Completion Details 'completion_details' **************not************** scrapped.
+[ 2025-06-24 14:48:27,179 ] 290 RERAScrapper - WARNING - Development Details 'development_details_completion' **************not************** scrapped.
+[ 2025-06-24 14:48:27,179 ] 291 RERAScrapper - WARNING - Uploaded Documents 'uploaded_documents' **************not************** scrapped.
+[ 2025-06-24 14:48:27,179 ] 292 RERAScrapper - WARNING - Photos Uploaded 'photos_uploaded' **************not************** scrapped.
+[ 2025-06-24 14:48:33,480 ] 83 RERAScrapper - INFO - City 'Kolar' selected from dropdown.
+[ 2025-06-24 14:48:34,524 ] 90 RERAScrapper - INFO - Select Button Clicked.
+[ 2025-06-24 14:48:42,441 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 14:48:42,472 ] 130 RERAScrapper - INFO - Home Table JSON 'home_table_json' scrapped.
+[ 2025-06-24 14:49:02,506 ] 150 RERAScrapper - WARNING - Promoter Details 'promoter_details' **************not************** scrapped.
+[ 2025-06-24 14:49:02,507 ] 151 RERAScrapper - WARNING - Authorized Signatory Detail 'authorized_signatory_details' **************not************** scrapped.
+[ 2025-06-24 14:49:02,507 ] 152 RERAScrapper - WARNING - Project Member Details 'project_member_details' **************not************** scrapped.
+[ 2025-06-24 14:49:02,507 ] 153 RERAScrapper - WARNING - Project Land Owner Details 'project_land_owner_details' **************not************** scrapped.
+[ 2025-06-24 14:49:02,507 ] 154 RERAScrapper - WARNING - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' **************not************** scrapped.
+[ 2025-06-24 14:49:02,507 ] 155 RERAScrapper - WARNING - Previous Project Details (Last 5 years only) 'previous_project_details' **************not************** scrapped.
+[ 2025-06-24 14:49:24,552 ] 174 RERAScrapper - ERROR - Timed out waiting for Project Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 14:49:44,601 ] 223 RERAScrapper - ERROR - Timed out waiting for Uploaded Documents page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 14:50:04,619 ] 270 RERAScrapper - ERROR - Timed out waiting for Completion Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 14:50:06,631 ] 343 RERAScrapper - ERROR - An error occurred in scrape_project_details: local variable 'project_details' referenced before assignment
+[ 2025-06-24 14:50:10,697 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 14:50:10,724 ] 130 RERAScrapper - INFO - Home Table JSON 'home_table_json' scrapped.
+[ 2025-06-24 14:50:30,747 ] 150 RERAScrapper - WARNING - Promoter Details 'promoter_details' **************not************** scrapped.
+[ 2025-06-24 14:50:30,748 ] 151 RERAScrapper - WARNING - Authorized Signatory Detail 'authorized_signatory_details' **************not************** scrapped.
+[ 2025-06-24 14:50:30,748 ] 152 RERAScrapper - WARNING - Project Member Details 'project_member_details' **************not************** scrapped.
+[ 2025-06-24 14:50:30,748 ] 153 RERAScrapper - WARNING - Project Land Owner Details 'project_land_owner_details' **************not************** scrapped.
+[ 2025-06-24 14:50:30,748 ] 154 RERAScrapper - WARNING - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' **************not************** scrapped.
+[ 2025-06-24 14:50:30,748 ] 155 RERAScrapper - WARNING - Previous Project Details (Last 5 years only) 'previous_project_details' **************not************** scrapped.
+[ 2025-06-24 14:50:52,782 ] 174 RERAScrapper - ERROR - Timed out waiting for Project Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 14:51:12,838 ] 223 RERAScrapper - ERROR - Timed out waiting for Uploaded Documents page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 14:51:32,854 ] 270 RERAScrapper - ERROR - Timed out waiting for Completion Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 14:51:34,866 ] 343 RERAScrapper - ERROR - An error occurred in scrape_project_details: local variable 'project_details' referenced before assignment
+[ 2025-06-24 14:51:38,942 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 14:51:38,977 ] 130 RERAScrapper - INFO - Home Table JSON 'home_table_json' scrapped.
+[ 2025-06-24 14:51:59,020 ] 150 RERAScrapper - WARNING - Promoter Details 'promoter_details' **************not************** scrapped.
+[ 2025-06-24 14:51:59,020 ] 151 RERAScrapper - WARNING - Authorized Signatory Detail 'authorized_signatory_details' **************not************** scrapped.
+[ 2025-06-24 14:51:59,020 ] 152 RERAScrapper - WARNING - Project Member Details 'project_member_details' **************not************** scrapped.
+[ 2025-06-24 14:51:59,020 ] 153 RERAScrapper - WARNING - Project Land Owner Details 'project_land_owner_details' **************not************** scrapped.
+[ 2025-06-24 14:51:59,020 ] 154 RERAScrapper - WARNING - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' **************not************** scrapped.
+[ 2025-06-24 14:51:59,020 ] 155 RERAScrapper - WARNING - Previous Project Details (Last 5 years only) 'previous_project_details' **************not************** scrapped.
+[ 2025-06-24 14:52:21,119 ] 174 RERAScrapper - ERROR - Timed out waiting for Project Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 14:52:41,633 ] 223 RERAScrapper - ERROR - Timed out waiting for Uploaded Documents page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 14:53:02,144 ] 270 RERAScrapper - ERROR - Timed out waiting for Completion Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 14:53:04,148 ] 343 RERAScrapper - ERROR - An error occurred in scrape_project_details: local variable 'project_details' referenced before assignment
+[ 2025-06-24 14:53:08,223 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 14:53:08,256 ] 130 RERAScrapper - INFO - Home Table JSON 'home_table_json' scrapped.
+[ 2025-06-24 14:53:28,294 ] 150 RERAScrapper - WARNING - Promoter Details 'promoter_details' **************not************** scrapped.
+[ 2025-06-24 14:53:28,294 ] 151 RERAScrapper - WARNING - Authorized Signatory Detail 'authorized_signatory_details' **************not************** scrapped.
+[ 2025-06-24 14:53:28,294 ] 152 RERAScrapper - WARNING - Project Member Details 'project_member_details' **************not************** scrapped.
+[ 2025-06-24 14:53:28,294 ] 153 RERAScrapper - WARNING - Project Land Owner Details 'project_land_owner_details' **************not************** scrapped.
+[ 2025-06-24 14:53:28,294 ] 154 RERAScrapper - WARNING - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' **************not************** scrapped.
+[ 2025-06-24 14:53:28,295 ] 155 RERAScrapper - WARNING - Previous Project Details (Last 5 years only) 'previous_project_details' **************not************** scrapped.
+[ 2025-06-24 14:53:50,811 ] 174 RERAScrapper - ERROR - Timed out waiting for Project Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 14:54:11,299 ] 223 RERAScrapper - ERROR - Timed out waiting for Uploaded Documents page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 14:54:31,822 ] 270 RERAScrapper - ERROR - Timed out waiting for Completion Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 14:54:33,835 ] 343 RERAScrapper - ERROR - An error occurred in scrape_project_details: local variable 'project_details' referenced before assignment
+[ 2025-06-24 14:54:37,899 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 14:54:37,929 ] 130 RERAScrapper - INFO - Home Table JSON 'home_table_json' scrapped.
+[ 2025-06-24 14:54:57,945 ] 150 RERAScrapper - WARNING - Promoter Details 'promoter_details' **************not************** scrapped.
+[ 2025-06-24 14:54:57,945 ] 151 RERAScrapper - WARNING - Authorized Signatory Detail 'authorized_signatory_details' **************not************** scrapped.
+[ 2025-06-24 14:54:57,945 ] 152 RERAScrapper - WARNING - Project Member Details 'project_member_details' **************not************** scrapped.
+[ 2025-06-24 14:54:57,945 ] 153 RERAScrapper - WARNING - Project Land Owner Details 'project_land_owner_details' **************not************** scrapped.
+[ 2025-06-24 14:54:57,945 ] 154 RERAScrapper - WARNING - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' **************not************** scrapped.
+[ 2025-06-24 14:54:57,946 ] 155 RERAScrapper - WARNING - Previous Project Details (Last 5 years only) 'previous_project_details' **************not************** scrapped.
+[ 2025-06-24 14:55:19,977 ] 174 RERAScrapper - ERROR - Timed out waiting for Project Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 14:55:39,989 ] 223 RERAScrapper - ERROR - Timed out waiting for Uploaded Documents page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 14:56:00,509 ] 270 RERAScrapper - ERROR - Timed out waiting for Completion Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 14:56:02,513 ] 343 RERAScrapper - ERROR - An error occurred in scrape_project_details: local variable 'project_details' referenced before assignment
+[ 2025-06-24 14:56:06,585 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 14:56:06,616 ] 130 RERAScrapper - INFO - Home Table JSON 'home_table_json' scrapped.
+[ 2025-06-24 14:56:27,126 ] 150 RERAScrapper - WARNING - Promoter Details 'promoter_details' **************not************** scrapped.
+[ 2025-06-24 14:56:27,127 ] 151 RERAScrapper - WARNING - Authorized Signatory Detail 'authorized_signatory_details' **************not************** scrapped.
+[ 2025-06-24 14:56:27,127 ] 152 RERAScrapper - WARNING - Project Member Details 'project_member_details' **************not************** scrapped.
+[ 2025-06-24 14:56:27,127 ] 153 RERAScrapper - WARNING - Project Land Owner Details 'project_land_owner_details' **************not************** scrapped.
+[ 2025-06-24 14:56:27,127 ] 154 RERAScrapper - WARNING - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' **************not************** scrapped.
+[ 2025-06-24 14:56:27,127 ] 155 RERAScrapper - WARNING - Previous Project Details (Last 5 years only) 'previous_project_details' **************not************** scrapped.
+[ 2025-06-24 14:56:49,137 ] 174 RERAScrapper - ERROR - Timed out waiting for Project Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 14:57:09,166 ] 223 RERAScrapper - ERROR - Timed out waiting for Uploaded Documents page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 14:57:29,180 ] 270 RERAScrapper - ERROR - Timed out waiting for Completion Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 14:57:31,191 ] 343 RERAScrapper - ERROR - An error occurred in scrape_project_details: local variable 'project_details' referenced before assignment
+[ 2025-06-24 14:57:37,339 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 14:57:37,368 ] 130 RERAScrapper - INFO - Home Table JSON 'home_table_json' scrapped.
+[ 2025-06-24 14:57:57,885 ] 150 RERAScrapper - WARNING - Promoter Details 'promoter_details' **************not************** scrapped.
+[ 2025-06-24 14:57:57,885 ] 151 RERAScrapper - WARNING - Authorized Signatory Detail 'authorized_signatory_details' **************not************** scrapped.
+[ 2025-06-24 14:57:57,885 ] 152 RERAScrapper - WARNING - Project Member Details 'project_member_details' **************not************** scrapped.
+[ 2025-06-24 14:57:57,886 ] 153 RERAScrapper - WARNING - Project Land Owner Details 'project_land_owner_details' **************not************** scrapped.
+[ 2025-06-24 14:57:57,886 ] 154 RERAScrapper - WARNING - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' **************not************** scrapped.
+[ 2025-06-24 14:57:57,886 ] 155 RERAScrapper - WARNING - Previous Project Details (Last 5 years only) 'previous_project_details' **************not************** scrapped.
+[ 2025-06-24 14:58:20,417 ] 174 RERAScrapper - ERROR - Timed out waiting for Project Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 14:58:40,913 ] 223 RERAScrapper - ERROR - Timed out waiting for Uploaded Documents page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 14:59:01,428 ] 270 RERAScrapper - ERROR - Timed out waiting for Completion Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 14:59:03,442 ] 343 RERAScrapper - ERROR - An error occurred in scrape_project_details: local variable 'project_details' referenced before assignment
+[ 2025-06-24 14:59:07,513 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 14:59:07,544 ] 130 RERAScrapper - INFO - Home Table JSON 'home_table_json' scrapped.
+[ 2025-06-24 14:59:28,043 ] 150 RERAScrapper - WARNING - Promoter Details 'promoter_details' **************not************** scrapped.
+[ 2025-06-24 14:59:28,043 ] 151 RERAScrapper - WARNING - Authorized Signatory Detail 'authorized_signatory_details' **************not************** scrapped.
+[ 2025-06-24 14:59:28,044 ] 152 RERAScrapper - WARNING - Project Member Details 'project_member_details' **************not************** scrapped.
+[ 2025-06-24 14:59:28,044 ] 153 RERAScrapper - WARNING - Project Land Owner Details 'project_land_owner_details' **************not************** scrapped.
+[ 2025-06-24 14:59:28,044 ] 154 RERAScrapper - WARNING - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' **************not************** scrapped.
+[ 2025-06-24 14:59:28,044 ] 155 RERAScrapper - WARNING - Previous Project Details (Last 5 years only) 'previous_project_details' **************not************** scrapped.
+[ 2025-06-24 14:59:50,074 ] 174 RERAScrapper - ERROR - Timed out waiting for Project Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:00:10,575 ] 223 RERAScrapper - ERROR - Timed out waiting for Uploaded Documents page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:00:30,586 ] 270 RERAScrapper - ERROR - Timed out waiting for Completion Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:00:32,588 ] 343 RERAScrapper - ERROR - An error occurred in scrape_project_details: local variable 'project_details' referenced before assignment
+[ 2025-06-24 15:00:36,655 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 15:00:36,687 ] 130 RERAScrapper - INFO - Home Table JSON 'home_table_json' scrapped.
+[ 2025-06-24 15:00:56,703 ] 150 RERAScrapper - WARNING - Promoter Details 'promoter_details' **************not************** scrapped.
+[ 2025-06-24 15:00:56,703 ] 151 RERAScrapper - WARNING - Authorized Signatory Detail 'authorized_signatory_details' **************not************** scrapped.
+[ 2025-06-24 15:00:56,703 ] 152 RERAScrapper - WARNING - Project Member Details 'project_member_details' **************not************** scrapped.
+[ 2025-06-24 15:00:56,704 ] 153 RERAScrapper - WARNING - Project Land Owner Details 'project_land_owner_details' **************not************** scrapped.
+[ 2025-06-24 15:00:56,704 ] 154 RERAScrapper - WARNING - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' **************not************** scrapped.
+[ 2025-06-24 15:00:56,704 ] 155 RERAScrapper - WARNING - Previous Project Details (Last 5 years only) 'previous_project_details' **************not************** scrapped.
+[ 2025-06-24 15:01:19,224 ] 174 RERAScrapper - ERROR - Timed out waiting for Project Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:01:39,741 ] 223 RERAScrapper - ERROR - Timed out waiting for Uploaded Documents page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:01:59,757 ] 270 RERAScrapper - ERROR - Timed out waiting for Completion Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:02:01,770 ] 343 RERAScrapper - ERROR - An error occurred in scrape_project_details: local variable 'project_details' referenced before assignment
+[ 2025-06-24 15:02:05,850 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 15:02:05,881 ] 130 RERAScrapper - INFO - Home Table JSON 'home_table_json' scrapped.
+[ 2025-06-24 15:02:25,961 ] 150 RERAScrapper - WARNING - Promoter Details 'promoter_details' **************not************** scrapped.
+[ 2025-06-24 15:02:25,961 ] 151 RERAScrapper - WARNING - Authorized Signatory Detail 'authorized_signatory_details' **************not************** scrapped.
+[ 2025-06-24 15:02:25,961 ] 152 RERAScrapper - WARNING - Project Member Details 'project_member_details' **************not************** scrapped.
+[ 2025-06-24 15:02:25,961 ] 153 RERAScrapper - WARNING - Project Land Owner Details 'project_land_owner_details' **************not************** scrapped.
+[ 2025-06-24 15:02:25,962 ] 154 RERAScrapper - WARNING - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' **************not************** scrapped.
+[ 2025-06-24 15:02:25,962 ] 155 RERAScrapper - WARNING - Previous Project Details (Last 5 years only) 'previous_project_details' **************not************** scrapped.
+[ 2025-06-24 15:02:48,039 ] 174 RERAScrapper - ERROR - Timed out waiting for Project Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:03:08,069 ] 223 RERAScrapper - ERROR - Timed out waiting for Uploaded Documents page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:03:28,579 ] 270 RERAScrapper - ERROR - Timed out waiting for Completion Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:03:30,582 ] 343 RERAScrapper - ERROR - An error occurred in scrape_project_details: local variable 'project_details' referenced before assignment
+[ 2025-06-24 15:03:34,643 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 15:03:34,676 ] 130 RERAScrapper - INFO - Home Table JSON 'home_table_json' scrapped.
+[ 2025-06-24 15:03:54,700 ] 150 RERAScrapper - WARNING - Promoter Details 'promoter_details' **************not************** scrapped.
+[ 2025-06-24 15:03:54,700 ] 151 RERAScrapper - WARNING - Authorized Signatory Detail 'authorized_signatory_details' **************not************** scrapped.
+[ 2025-06-24 15:03:54,700 ] 152 RERAScrapper - WARNING - Project Member Details 'project_member_details' **************not************** scrapped.
+[ 2025-06-24 15:03:54,700 ] 153 RERAScrapper - WARNING - Project Land Owner Details 'project_land_owner_details' **************not************** scrapped.
+[ 2025-06-24 15:03:54,700 ] 154 RERAScrapper - WARNING - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' **************not************** scrapped.
+[ 2025-06-24 15:03:54,701 ] 155 RERAScrapper - WARNING - Previous Project Details (Last 5 years only) 'previous_project_details' **************not************** scrapped.
+[ 2025-06-24 15:04:17,228 ] 174 RERAScrapper - ERROR - Timed out waiting for Project Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:04:37,744 ] 223 RERAScrapper - ERROR - Timed out waiting for Uploaded Documents page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:04:57,775 ] 270 RERAScrapper - ERROR - Timed out waiting for Completion Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:04:59,777 ] 343 RERAScrapper - ERROR - An error occurred in scrape_project_details: local variable 'project_details' referenced before assignment
+[ 2025-06-24 15:05:03,866 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 15:05:03,897 ] 130 RERAScrapper - INFO - Home Table JSON 'home_table_json' scrapped.
+[ 2025-06-24 15:05:23,912 ] 150 RERAScrapper - WARNING - Promoter Details 'promoter_details' **************not************** scrapped.
+[ 2025-06-24 15:05:23,912 ] 151 RERAScrapper - WARNING - Authorized Signatory Detail 'authorized_signatory_details' **************not************** scrapped.
+[ 2025-06-24 15:05:23,913 ] 152 RERAScrapper - WARNING - Project Member Details 'project_member_details' **************not************** scrapped.
+[ 2025-06-24 15:05:23,913 ] 153 RERAScrapper - WARNING - Project Land Owner Details 'project_land_owner_details' **************not************** scrapped.
+[ 2025-06-24 15:05:23,913 ] 154 RERAScrapper - WARNING - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' **************not************** scrapped.
+[ 2025-06-24 15:05:23,913 ] 155 RERAScrapper - WARNING - Previous Project Details (Last 5 years only) 'previous_project_details' **************not************** scrapped.
+[ 2025-06-24 15:05:46,434 ] 174 RERAScrapper - ERROR - Timed out waiting for Project Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:06:06,944 ] 223 RERAScrapper - ERROR - Timed out waiting for Uploaded Documents page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:06:26,959 ] 270 RERAScrapper - ERROR - Timed out waiting for Completion Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:06:28,970 ] 343 RERAScrapper - ERROR - An error occurred in scrape_project_details: local variable 'project_details' referenced before assignment
+[ 2025-06-24 15:06:33,048 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 15:06:33,080 ] 130 RERAScrapper - INFO - Home Table JSON 'home_table_json' scrapped.
+[ 2025-06-24 15:06:53,106 ] 150 RERAScrapper - WARNING - Promoter Details 'promoter_details' **************not************** scrapped.
+[ 2025-06-24 15:06:53,106 ] 151 RERAScrapper - WARNING - Authorized Signatory Detail 'authorized_signatory_details' **************not************** scrapped.
+[ 2025-06-24 15:06:53,106 ] 152 RERAScrapper - WARNING - Project Member Details 'project_member_details' **************not************** scrapped.
+[ 2025-06-24 15:06:53,106 ] 153 RERAScrapper - WARNING - Project Land Owner Details 'project_land_owner_details' **************not************** scrapped.
+[ 2025-06-24 15:06:53,107 ] 154 RERAScrapper - WARNING - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' **************not************** scrapped.
+[ 2025-06-24 15:06:53,107 ] 155 RERAScrapper - WARNING - Previous Project Details (Last 5 years only) 'previous_project_details' **************not************** scrapped.
+[ 2025-06-24 15:07:15,140 ] 174 RERAScrapper - ERROR - Timed out waiting for Project Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:07:35,154 ] 223 RERAScrapper - ERROR - Timed out waiting for Uploaded Documents page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:07:55,664 ] 270 RERAScrapper - ERROR - Timed out waiting for Completion Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:07:57,669 ] 343 RERAScrapper - ERROR - An error occurred in scrape_project_details: local variable 'project_details' referenced before assignment
+[ 2025-06-24 15:08:01,738 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 15:08:01,768 ] 130 RERAScrapper - INFO - Home Table JSON 'home_table_json' scrapped.
+[ 2025-06-24 15:08:21,813 ] 150 RERAScrapper - WARNING - Promoter Details 'promoter_details' **************not************** scrapped.
+[ 2025-06-24 15:08:21,813 ] 151 RERAScrapper - WARNING - Authorized Signatory Detail 'authorized_signatory_details' **************not************** scrapped.
+[ 2025-06-24 15:08:21,813 ] 152 RERAScrapper - WARNING - Project Member Details 'project_member_details' **************not************** scrapped.
+[ 2025-06-24 15:08:21,813 ] 153 RERAScrapper - WARNING - Project Land Owner Details 'project_land_owner_details' **************not************** scrapped.
+[ 2025-06-24 15:08:21,814 ] 154 RERAScrapper - WARNING - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' **************not************** scrapped.
+[ 2025-06-24 15:08:21,814 ] 155 RERAScrapper - WARNING - Previous Project Details (Last 5 years only) 'previous_project_details' **************not************** scrapped.
+[ 2025-06-24 15:08:43,842 ] 174 RERAScrapper - ERROR - Timed out waiting for Project Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:09:03,850 ] 223 RERAScrapper - ERROR - Timed out waiting for Uploaded Documents page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:09:23,882 ] 270 RERAScrapper - ERROR - Timed out waiting for Completion Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:09:25,896 ] 343 RERAScrapper - ERROR - An error occurred in scrape_project_details: local variable 'project_details' referenced before assignment
+[ 2025-06-24 15:09:29,967 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 15:09:30,000 ] 130 RERAScrapper - INFO - Home Table JSON 'home_table_json' scrapped.
+[ 2025-06-24 15:09:50,010 ] 150 RERAScrapper - WARNING - Promoter Details 'promoter_details' **************not************** scrapped.
+[ 2025-06-24 15:09:50,011 ] 151 RERAScrapper - WARNING - Authorized Signatory Detail 'authorized_signatory_details' **************not************** scrapped.
+[ 2025-06-24 15:09:50,011 ] 152 RERAScrapper - WARNING - Project Member Details 'project_member_details' **************not************** scrapped.
+[ 2025-06-24 15:09:50,011 ] 153 RERAScrapper - WARNING - Project Land Owner Details 'project_land_owner_details' **************not************** scrapped.
+[ 2025-06-24 15:09:50,011 ] 154 RERAScrapper - WARNING - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' **************not************** scrapped.
+[ 2025-06-24 15:09:50,011 ] 155 RERAScrapper - WARNING - Previous Project Details (Last 5 years only) 'previous_project_details' **************not************** scrapped.
+[ 2025-06-24 15:10:12,055 ] 174 RERAScrapper - ERROR - Timed out waiting for Project Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:10:32,086 ] 223 RERAScrapper - ERROR - Timed out waiting for Uploaded Documents page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:10:52,111 ] 270 RERAScrapper - ERROR - Timed out waiting for Completion Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:10:54,126 ] 343 RERAScrapper - ERROR - An error occurred in scrape_project_details: local variable 'project_details' referenced before assignment
+[ 2025-06-24 15:10:58,201 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 15:10:58,229 ] 130 RERAScrapper - INFO - Home Table JSON 'home_table_json' scrapped.
+[ 2025-06-24 15:11:18,263 ] 150 RERAScrapper - WARNING - Promoter Details 'promoter_details' **************not************** scrapped.
+[ 2025-06-24 15:11:18,263 ] 151 RERAScrapper - WARNING - Authorized Signatory Detail 'authorized_signatory_details' **************not************** scrapped.
+[ 2025-06-24 15:11:18,263 ] 152 RERAScrapper - WARNING - Project Member Details 'project_member_details' **************not************** scrapped.
+[ 2025-06-24 15:11:18,264 ] 153 RERAScrapper - WARNING - Project Land Owner Details 'project_land_owner_details' **************not************** scrapped.
+[ 2025-06-24 15:11:18,264 ] 154 RERAScrapper - WARNING - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' **************not************** scrapped.
+[ 2025-06-24 15:11:18,264 ] 155 RERAScrapper - WARNING - Previous Project Details (Last 5 years only) 'previous_project_details' **************not************** scrapped.
+[ 2025-06-24 15:11:40,308 ] 174 RERAScrapper - ERROR - Timed out waiting for Project Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:12:00,345 ] 223 RERAScrapper - ERROR - Timed out waiting for Uploaded Documents page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:12:20,853 ] 270 RERAScrapper - ERROR - Timed out waiting for Completion Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:12:22,856 ] 343 RERAScrapper - ERROR - An error occurred in scrape_project_details: local variable 'project_details' referenced before assignment
+[ 2025-06-24 15:12:29,008 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 15:12:29,044 ] 130 RERAScrapper - INFO - Home Table JSON 'home_table_json' scrapped.
+[ 2025-06-24 15:12:49,555 ] 150 RERAScrapper - WARNING - Promoter Details 'promoter_details' **************not************** scrapped.
+[ 2025-06-24 15:12:49,555 ] 151 RERAScrapper - WARNING - Authorized Signatory Detail 'authorized_signatory_details' **************not************** scrapped.
+[ 2025-06-24 15:12:49,555 ] 152 RERAScrapper - WARNING - Project Member Details 'project_member_details' **************not************** scrapped.
+[ 2025-06-24 15:12:49,556 ] 153 RERAScrapper - WARNING - Project Land Owner Details 'project_land_owner_details' **************not************** scrapped.
+[ 2025-06-24 15:12:49,556 ] 154 RERAScrapper - WARNING - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' **************not************** scrapped.
+[ 2025-06-24 15:12:49,556 ] 155 RERAScrapper - WARNING - Previous Project Details (Last 5 years only) 'previous_project_details' **************not************** scrapped.
+[ 2025-06-24 15:13:11,591 ] 174 RERAScrapper - ERROR - Timed out waiting for Project Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:13:31,602 ] 223 RERAScrapper - ERROR - Timed out waiting for Uploaded Documents page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:13:52,105 ] 270 RERAScrapper - ERROR - Timed out waiting for Completion Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:13:54,111 ] 343 RERAScrapper - ERROR - An error occurred in scrape_project_details: local variable 'project_details' referenced before assignment
+[ 2025-06-24 15:13:58,174 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 15:13:58,205 ] 130 RERAScrapper - INFO - Home Table JSON 'home_table_json' scrapped.
+[ 2025-06-24 15:14:18,219 ] 150 RERAScrapper - WARNING - Promoter Details 'promoter_details' **************not************** scrapped.
+[ 2025-06-24 15:14:18,219 ] 151 RERAScrapper - WARNING - Authorized Signatory Detail 'authorized_signatory_details' **************not************** scrapped.
+[ 2025-06-24 15:14:18,219 ] 152 RERAScrapper - WARNING - Project Member Details 'project_member_details' **************not************** scrapped.
+[ 2025-06-24 15:14:18,219 ] 153 RERAScrapper - WARNING - Project Land Owner Details 'project_land_owner_details' **************not************** scrapped.
+[ 2025-06-24 15:14:18,220 ] 154 RERAScrapper - WARNING - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' **************not************** scrapped.
+[ 2025-06-24 15:14:18,220 ] 155 RERAScrapper - WARNING - Previous Project Details (Last 5 years only) 'previous_project_details' **************not************** scrapped.
+[ 2025-06-24 15:14:40,745 ] 174 RERAScrapper - ERROR - Timed out waiting for Project Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:15:01,261 ] 223 RERAScrapper - ERROR - Timed out waiting for Uploaded Documents page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:15:21,298 ] 270 RERAScrapper - ERROR - Timed out waiting for Completion Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:15:23,302 ] 343 RERAScrapper - ERROR - An error occurred in scrape_project_details: local variable 'project_details' referenced before assignment
+[ 2025-06-24 15:15:27,388 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 15:15:27,419 ] 130 RERAScrapper - INFO - Home Table JSON 'home_table_json' scrapped.
+[ 2025-06-24 15:15:47,471 ] 150 RERAScrapper - WARNING - Promoter Details 'promoter_details' **************not************** scrapped.
+[ 2025-06-24 15:15:47,471 ] 151 RERAScrapper - WARNING - Authorized Signatory Detail 'authorized_signatory_details' **************not************** scrapped.
+[ 2025-06-24 15:15:47,472 ] 152 RERAScrapper - WARNING - Project Member Details 'project_member_details' **************not************** scrapped.
+[ 2025-06-24 15:15:47,472 ] 153 RERAScrapper - WARNING - Project Land Owner Details 'project_land_owner_details' **************not************** scrapped.
+[ 2025-06-24 15:15:47,472 ] 154 RERAScrapper - WARNING - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' **************not************** scrapped.
+[ 2025-06-24 15:15:47,472 ] 155 RERAScrapper - WARNING - Previous Project Details (Last 5 years only) 'previous_project_details' **************not************** scrapped.
+[ 2025-06-24 15:16:10,003 ] 174 RERAScrapper - ERROR - Timed out waiting for Project Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:16:30,526 ] 223 RERAScrapper - ERROR - Timed out waiting for Uploaded Documents page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:16:50,574 ] 270 RERAScrapper - ERROR - Timed out waiting for Completion Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:16:52,581 ] 343 RERAScrapper - ERROR - An error occurred in scrape_project_details: local variable 'project_details' referenced before assignment
+[ 2025-06-24 15:16:56,649 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 15:16:56,681 ] 130 RERAScrapper - INFO - Home Table JSON 'home_table_json' scrapped.
+[ 2025-06-24 15:17:16,695 ] 150 RERAScrapper - WARNING - Promoter Details 'promoter_details' **************not************** scrapped.
+[ 2025-06-24 15:17:16,695 ] 151 RERAScrapper - WARNING - Authorized Signatory Detail 'authorized_signatory_details' **************not************** scrapped.
+[ 2025-06-24 15:17:16,696 ] 152 RERAScrapper - WARNING - Project Member Details 'project_member_details' **************not************** scrapped.
+[ 2025-06-24 15:17:16,696 ] 153 RERAScrapper - WARNING - Project Land Owner Details 'project_land_owner_details' **************not************** scrapped.
+[ 2025-06-24 15:17:16,696 ] 154 RERAScrapper - WARNING - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' **************not************** scrapped.
+[ 2025-06-24 15:17:16,696 ] 155 RERAScrapper - WARNING - Previous Project Details (Last 5 years only) 'previous_project_details' **************not************** scrapped.
+[ 2025-06-24 15:17:39,233 ] 174 RERAScrapper - ERROR - Timed out waiting for Project Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:17:59,254 ] 223 RERAScrapper - ERROR - Timed out waiting for Uploaded Documents page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:18:19,289 ] 270 RERAScrapper - ERROR - Timed out waiting for Completion Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:18:21,290 ] 343 RERAScrapper - ERROR - An error occurred in scrape_project_details: local variable 'project_details' referenced before assignment
+[ 2025-06-24 15:18:25,360 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 15:18:25,393 ] 130 RERAScrapper - INFO - Home Table JSON 'home_table_json' scrapped.
+[ 2025-06-24 15:18:45,467 ] 150 RERAScrapper - WARNING - Promoter Details 'promoter_details' **************not************** scrapped.
+[ 2025-06-24 15:18:45,467 ] 151 RERAScrapper - WARNING - Authorized Signatory Detail 'authorized_signatory_details' **************not************** scrapped.
+[ 2025-06-24 15:18:45,467 ] 152 RERAScrapper - WARNING - Project Member Details 'project_member_details' **************not************** scrapped.
+[ 2025-06-24 15:18:45,467 ] 153 RERAScrapper - WARNING - Project Land Owner Details 'project_land_owner_details' **************not************** scrapped.
+[ 2025-06-24 15:18:45,468 ] 154 RERAScrapper - WARNING - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' **************not************** scrapped.
+[ 2025-06-24 15:18:45,468 ] 155 RERAScrapper - WARNING - Previous Project Details (Last 5 years only) 'previous_project_details' **************not************** scrapped.
+[ 2025-06-24 15:19:07,490 ] 174 RERAScrapper - ERROR - Timed out waiting for Project Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:19:27,536 ] 223 RERAScrapper - ERROR - Timed out waiting for Uploaded Documents page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:19:47,596 ] 270 RERAScrapper - ERROR - Timed out waiting for Completion Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:19:49,600 ] 343 RERAScrapper - ERROR - An error occurred in scrape_project_details: local variable 'project_details' referenced before assignment
+[ 2025-06-24 15:19:53,663 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 15:19:53,696 ] 130 RERAScrapper - INFO - Home Table JSON 'home_table_json' scrapped.
+[ 2025-06-24 15:20:13,721 ] 150 RERAScrapper - WARNING - Promoter Details 'promoter_details' **************not************** scrapped.
+[ 2025-06-24 15:20:13,722 ] 151 RERAScrapper - WARNING - Authorized Signatory Detail 'authorized_signatory_details' **************not************** scrapped.
+[ 2025-06-24 15:20:13,722 ] 152 RERAScrapper - WARNING - Project Member Details 'project_member_details' **************not************** scrapped.
+[ 2025-06-24 15:20:13,722 ] 153 RERAScrapper - WARNING - Project Land Owner Details 'project_land_owner_details' **************not************** scrapped.
+[ 2025-06-24 15:20:13,722 ] 154 RERAScrapper - WARNING - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' **************not************** scrapped.
+[ 2025-06-24 15:20:13,722 ] 155 RERAScrapper - WARNING - Previous Project Details (Last 5 years only) 'previous_project_details' **************not************** scrapped.
+[ 2025-06-24 15:20:35,768 ] 174 RERAScrapper - ERROR - Timed out waiting for Project Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:20:55,824 ] 223 RERAScrapper - ERROR - Timed out waiting for Uploaded Documents page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:21:15,837 ] 270 RERAScrapper - ERROR - Timed out waiting for Completion Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:21:17,841 ] 343 RERAScrapper - ERROR - An error occurred in scrape_project_details: local variable 'project_details' referenced before assignment
+[ 2025-06-24 15:21:21,917 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 15:21:21,953 ] 130 RERAScrapper - INFO - Home Table JSON 'home_table_json' scrapped.
+[ 2025-06-24 15:21:41,979 ] 150 RERAScrapper - WARNING - Promoter Details 'promoter_details' **************not************** scrapped.
+[ 2025-06-24 15:21:41,979 ] 151 RERAScrapper - WARNING - Authorized Signatory Detail 'authorized_signatory_details' **************not************** scrapped.
+[ 2025-06-24 15:21:41,979 ] 152 RERAScrapper - WARNING - Project Member Details 'project_member_details' **************not************** scrapped.
+[ 2025-06-24 15:21:41,980 ] 153 RERAScrapper - WARNING - Project Land Owner Details 'project_land_owner_details' **************not************** scrapped.
+[ 2025-06-24 15:21:41,980 ] 154 RERAScrapper - WARNING - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' **************not************** scrapped.
+[ 2025-06-24 15:21:41,980 ] 155 RERAScrapper - WARNING - Previous Project Details (Last 5 years only) 'previous_project_details' **************not************** scrapped.
+[ 2025-06-24 15:22:04,032 ] 174 RERAScrapper - ERROR - Timed out waiting for Project Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:22:24,063 ] 223 RERAScrapper - ERROR - Timed out waiting for Uploaded Documents page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:22:44,070 ] 270 RERAScrapper - ERROR - Timed out waiting for Completion Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:22:46,083 ] 343 RERAScrapper - ERROR - An error occurred in scrape_project_details: local variable 'project_details' referenced before assignment
+[ 2025-06-24 15:22:50,155 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 15:22:50,186 ] 130 RERAScrapper - INFO - Home Table JSON 'home_table_json' scrapped.
+[ 2025-06-24 15:23:10,231 ] 150 RERAScrapper - WARNING - Promoter Details 'promoter_details' **************not************** scrapped.
+[ 2025-06-24 15:23:10,231 ] 151 RERAScrapper - WARNING - Authorized Signatory Detail 'authorized_signatory_details' **************not************** scrapped.
+[ 2025-06-24 15:23:10,231 ] 152 RERAScrapper - WARNING - Project Member Details 'project_member_details' **************not************** scrapped.
+[ 2025-06-24 15:23:10,231 ] 153 RERAScrapper - WARNING - Project Land Owner Details 'project_land_owner_details' **************not************** scrapped.
+[ 2025-06-24 15:23:10,232 ] 154 RERAScrapper - WARNING - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' **************not************** scrapped.
+[ 2025-06-24 15:23:10,232 ] 155 RERAScrapper - WARNING - Previous Project Details (Last 5 years only) 'previous_project_details' **************not************** scrapped.
+[ 2025-06-24 15:23:32,746 ] 174 RERAScrapper - ERROR - Timed out waiting for Project Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:23:52,772 ] 223 RERAScrapper - ERROR - Timed out waiting for Uploaded Documents page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:24:12,813 ] 270 RERAScrapper - ERROR - Timed out waiting for Completion Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:24:14,826 ] 343 RERAScrapper - ERROR - An error occurred in scrape_project_details: local variable 'project_details' referenced before assignment
+[ 2025-06-24 15:24:18,903 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 15:24:18,935 ] 130 RERAScrapper - INFO - Home Table JSON 'home_table_json' scrapped.
+[ 2025-06-24 15:24:38,954 ] 150 RERAScrapper - WARNING - Promoter Details 'promoter_details' **************not************** scrapped.
+[ 2025-06-24 15:24:38,954 ] 151 RERAScrapper - WARNING - Authorized Signatory Detail 'authorized_signatory_details' **************not************** scrapped.
+[ 2025-06-24 15:24:38,954 ] 152 RERAScrapper - WARNING - Project Member Details 'project_member_details' **************not************** scrapped.
+[ 2025-06-24 15:24:38,954 ] 153 RERAScrapper - WARNING - Project Land Owner Details 'project_land_owner_details' **************not************** scrapped.
+[ 2025-06-24 15:24:38,954 ] 154 RERAScrapper - WARNING - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' **************not************** scrapped.
+[ 2025-06-24 15:24:38,955 ] 155 RERAScrapper - WARNING - Previous Project Details (Last 5 years only) 'previous_project_details' **************not************** scrapped.
+[ 2025-06-24 15:25:00,982 ] 174 RERAScrapper - ERROR - Timed out waiting for Project Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:25:21,008 ] 223 RERAScrapper - ERROR - Timed out waiting for Uploaded Documents page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:25:41,030 ] 270 RERAScrapper - ERROR - Timed out waiting for Completion Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:25:43,043 ] 343 RERAScrapper - ERROR - An error occurred in scrape_project_details: local variable 'project_details' referenced before assignment
+[ 2025-06-24 15:25:47,111 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 15:25:47,140 ] 130 RERAScrapper - INFO - Home Table JSON 'home_table_json' scrapped.
+[ 2025-06-24 15:26:07,177 ] 150 RERAScrapper - WARNING - Promoter Details 'promoter_details' **************not************** scrapped.
+[ 2025-06-24 15:26:07,177 ] 151 RERAScrapper - WARNING - Authorized Signatory Detail 'authorized_signatory_details' **************not************** scrapped.
+[ 2025-06-24 15:26:07,177 ] 152 RERAScrapper - WARNING - Project Member Details 'project_member_details' **************not************** scrapped.
+[ 2025-06-24 15:26:07,177 ] 153 RERAScrapper - WARNING - Project Land Owner Details 'project_land_owner_details' **************not************** scrapped.
+[ 2025-06-24 15:26:07,177 ] 154 RERAScrapper - WARNING - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' **************not************** scrapped.
+[ 2025-06-24 15:26:07,178 ] 155 RERAScrapper - WARNING - Previous Project Details (Last 5 years only) 'previous_project_details' **************not************** scrapped.
+[ 2025-06-24 15:26:29,224 ] 174 RERAScrapper - ERROR - Timed out waiting for Project Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:26:49,734 ] 223 RERAScrapper - ERROR - Timed out waiting for Uploaded Documents page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:27:09,774 ] 270 RERAScrapper - ERROR - Timed out waiting for Completion Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:27:11,789 ] 343 RERAScrapper - ERROR - An error occurred in scrape_project_details: local variable 'project_details' referenced before assignment
+[ 2025-06-24 15:27:18,057 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 15:27:18,087 ] 130 RERAScrapper - INFO - Home Table JSON 'home_table_json' scrapped.
+[ 2025-06-24 15:27:38,136 ] 150 RERAScrapper - WARNING - Promoter Details 'promoter_details' **************not************** scrapped.
+[ 2025-06-24 15:27:38,136 ] 151 RERAScrapper - WARNING - Authorized Signatory Detail 'authorized_signatory_details' **************not************** scrapped.
+[ 2025-06-24 15:27:38,136 ] 152 RERAScrapper - WARNING - Project Member Details 'project_member_details' **************not************** scrapped.
+[ 2025-06-24 15:27:38,136 ] 153 RERAScrapper - WARNING - Project Land Owner Details 'project_land_owner_details' **************not************** scrapped.
+[ 2025-06-24 15:27:38,137 ] 154 RERAScrapper - WARNING - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' **************not************** scrapped.
+[ 2025-06-24 15:27:38,137 ] 155 RERAScrapper - WARNING - Previous Project Details (Last 5 years only) 'previous_project_details' **************not************** scrapped.
+[ 2025-06-24 15:28:00,652 ] 174 RERAScrapper - ERROR - Timed out waiting for Project Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:28:20,674 ] 223 RERAScrapper - ERROR - Timed out waiting for Uploaded Documents page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:28:41,186 ] 270 RERAScrapper - ERROR - Timed out waiting for Completion Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:28:43,199 ] 343 RERAScrapper - ERROR - An error occurred in scrape_project_details: local variable 'project_details' referenced before assignment
+[ 2025-06-24 15:28:47,267 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 15:28:47,295 ] 130 RERAScrapper - INFO - Home Table JSON 'home_table_json' scrapped.
+[ 2025-06-24 15:29:07,326 ] 150 RERAScrapper - WARNING - Promoter Details 'promoter_details' **************not************** scrapped.
+[ 2025-06-24 15:29:07,326 ] 151 RERAScrapper - WARNING - Authorized Signatory Detail 'authorized_signatory_details' **************not************** scrapped.
+[ 2025-06-24 15:29:07,326 ] 152 RERAScrapper - WARNING - Project Member Details 'project_member_details' **************not************** scrapped.
+[ 2025-06-24 15:29:07,326 ] 153 RERAScrapper - WARNING - Project Land Owner Details 'project_land_owner_details' **************not************** scrapped.
+[ 2025-06-24 15:29:07,326 ] 154 RERAScrapper - WARNING - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' **************not************** scrapped.
+[ 2025-06-24 15:29:07,327 ] 155 RERAScrapper - WARNING - Previous Project Details (Last 5 years only) 'previous_project_details' **************not************** scrapped.
+[ 2025-06-24 15:29:29,852 ] 174 RERAScrapper - ERROR - Timed out waiting for Project Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:29:49,870 ] 223 RERAScrapper - ERROR - Timed out waiting for Uploaded Documents page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:30:09,890 ] 270 RERAScrapper - ERROR - Timed out waiting for Completion Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:30:11,894 ] 343 RERAScrapper - ERROR - An error occurred in scrape_project_details: local variable 'project_details' referenced before assignment
+[ 2025-06-24 15:30:15,970 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 15:30:16,001 ] 130 RERAScrapper - INFO - Home Table JSON 'home_table_json' scrapped.
+[ 2025-06-24 15:30:36,062 ] 150 RERAScrapper - WARNING - Promoter Details 'promoter_details' **************not************** scrapped.
+[ 2025-06-24 15:30:36,063 ] 151 RERAScrapper - WARNING - Authorized Signatory Detail 'authorized_signatory_details' **************not************** scrapped.
+[ 2025-06-24 15:30:36,063 ] 152 RERAScrapper - WARNING - Project Member Details 'project_member_details' **************not************** scrapped.
+[ 2025-06-24 15:30:36,063 ] 153 RERAScrapper - WARNING - Project Land Owner Details 'project_land_owner_details' **************not************** scrapped.
+[ 2025-06-24 15:30:36,063 ] 154 RERAScrapper - WARNING - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' **************not************** scrapped.
+[ 2025-06-24 15:30:36,063 ] 155 RERAScrapper - WARNING - Previous Project Details (Last 5 years only) 'previous_project_details' **************not************** scrapped.
+[ 2025-06-24 15:30:58,093 ] 174 RERAScrapper - ERROR - Timed out waiting for Project Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:31:18,109 ] 223 RERAScrapper - ERROR - Timed out waiting for Uploaded Documents page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:31:38,121 ] 270 RERAScrapper - ERROR - Timed out waiting for Completion Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:31:40,125 ] 343 RERAScrapper - ERROR - An error occurred in scrape_project_details: local variable 'project_details' referenced before assignment
+[ 2025-06-24 15:31:44,188 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 15:31:44,221 ] 130 RERAScrapper - INFO - Home Table JSON 'home_table_json' scrapped.
+[ 2025-06-24 15:32:04,278 ] 150 RERAScrapper - WARNING - Promoter Details 'promoter_details' **************not************** scrapped.
+[ 2025-06-24 15:32:04,278 ] 151 RERAScrapper - WARNING - Authorized Signatory Detail 'authorized_signatory_details' **************not************** scrapped.
+[ 2025-06-24 15:32:04,278 ] 152 RERAScrapper - WARNING - Project Member Details 'project_member_details' **************not************** scrapped.
+[ 2025-06-24 15:32:04,278 ] 153 RERAScrapper - WARNING - Project Land Owner Details 'project_land_owner_details' **************not************** scrapped.
+[ 2025-06-24 15:32:04,278 ] 154 RERAScrapper - WARNING - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' **************not************** scrapped.
+[ 2025-06-24 15:32:04,278 ] 155 RERAScrapper - WARNING - Previous Project Details (Last 5 years only) 'previous_project_details' **************not************** scrapped.
+[ 2025-06-24 15:32:26,326 ] 174 RERAScrapper - ERROR - Timed out waiting for Project Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:32:46,344 ] 223 RERAScrapper - ERROR - Timed out waiting for Uploaded Documents page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:33:06,396 ] 270 RERAScrapper - ERROR - Timed out waiting for Completion Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:33:08,411 ] 343 RERAScrapper - ERROR - An error occurred in scrape_project_details: local variable 'project_details' referenced before assignment
+[ 2025-06-24 15:33:12,487 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 15:33:12,520 ] 130 RERAScrapper - INFO - Home Table JSON 'home_table_json' scrapped.
+[ 2025-06-24 15:33:14,676 ] 150 RERAScrapper - WARNING - Promoter Details 'promoter_details' **************not************** scrapped.
+[ 2025-06-24 15:33:14,676 ] 151 RERAScrapper - WARNING - Authorized Signatory Detail 'authorized_signatory_details' **************not************** scrapped.
+[ 2025-06-24 15:33:14,676 ] 152 RERAScrapper - WARNING - Project Member Details 'project_member_details' **************not************** scrapped.
+[ 2025-06-24 15:33:14,677 ] 153 RERAScrapper - WARNING - Project Land Owner Details 'project_land_owner_details' **************not************** scrapped.
+[ 2025-06-24 15:33:14,677 ] 154 RERAScrapper - WARNING - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' **************not************** scrapped.
+[ 2025-06-24 15:33:14,677 ] 155 RERAScrapper - WARNING - Previous Project Details (Last 5 years only) 'previous_project_details' **************not************** scrapped.
+[ 2025-06-24 15:33:16,720 ] 172 RERAScrapper - INFO - Project Details page clicked.
+[ 2025-06-24 15:33:20,223 ] 188 RERAScrapper - INFO - Project Details 'project_details' scrapped.
+[ 2025-06-24 15:33:20,223 ] 189 RERAScrapper - INFO - Development Details 'development_details' scrapped.
+[ 2025-06-24 15:33:20,223 ] 190 RERAScrapper - INFO - External Development Work 'external_development_work' scrapped.
+[ 2025-06-24 15:33:20,224 ] 191 RERAScrapper - INFO - Other External Development Work 'other_external_development_work' scrapped.
+[ 2025-06-24 15:33:20,224 ] 192 RERAScrapper - INFO - Project Bank ( Escrow Account ) Details 'project_bank_details' scrapped.
+[ 2025-06-24 15:33:20,224 ] 193 RERAScrapper - INFO - Project Agents 'project_agents' scrapped.
+[ 2025-06-24 15:33:20,224 ] 194 RERAScrapper - INFO - Project Detail Table 'project_detail_table' scrapped.
+[ 2025-06-24 15:33:20,261 ] 221 RERAScrapper - INFO - Uploaded Documents page clicked.
+[ 2025-06-24 15:33:24,133 ] 236 RERAScrapper - INFO - Project Documents 'project_documents' scrapped.
+[ 2025-06-24 15:33:24,133 ] 237 RERAScrapper - INFO - Project Approval 'project_approval' scrapped.
+[ 2025-06-24 15:33:24,134 ] 238 RERAScrapper - INFO - Declaration 'declaration' scrapped.
+[ 2025-06-24 15:33:24,134 ] 239 RERAScrapper - INFO - Other Documents 'other_documents' scrapped.
+[ 2025-06-24 15:33:24,134 ] 240 RERAScrapper - INFO - Project Photo 'project_photo' scrapped.
+[ 2025-06-24 15:33:24,134 ] 241 RERAScrapper - INFO - Financial Document 'financial_document' scrapped.
+[ 2025-06-24 15:33:24,171 ] 268 RERAScrapper - INFO - Completion Details page clicked.
+[ 2025-06-24 15:33:27,453 ] 289 RERAScrapper - WARNING - Completion Details 'completion_details' **************not************** scrapped.
+[ 2025-06-24 15:33:27,453 ] 290 RERAScrapper - WARNING - Development Details 'development_details_completion' **************not************** scrapped.
+[ 2025-06-24 15:33:27,453 ] 291 RERAScrapper - WARNING - Uploaded Documents 'uploaded_documents' **************not************** scrapped.
+[ 2025-06-24 15:33:27,454 ] 292 RERAScrapper - WARNING - Photos Uploaded 'photos_uploaded' **************not************** scrapped.
+[ 2025-06-24 15:33:39,013 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 15:33:39,049 ] 130 RERAScrapper - INFO - Home Table JSON 'home_table_json' scrapped.
+[ 2025-06-24 15:33:59,071 ] 150 RERAScrapper - WARNING - Promoter Details 'promoter_details' **************not************** scrapped.
+[ 2025-06-24 15:33:59,071 ] 151 RERAScrapper - WARNING - Authorized Signatory Detail 'authorized_signatory_details' **************not************** scrapped.
+[ 2025-06-24 15:33:59,071 ] 152 RERAScrapper - WARNING - Project Member Details 'project_member_details' **************not************** scrapped.
+[ 2025-06-24 15:33:59,071 ] 153 RERAScrapper - WARNING - Project Land Owner Details 'project_land_owner_details' **************not************** scrapped.
+[ 2025-06-24 15:33:59,071 ] 154 RERAScrapper - WARNING - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' **************not************** scrapped.
+[ 2025-06-24 15:33:59,072 ] 155 RERAScrapper - WARNING - Previous Project Details (Last 5 years only) 'previous_project_details' **************not************** scrapped.
+[ 2025-06-24 15:34:21,109 ] 174 RERAScrapper - ERROR - Timed out waiting for Project Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:34:41,121 ] 223 RERAScrapper - ERROR - Timed out waiting for Uploaded Documents page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:35:01,629 ] 270 RERAScrapper - ERROR - Timed out waiting for Completion Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 15:35:03,645 ] 343 RERAScrapper - ERROR - An error occurred in scrape_project_details: local variable 'project_details' referenced before assignment
+[ 2025-06-24 15:35:07,719 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 15:35:07,760 ] 130 RERAScrapper - INFO - Home Table JSON 'home_table_json' scrapped.
+[ 2025-06-24 15:35:27,771 ] 150 RERAScrapper - WARNING - Promoter Details 'promoter_details' **************not************** scrapped.
+[ 2025-06-24 15:35:27,771 ] 151 RERAScrapper - WARNING - Authorized Signatory Detail 'authorized_signatory_details' **************not************** scrapped.
+[ 2025-06-24 15:35:27,771 ] 152 RERAScrapper - WARNING - Project Member Details 'project_member_details' **************not************** scrapped.
+[ 2025-06-24 15:35:27,771 ] 153 RERAScrapper - WARNING - Project Land Owner Details 'project_land_owner_details' **************not************** scrapped.
+[ 2025-06-24 15:35:27,772 ] 154 RERAScrapper - WARNING - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' **************not************** scrapped.
+[ 2025-06-24 15:35:27,772 ] 155 RERAScrapper - WARNING - Previous Project Details (Last 5 years only) 'previous_project_details' **************not************** scrapped.
+[ 2025-06-24 15:35:50,305 ] 174 RERAScrapper - ERROR - Timed out waiting for Project Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x903b03+62899]
+	GetHandleVerifier [0x0x903b44+62964]
+	(No symbol) [0x0x7310f3]
+	(No symbol) [0x0x77980e]
+	(No symbol) [0x0x779bab]
+	(No symbol) [0x0x7c25c2]
+	(No symbol) [0x0x79e554]
+	(No symbol) [0x0x7bfd81]
+	(No symbol) [0x0x79e306]
+	(No symbol) [0x0x76d670]
+	(No symbol) [0x0x76e4e4]
+	GetHandleVerifier [0x0xb64793+2556483]
+	GetHandleVerifier [0x0xb5fd02+2537394]
+	GetHandleVerifier [0x0x92a2fa+220586]
+	GetHandleVerifier [0x0x91aae8+157080]
+	GetHandleVerifier [0x0x92141d+184013]
+	GetHandleVerifier [0x0x90ba68+95512]
+	GetHandleVerifier [0x0x90bc10+95936]
+	GetHandleVerifier [0x0x8f6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+

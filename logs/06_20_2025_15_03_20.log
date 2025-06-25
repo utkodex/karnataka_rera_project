@@ -1,0 +1,198 @@
+[ 2025-06-20 15:03:23,300 ] 346 undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Utkarsh\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+[ 2025-06-20 15:03:23,902 ] 62 RERAScrapper - INFO - Browser initialized successfully.
+[ 2025-06-20 15:03:27,695 ] 70 RERAScrapper - INFO - Navigated to URL: https://rera.karnataka.gov.in/viewAllProjects
+[ 2025-06-20 15:03:27,869 ] 83 RERAScrapper - INFO - City 'Kolar' selected from dropdown.
+[ 2025-06-20 15:03:34,599 ] 90 RERAScrapper - INFO - Select Button Clicked.
+[ 2025-06-20 15:03:35,670 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-20 15:03:35,715 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-20 15:03:36,424 ] 264 RERAScrapper - ERROR - An error occurred in scrape_project_details: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=137.0.7151.105); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x0x463b03+62899]
+	GetHandleVerifier [0x0x463b44+62964]
+	(No symbol) [0x0x2910f3]
+	(No symbol) [0x0x2978e0]
+	(No symbol) [0x0x299c0a]
+	(No symbol) [0x0x299c87]
+	(No symbol) [0x0x2d452e]
+	(No symbol) [0x0x2fe50c]
+	(No symbol) [0x0x2cee74]
+	(No symbol) [0x0x2fe784]
+	(No symbol) [0x0x31fd81]
+	(No symbol) [0x0x2fe306]
+	(No symbol) [0x0x2cd670]
+	(No symbol) [0x0x2ce4e4]
+	GetHandleVerifier [0x0x6c4793+2556483]
+	GetHandleVerifier [0x0x6bfd02+2537394]
+	GetHandleVerifier [0x0x48a2fa+220586]
+	GetHandleVerifier [0x0x47aae8+157080]
+	GetHandleVerifier [0x0x48141d+184013]
+	GetHandleVerifier [0x0x46ba68+95512]
+	GetHandleVerifier [0x0x46bc10+95936]
+	GetHandleVerifier [0x0x456b5a+9738]
+	BaseThreadInitThunk [0x0x75edfcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77e682ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77e6827e+238]
+
+[ 2025-06-20 15:03:36,437 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-20 15:03:37,512 ] 115 RERAScrapper - ERROR - Error during project details table process: Message: element click intercepted: Element <td style="font-size: 13px;">...</td> is not clickable at point (744, 809). Other element would receive the click: <p>...</p>
+  (Session info: chrome=137.0.7151.105)
+Stacktrace:
+	GetHandleVerifier [0x0x463b03+62899]
+	GetHandleVerifier [0x0x463b44+62964]
+	(No symbol) [0x0x2910f3]
+	(No symbol) [0x0x2dfb30]
+	(No symbol) [0x0x2ddeea]
+	(No symbol) [0x0x2dba67]
+	(No symbol) [0x0x2dad37]
+	(No symbol) [0x0x2cf3e5]
+	(No symbol) [0x0x2fe50c]
+	(No symbol) [0x0x2cee74]
+	(No symbol) [0x0x2fe784]
+	(No symbol) [0x0x31fd81]
+	(No symbol) [0x0x2fe306]
+	(No symbol) [0x0x2cd670]
+	(No symbol) [0x0x2ce4e4]
+	GetHandleVerifier [0x0x6c4793+2556483]
+	GetHandleVerifier [0x0x6bfd02+2537394]
+	GetHandleVerifier [0x0x48a2fa+220586]
+	GetHandleVerifier [0x0x47aae8+157080]
+	GetHandleVerifier [0x0x48141d+184013]
+	GetHandleVerifier [0x0x46ba68+95512]
+	GetHandleVerifier [0x0x46bc10+95936]
+	GetHandleVerifier [0x0x456b5a+9738]
+	BaseThreadInitThunk [0x0x75edfcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77e682ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77e6827e+238]
+
+[ 2025-06-20 15:03:37,514 ] 264 RERAScrapper - ERROR - An error occurred in scrape_project_details: Error occured in python script name [C:\Users\Utkarsh\Downloads\Coding\Tut\Lawsikho Projects\upwork\RERA Project\karnataka\karnataka_rera_project\workflow\workflow.py] line number [110] error message [Message: element click intercepted: Element <td style="font-size: 13px;">...</td> is not clickable at point (744, 809). Other element would receive the click: <p>...</p>
+  (Session info: chrome=137.0.7151.105)
+Stacktrace:
+	GetHandleVerifier [0x0x463b03+62899]
+	GetHandleVerifier [0x0x463b44+62964]
+	(No symbol) [0x0x2910f3]
+	(No symbol) [0x0x2dfb30]
+	(No symbol) [0x0x2ddeea]
+	(No symbol) [0x0x2dba67]
+	(No symbol) [0x0x2dad37]
+	(No symbol) [0x0x2cf3e5]
+	(No symbol) [0x0x2fe50c]
+	(No symbol) [0x0x2cee74]
+	(No symbol) [0x0x2fe784]
+	(No symbol) [0x0x31fd81]
+	(No symbol) [0x0x2fe306]
+	(No symbol) [0x0x2cd670]
+	(No symbol) [0x0x2ce4e4]
+	GetHandleVerifier [0x0x6c4793+2556483]
+	GetHandleVerifier [0x0x6bfd02+2537394]
+	GetHandleVerifier [0x0x48a2fa+220586]
+	GetHandleVerifier [0x0x47aae8+157080]
+	GetHandleVerifier [0x0x48141d+184013]
+	GetHandleVerifier [0x0x46ba68+95512]
+	GetHandleVerifier [0x0x46bc10+95936]
+	GetHandleVerifier [0x0x456b5a+9738]
+	BaseThreadInitThunk [0x0x75edfcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77e682ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77e6827e+238]
+]
+[ 2025-06-20 15:03:48,493 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-20 15:03:48,528 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-20 15:03:49,851 ] 264 RERAScrapper - ERROR - An error occurred in scrape_project_details: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=137.0.7151.105); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x0x463b03+62899]
+	GetHandleVerifier [0x0x463b44+62964]
+	(No symbol) [0x0x2910f3]
+	(No symbol) [0x0x2978e0]
+	(No symbol) [0x0x299c0a]
+	(No symbol) [0x0x299c87]
+	(No symbol) [0x0x2d90a4]
+	(No symbol) [0x0x2d9bab]
+	(No symbol) [0x0x2cf301]
+	(No symbol) [0x0x2fe554]
+	(No symbol) [0x0x2cee74]
+	(No symbol) [0x0x2fe784]
+	(No symbol) [0x0x31fd81]
+	(No symbol) [0x0x2fe306]
+	(No symbol) [0x0x2cd670]
+	(No symbol) [0x0x2ce4e4]
+	GetHandleVerifier [0x0x6c4793+2556483]
+	GetHandleVerifier [0x0x6bfd02+2537394]
+	GetHandleVerifier [0x0x48a2fa+220586]
+	GetHandleVerifier [0x0x47aae8+157080]
+	GetHandleVerifier [0x0x48141d+184013]
+	GetHandleVerifier [0x0x46ba68+95512]
+	GetHandleVerifier [0x0x46bc10+95936]
+	GetHandleVerifier [0x0x456b5a+9738]
+	BaseThreadInitThunk [0x0x75edfcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77e682ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77e6827e+238]
+
+[ 2025-06-20 15:03:49,860 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-20 15:03:50,935 ] 115 RERAScrapper - ERROR - Error during project details table process: Message: element click intercepted: Element <td style="font-size: 13px;">...</td> is not clickable at point (744, 264). Other element would receive the click: <div id="header2">...</div>
+  (Session info: chrome=137.0.7151.105)
+Stacktrace:
+	GetHandleVerifier [0x0x463b03+62899]
+	GetHandleVerifier [0x0x463b44+62964]
+	(No symbol) [0x0x2910f3]
+	(No symbol) [0x0x2dfb30]
+	(No symbol) [0x0x2ddeea]
+	(No symbol) [0x0x2dba67]
+	(No symbol) [0x0x2dad37]
+	(No symbol) [0x0x2cf3e5]
+	(No symbol) [0x0x2fe50c]
+	(No symbol) [0x0x2cee74]
+	(No symbol) [0x0x2fe784]
+	(No symbol) [0x0x31fd81]
+	(No symbol) [0x0x2fe306]
+	(No symbol) [0x0x2cd670]
+	(No symbol) [0x0x2ce4e4]
+	GetHandleVerifier [0x0x6c4793+2556483]
+	GetHandleVerifier [0x0x6bfd02+2537394]
+	GetHandleVerifier [0x0x48a2fa+220586]
+	GetHandleVerifier [0x0x47aae8+157080]
+	GetHandleVerifier [0x0x48141d+184013]
+	GetHandleVerifier [0x0x46ba68+95512]
+	GetHandleVerifier [0x0x46bc10+95936]
+	GetHandleVerifier [0x0x456b5a+9738]
+	BaseThreadInitThunk [0x0x75edfcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77e682ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77e6827e+238]
+
+[ 2025-06-20 15:03:50,936 ] 264 RERAScrapper - ERROR - An error occurred in scrape_project_details: Error occured in python script name [C:\Users\Utkarsh\Downloads\Coding\Tut\Lawsikho Projects\upwork\RERA Project\karnataka\karnataka_rera_project\workflow\workflow.py] line number [110] error message [Message: element click intercepted: Element <td style="font-size: 13px;">...</td> is not clickable at point (744, 264). Other element would receive the click: <div id="header2">...</div>
+  (Session info: chrome=137.0.7151.105)
+Stacktrace:
+	GetHandleVerifier [0x0x463b03+62899]
+	GetHandleVerifier [0x0x463b44+62964]
+	(No symbol) [0x0x2910f3]
+	(No symbol) [0x0x2dfb30]
+	(No symbol) [0x0x2ddeea]
+	(No symbol) [0x0x2dba67]
+	(No symbol) [0x0x2dad37]
+	(No symbol) [0x0x2cf3e5]
+	(No symbol) [0x0x2fe50c]
+	(No symbol) [0x0x2cee74]
+	(No symbol) [0x0x2fe784]
+	(No symbol) [0x0x31fd81]
+	(No symbol) [0x0x2fe306]
+	(No symbol) [0x0x2cd670]
+	(No symbol) [0x0x2ce4e4]
+	GetHandleVerifier [0x0x6c4793+2556483]
+	GetHandleVerifier [0x0x6bfd02+2537394]
+	GetHandleVerifier [0x0x48a2fa+220586]
+	GetHandleVerifier [0x0x47aae8+157080]
+	GetHandleVerifier [0x0x48141d+184013]
+	GetHandleVerifier [0x0x46ba68+95512]
+	GetHandleVerifier [0x0x46bc10+95936]
+	GetHandleVerifier [0x0x456b5a+9738]
+	BaseThreadInitThunk [0x0x75edfcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77e682ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77e6827e+238]
+]
+[ 2025-06-20 15:03:56,857 ] 83 RERAScrapper - INFO - City 'Kolar' selected from dropdown.
+[ 2025-06-20 15:03:57,900 ] 90 RERAScrapper - INFO - Select Button Clicked.
+[ 2025-06-20 15:04:14,429 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-20 15:04:14,466 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-20 15:04:34,501 ] 264 RERAScrapper - ERROR - An error occurred in scrape_project_details: local variable 'h1_elements' referenced before assignment
+[ 2025-06-20 15:04:34,508 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-20 15:04:55,047 ] 264 RERAScrapper - ERROR - An error occurred in scrape_project_details: local variable 'h1_elements' referenced before assignment

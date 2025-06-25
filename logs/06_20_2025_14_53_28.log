@@ -1,0 +1,36 @@
+[ 2025-06-20 14:53:31,014 ] 346 undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Utkarsh\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+[ 2025-06-20 14:53:31,641 ] 62 RERAScrapper - INFO - Browser initialized successfully.
+[ 2025-06-20 14:53:39,455 ] 70 RERAScrapper - INFO - Navigated to URL: https://rera.karnataka.gov.in/viewAllProjects
+[ 2025-06-20 14:53:57,790 ] 83 RERAScrapper - INFO - City 'Kolar' selected from dropdown.
+[ 2025-06-20 14:54:06,592 ] 90 RERAScrapper - INFO - Select Button Clicked.
+[ 2025-06-20 14:54:16,190 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-20 14:54:17,277 ] 115 RERAScrapper - ERROR - Error during project details table process: Message: element click intercepted: Element <td style="font-size: 13px;">...</td> is not clickable at point (744, 842). Other element would receive the click: <div id="loader" style="font-size: 13px; opacity: 0.84036;"></div>
+  (Session info: chrome=137.0.7151.105)
+Stacktrace:
+	GetHandleVerifier [0x0x7f3b03+62899]
+	GetHandleVerifier [0x0x7f3b44+62964]
+	(No symbol) [0x0x6210f3]
+	(No symbol) [0x0x66fb30]
+	(No symbol) [0x0x66deea]
+	(No symbol) [0x0x66ba67]
+	(No symbol) [0x0x66ad37]
+	(No symbol) [0x0x65f3e5]
+	(No symbol) [0x0x68e50c]
+	(No symbol) [0x0x65ee74]
+	(No symbol) [0x0x68e784]
+	(No symbol) [0x0x6afd81]
+	(No symbol) [0x0x68e306]
+	(No symbol) [0x0x65d670]
+	(No symbol) [0x0x65e4e4]
+	GetHandleVerifier [0x0xa54793+2556483]
+	GetHandleVerifier [0x0xa4fd02+2537394]
+	GetHandleVerifier [0x0x81a2fa+220586]
+	GetHandleVerifier [0x0x80aae8+157080]
+	GetHandleVerifier [0x0x81141d+184013]
+	GetHandleVerifier [0x0x7fba68+95512]
+	GetHandleVerifier [0x0x7fbc10+95936]
+	GetHandleVerifier [0x0x7e6b5a+9738]
+	BaseThreadInitThunk [0x0x75edfcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77e682ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77e6827e+238]
+

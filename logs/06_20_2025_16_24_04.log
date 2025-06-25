@@ -1,0 +1,63 @@
+[ 2025-06-20 16:24:07,406 ] 346 undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Utkarsh\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+[ 2025-06-20 16:24:08,019 ] 62 RERAScrapper - INFO - Browser initialized successfully.
+[ 2025-06-20 16:24:12,800 ] 70 RERAScrapper - INFO - Navigated to URL: https://rera.karnataka.gov.in/viewAllProjects
+[ 2025-06-20 16:24:12,979 ] 83 RERAScrapper - INFO - City 'Kolar' selected from dropdown.
+[ 2025-06-20 16:24:17,934 ] 90 RERAScrapper - INFO - Select Button Clicked.
+[ 2025-06-20 16:24:18,998 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-20 16:24:19,039 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-20 16:24:19,794 ] 245 RERAScrapper - ERROR - An error occurred in scrape_project_details: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=137.0.7151.105); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x0xac3b03+62899]
+	GetHandleVerifier [0x0xac3b44+62964]
+	(No symbol) [0x0x8f10f3]
+	(No symbol) [0x0x8f78e0]
+	(No symbol) [0x0x8f9c0a]
+	(No symbol) [0x0x8f9c87]
+	(No symbol) [0x0x93452e]
+	(No symbol) [0x0x95e50c]
+	(No symbol) [0x0x92ee74]
+	(No symbol) [0x0x95e784]
+	(No symbol) [0x0x97fd81]
+	(No symbol) [0x0x95e306]
+	(No symbol) [0x0x92d670]
+	(No symbol) [0x0x92e4e4]
+	GetHandleVerifier [0x0xd24793+2556483]
+	GetHandleVerifier [0x0xd1fd02+2537394]
+	GetHandleVerifier [0x0xaea2fa+220586]
+	GetHandleVerifier [0x0xadaae8+157080]
+	GetHandleVerifier [0x0xae141d+184013]
+	GetHandleVerifier [0x0xacba68+95512]
+	GetHandleVerifier [0x0xacbc10+95936]
+	GetHandleVerifier [0x0xab6b5a+9738]
+	BaseThreadInitThunk [0x0x75edfcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77e682ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77e6827e+238]
+
+[ 2025-06-20 16:24:19,896 ] 133 RERAScrapper - INFO - Promoter Details 'promoter_details' scrapped.
+[ 2025-06-20 16:24:19,896 ] 134 RERAScrapper - INFO - Authorized Signatory Detail 'authorized_signatory_details' scrapped.
+[ 2025-06-20 16:24:19,897 ] 135 RERAScrapper - INFO - Project Member Details 'project_member_details' scrapped.
+[ 2025-06-20 16:24:19,897 ] 136 RERAScrapper - INFO - Project Land Owner Details 'project_land_owner_details' scrapped.
+[ 2025-06-20 16:24:19,897 ] 137 RERAScrapper - INFO - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' scrapped.
+[ 2025-06-20 16:24:19,897 ] 138 RERAScrapper - INFO - Previous Project Details (Last 5 years only) 'previous_project_details' scrapped.
+[ 2025-06-20 16:24:21,945 ] 147 RERAScrapper - INFO - Project Details page clicked.
+[ 2025-06-20 16:24:22,063 ] 162 RERAScrapper - INFO - Project Details 'project_details' scrapped.
+[ 2025-06-20 16:24:22,063 ] 163 RERAScrapper - INFO - Development Details 'development_details' scrapped.
+[ 2025-06-20 16:24:22,063 ] 164 RERAScrapper - INFO - External Development Work 'external_development_work' scrapped.
+[ 2025-06-20 16:24:22,064 ] 165 RERAScrapper - INFO - Other External Development Work 'other_external_development_work' scrapped.
+[ 2025-06-20 16:24:22,064 ] 166 RERAScrapper - INFO - Project Bank ( Escrow Account ) Details 'project_bank_details' scrapped.
+[ 2025-06-20 16:24:22,064 ] 167 RERAScrapper - INFO - Project Agents 'project_agents' scrapped.
+[ 2025-06-20 16:24:22,064 ] 168 RERAScrapper - INFO - Project Detail Table 'project_detail_table' scrapped.
+[ 2025-06-20 16:24:22,112 ] 175 RERAScrapper - INFO - Uploaded Documents page clicked.
+[ 2025-06-20 16:24:22,218 ] 189 RERAScrapper - INFO - Project Documents 'project_documents' scrapped.
+[ 2025-06-20 16:24:22,219 ] 190 RERAScrapper - INFO - Project Approval 'project_approval' scrapped.
+[ 2025-06-20 16:24:22,219 ] 191 RERAScrapper - INFO - Declaration 'declaration' scrapped.
+[ 2025-06-20 16:24:22,219 ] 192 RERAScrapper - INFO - Other Documents 'other_documents' scrapped.
+[ 2025-06-20 16:24:22,219 ] 193 RERAScrapper - INFO - Project Photo 'project_photo' scrapped.
+[ 2025-06-20 16:24:22,220 ] 194 RERAScrapper - INFO - Financial Document 'financial_document' scrapped.
+[ 2025-06-20 16:24:22,254 ] 203 RERAScrapper - INFO - Completion Details page clicked.
+[ 2025-06-20 16:24:22,301 ] 211 RERAScrapper - INFO - Completion Details '{
+    "": {
+        "Promoter has Applied for Completion on 15/01/2021": []
+    }
+}' scrapped.

@@ -1,0 +1,172 @@
+[ 2025-06-24 12:42:46,944 ] 346 undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Utkarsh\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+[ 2025-06-24 12:42:47,585 ] 62 RERAScrapper - INFO - Browser initialized successfully.
+[ 2025-06-24 12:42:51,963 ] 70 RERAScrapper - INFO - Navigated to URL: https://rera.karnataka.gov.in/viewAllProjects
+[ 2025-06-24 12:42:52,150 ] 83 RERAScrapper - INFO - City 'Kolar' selected from dropdown.
+[ 2025-06-24 12:42:58,000 ] 90 RERAScrapper - INFO - Select Button Clicked.
+[ 2025-06-24 12:42:59,071 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 12:42:59,103 ] 130 RERAScrapper - INFO - Home Table JSON 'home_table_json' scrapped.
+[ 2025-06-24 12:43:00,517 ] 140 RERAScrapper - INFO - Promoter Details 'promoter_details' scrapped.
+[ 2025-06-24 12:43:00,517 ] 141 RERAScrapper - INFO - Authorized Signatory Detail 'authorized_signatory_details' scrapped.
+[ 2025-06-24 12:43:00,518 ] 142 RERAScrapper - INFO - Project Member Details 'project_member_details' scrapped.
+[ 2025-06-24 12:43:00,518 ] 143 RERAScrapper - INFO - Project Land Owner Details 'project_land_owner_details' scrapped.
+[ 2025-06-24 12:43:00,518 ] 144 RERAScrapper - INFO - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' scrapped.
+[ 2025-06-24 12:43:00,519 ] 145 RERAScrapper - INFO - Previous Project Details (Last 5 years only) 'previous_project_details' scrapped.
+[ 2025-06-24 12:43:02,565 ] 154 RERAScrapper - INFO - Project Details page clicked.
+[ 2025-06-24 12:43:03,582 ] 169 RERAScrapper - INFO - Project Details 'project_details' scrapped.
+[ 2025-06-24 12:43:03,582 ] 170 RERAScrapper - INFO - Development Details 'development_details' scrapped.
+[ 2025-06-24 12:43:03,583 ] 171 RERAScrapper - INFO - External Development Work 'external_development_work' scrapped.
+[ 2025-06-24 12:43:03,583 ] 172 RERAScrapper - INFO - Other External Development Work 'other_external_development_work' scrapped.
+[ 2025-06-24 12:43:03,583 ] 173 RERAScrapper - INFO - Project Bank ( Escrow Account ) Details 'project_bank_details' scrapped.
+[ 2025-06-24 12:43:03,583 ] 174 RERAScrapper - INFO - Project Agents 'project_agents' scrapped.
+[ 2025-06-24 12:43:03,583 ] 175 RERAScrapper - INFO - Project Detail Table 'project_detail_table' scrapped.
+[ 2025-06-24 12:43:03,617 ] 182 RERAScrapper - INFO - Uploaded Documents page clicked.
+[ 2025-06-24 12:43:04,855 ] 196 RERAScrapper - INFO - Project Documents 'project_documents' scrapped.
+[ 2025-06-24 12:43:04,855 ] 197 RERAScrapper - INFO - Project Approval 'project_approval' scrapped.
+[ 2025-06-24 12:43:04,855 ] 198 RERAScrapper - INFO - Declaration 'declaration' scrapped.
+[ 2025-06-24 12:43:04,855 ] 199 RERAScrapper - INFO - Other Documents 'other_documents' scrapped.
+[ 2025-06-24 12:43:04,855 ] 200 RERAScrapper - INFO - Project Photo 'project_photo' scrapped.
+[ 2025-06-24 12:43:04,855 ] 201 RERAScrapper - INFO - Financial Document 'financial_document' scrapped.
+[ 2025-06-24 12:43:04,895 ] 210 RERAScrapper - INFO - Completion Details page clicked.
+[ 2025-06-24 12:43:07,472 ] 224 RERAScrapper - INFO - Completion Details 'completion_details' scrapped.
+[ 2025-06-24 12:43:07,472 ] 225 RERAScrapper - INFO - Development Details 'development_details_completion' scrapped.
+[ 2025-06-24 12:43:07,472 ] 226 RERAScrapper - INFO - Uploaded Documents 'uploaded_documents' scrapped.
+[ 2025-06-24 12:43:07,472 ] 227 RERAScrapper - INFO - Photos Uploaded 'photos_uploaded' scrapped.
+[ 2025-06-24 12:43:16,703 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 12:43:16,737 ] 130 RERAScrapper - INFO - Home Table JSON 'home_table_json' scrapped.
+[ 2025-06-24 12:43:18,068 ] 140 RERAScrapper - INFO - Promoter Details 'promoter_details' scrapped.
+[ 2025-06-24 12:43:18,068 ] 141 RERAScrapper - INFO - Authorized Signatory Detail 'authorized_signatory_details' scrapped.
+[ 2025-06-24 12:43:18,068 ] 142 RERAScrapper - INFO - Project Member Details 'project_member_details' scrapped.
+[ 2025-06-24 12:43:18,068 ] 143 RERAScrapper - INFO - Project Land Owner Details 'project_land_owner_details' scrapped.
+[ 2025-06-24 12:43:18,069 ] 144 RERAScrapper - INFO - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' scrapped.
+[ 2025-06-24 12:43:18,069 ] 145 RERAScrapper - INFO - Previous Project Details (Last 5 years only) 'previous_project_details' scrapped.
+[ 2025-06-24 12:43:20,106 ] 154 RERAScrapper - INFO - Project Details page clicked.
+[ 2025-06-24 12:43:21,157 ] 169 RERAScrapper - INFO - Project Details 'project_details' scrapped.
+[ 2025-06-24 12:43:21,158 ] 170 RERAScrapper - INFO - Development Details 'development_details' scrapped.
+[ 2025-06-24 12:43:21,158 ] 171 RERAScrapper - INFO - External Development Work 'external_development_work' scrapped.
+[ 2025-06-24 12:43:21,158 ] 172 RERAScrapper - INFO - Other External Development Work 'other_external_development_work' scrapped.
+[ 2025-06-24 12:43:21,158 ] 173 RERAScrapper - INFO - Project Bank ( Escrow Account ) Details 'project_bank_details' scrapped.
+[ 2025-06-24 12:43:21,158 ] 174 RERAScrapper - INFO - Project Agents 'project_agents' scrapped.
+[ 2025-06-24 12:43:21,159 ] 175 RERAScrapper - INFO - Project Detail Table 'project_detail_table' scrapped.
+[ 2025-06-24 12:43:21,189 ] 182 RERAScrapper - INFO - Uploaded Documents page clicked.
+[ 2025-06-24 12:43:22,407 ] 196 RERAScrapper - INFO - Project Documents 'project_documents' scrapped.
+[ 2025-06-24 12:43:22,407 ] 197 RERAScrapper - INFO - Project Approval 'project_approval' scrapped.
+[ 2025-06-24 12:43:22,407 ] 198 RERAScrapper - INFO - Declaration 'declaration' scrapped.
+[ 2025-06-24 12:43:22,408 ] 199 RERAScrapper - INFO - Other Documents 'other_documents' scrapped.
+[ 2025-06-24 12:43:22,408 ] 200 RERAScrapper - INFO - Project Photo 'project_photo' scrapped.
+[ 2025-06-24 12:43:22,408 ] 201 RERAScrapper - INFO - Financial Document 'financial_document' scrapped.
+[ 2025-06-24 12:43:42,884 ] 212 RERAScrapper - ERROR - Timed out waiting for Completion Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xa43b03+62899]
+	GetHandleVerifier [0x0xa43b44+62964]
+	(No symbol) [0x0x8710f3]
+	(No symbol) [0x0x8b980e]
+	(No symbol) [0x0x8b9bab]
+	(No symbol) [0x0x9025c2]
+	(No symbol) [0x0x8de554]
+	(No symbol) [0x0x8ffd81]
+	(No symbol) [0x0x8de306]
+	(No symbol) [0x0x8ad670]
+	(No symbol) [0x0x8ae4e4]
+	GetHandleVerifier [0x0xca4793+2556483]
+	GetHandleVerifier [0x0xc9fd02+2537394]
+	GetHandleVerifier [0x0xa6a2fa+220586]
+	GetHandleVerifier [0x0xa5aae8+157080]
+	GetHandleVerifier [0x0xa6141d+184013]
+	GetHandleVerifier [0x0xa4ba68+95512]
+	GetHandleVerifier [0x0xa4bc10+95936]
+	GetHandleVerifier [0x0xa36b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 12:43:44,889 ] 272 RERAScrapper - ERROR - An error occurred in scrape_project_details: local variable 'completion_details' referenced before assignment
+[ 2025-06-24 12:43:49,004 ] 83 RERAScrapper - INFO - City 'Kolar' selected from dropdown.
+[ 2025-06-24 12:43:50,047 ] 90 RERAScrapper - INFO - Select Button Clicked.
+[ 2025-06-24 12:43:59,346 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 12:43:59,380 ] 130 RERAScrapper - INFO - Home Table JSON 'home_table_json' scrapped.
+[ 2025-06-24 12:44:19,895 ] 272 RERAScrapper - ERROR - An error occurred in scrape_project_details: local variable 'h1_elements' referenced before assignment
+[ 2025-06-24 12:44:23,980 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 12:44:24,016 ] 130 RERAScrapper - INFO - Home Table JSON 'home_table_json' scrapped.
+[ 2025-06-24 12:44:25,660 ] 140 RERAScrapper - INFO - Promoter Details 'promoter_details' scrapped.
+[ 2025-06-24 12:44:25,660 ] 141 RERAScrapper - INFO - Authorized Signatory Detail 'authorized_signatory_details' scrapped.
+[ 2025-06-24 12:44:25,660 ] 142 RERAScrapper - INFO - Project Member Details 'project_member_details' scrapped.
+[ 2025-06-24 12:44:25,660 ] 143 RERAScrapper - INFO - Project Land Owner Details 'project_land_owner_details' scrapped.
+[ 2025-06-24 12:44:25,660 ] 144 RERAScrapper - INFO - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' scrapped.
+[ 2025-06-24 12:44:25,661 ] 145 RERAScrapper - INFO - Previous Project Details (Last 5 years only) 'previous_project_details' scrapped.
+[ 2025-06-24 12:44:27,697 ] 154 RERAScrapper - INFO - Project Details page clicked.
+[ 2025-06-24 12:44:28,719 ] 169 RERAScrapper - INFO - Project Details 'project_details' scrapped.
+[ 2025-06-24 12:44:28,719 ] 170 RERAScrapper - INFO - Development Details 'development_details' scrapped.
+[ 2025-06-24 12:44:28,719 ] 171 RERAScrapper - INFO - External Development Work 'external_development_work' scrapped.
+[ 2025-06-24 12:44:28,719 ] 172 RERAScrapper - INFO - Other External Development Work 'other_external_development_work' scrapped.
+[ 2025-06-24 12:44:28,720 ] 173 RERAScrapper - INFO - Project Bank ( Escrow Account ) Details 'project_bank_details' scrapped.
+[ 2025-06-24 12:44:28,720 ] 174 RERAScrapper - INFO - Project Agents 'project_agents' scrapped.
+[ 2025-06-24 12:44:28,720 ] 175 RERAScrapper - INFO - Project Detail Table 'project_detail_table' scrapped.
+[ 2025-06-24 12:44:28,752 ] 182 RERAScrapper - INFO - Uploaded Documents page clicked.
+[ 2025-06-24 12:44:30,229 ] 196 RERAScrapper - INFO - Project Documents 'project_documents' scrapped.
+[ 2025-06-24 12:44:30,229 ] 197 RERAScrapper - INFO - Project Approval 'project_approval' scrapped.
+[ 2025-06-24 12:44:30,229 ] 198 RERAScrapper - INFO - Declaration 'declaration' scrapped.
+[ 2025-06-24 12:44:30,229 ] 199 RERAScrapper - INFO - Other Documents 'other_documents' scrapped.
+[ 2025-06-24 12:44:30,229 ] 200 RERAScrapper - INFO - Project Photo 'project_photo' scrapped.
+[ 2025-06-24 12:44:30,230 ] 201 RERAScrapper - INFO - Financial Document 'financial_document' scrapped.
+[ 2025-06-24 12:44:30,263 ] 210 RERAScrapper - INFO - Completion Details page clicked.
+[ 2025-06-24 12:44:32,548 ] 272 RERAScrapper - ERROR - An error occurred in scrape_project_details: local variable 'h1_elements' referenced before assignment
+[ 2025-06-24 12:44:36,656 ] 83 RERAScrapper - INFO - City 'Kolar' selected from dropdown.
+[ 2025-06-24 12:44:41,503 ] 90 RERAScrapper - INFO - Select Button Clicked.
+[ 2025-06-24 12:44:48,581 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 12:44:48,623 ] 130 RERAScrapper - INFO - Home Table JSON 'home_table_json' scrapped.
+[ 2025-06-24 12:44:50,349 ] 272 RERAScrapper - ERROR - An error occurred in scrape_project_details: local variable 'h1_elements' referenced before assignment
+[ 2025-06-24 12:44:54,456 ] 83 RERAScrapper - INFO - City 'Kolar' selected from dropdown.
+[ 2025-06-24 12:45:04,795 ] 90 RERAScrapper - INFO - Select Button Clicked.
+[ 2025-06-24 12:45:11,859 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 12:45:11,895 ] 130 RERAScrapper - INFO - Home Table JSON 'home_table_json' scrapped.
+[ 2025-06-24 12:45:13,305 ] 140 RERAScrapper - INFO - Promoter Details 'promoter_details' scrapped.
+[ 2025-06-24 12:45:13,305 ] 141 RERAScrapper - INFO - Authorized Signatory Detail 'authorized_signatory_details' scrapped.
+[ 2025-06-24 12:45:13,305 ] 142 RERAScrapper - INFO - Project Member Details 'project_member_details' scrapped.
+[ 2025-06-24 12:45:13,305 ] 143 RERAScrapper - INFO - Project Land Owner Details 'project_land_owner_details' scrapped.
+[ 2025-06-24 12:45:13,306 ] 144 RERAScrapper - INFO - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' scrapped.
+[ 2025-06-24 12:45:13,306 ] 145 RERAScrapper - INFO - Previous Project Details (Last 5 years only) 'previous_project_details' scrapped.
+[ 2025-06-24 12:45:15,352 ] 154 RERAScrapper - INFO - Project Details page clicked.
+[ 2025-06-24 12:45:16,313 ] 169 RERAScrapper - INFO - Project Details 'project_details' scrapped.
+[ 2025-06-24 12:45:16,314 ] 170 RERAScrapper - INFO - Development Details 'development_details' scrapped.
+[ 2025-06-24 12:45:16,314 ] 171 RERAScrapper - INFO - External Development Work 'external_development_work' scrapped.
+[ 2025-06-24 12:45:16,314 ] 172 RERAScrapper - INFO - Other External Development Work 'other_external_development_work' scrapped.
+[ 2025-06-24 12:45:16,314 ] 173 RERAScrapper - INFO - Project Bank ( Escrow Account ) Details 'project_bank_details' scrapped.
+[ 2025-06-24 12:45:16,315 ] 174 RERAScrapper - INFO - Project Agents 'project_agents' scrapped.
+[ 2025-06-24 12:45:16,315 ] 175 RERAScrapper - INFO - Project Detail Table 'project_detail_table' scrapped.
+[ 2025-06-24 12:45:16,347 ] 182 RERAScrapper - INFO - Uploaded Documents page clicked.
+[ 2025-06-24 12:45:17,564 ] 196 RERAScrapper - INFO - Project Documents 'project_documents' scrapped.
+[ 2025-06-24 12:45:17,564 ] 197 RERAScrapper - INFO - Project Approval 'project_approval' scrapped.
+[ 2025-06-24 12:45:17,565 ] 198 RERAScrapper - INFO - Declaration 'declaration' scrapped.
+[ 2025-06-24 12:45:17,565 ] 199 RERAScrapper - INFO - Other Documents 'other_documents' scrapped.
+[ 2025-06-24 12:45:17,565 ] 200 RERAScrapper - INFO - Project Photo 'project_photo' scrapped.
+[ 2025-06-24 12:45:17,565 ] 201 RERAScrapper - INFO - Financial Document 'financial_document' scrapped.
+[ 2025-06-24 12:45:17,598 ] 210 RERAScrapper - INFO - Completion Details page clicked.
+[ 2025-06-24 12:45:19,897 ] 272 RERAScrapper - ERROR - An error occurred in scrape_project_details: local variable 'h1_elements' referenced before assignment
+[ 2025-06-24 12:45:23,984 ] 83 RERAScrapper - INFO - City 'Kolar' selected from dropdown.
+[ 2025-06-24 12:45:31,364 ] 90 RERAScrapper - INFO - Select Button Clicked.
+[ 2025-06-24 12:45:38,402 ] 115 RERAScrapper - ERROR - Error during project details table process: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=137.0.7151.120)
+Stacktrace:
+	GetHandleVerifier [0x0xa43b03+62899]
+	GetHandleVerifier [0x0xa43b44+62964]
+	(No symbol) [0x0x8710f3]
+	(No symbol) [0x0x8608c0]
+	(No symbol) [0x0x87e87f]
+	(No symbol) [0x0x8e514c]
+	(No symbol) [0x0x8ff6a9]
+	(No symbol) [0x0x8de306]
+	(No symbol) [0x0x8ad670]
+	(No symbol) [0x0x8ae4e4]
+	GetHandleVerifier [0x0xca4793+2556483]
+	GetHandleVerifier [0x0xc9fd02+2537394]
+	GetHandleVerifier [0x0xa6a2fa+220586]
+	GetHandleVerifier [0x0xa5aae8+157080]
+	GetHandleVerifier [0x0xa6141d+184013]
+	GetHandleVerifier [0x0xa4ba68+95512]
+	GetHandleVerifier [0x0xa4bc10+95936]
+	GetHandleVerifier [0x0xa36b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+

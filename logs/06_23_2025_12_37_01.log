@@ -1,0 +1,4 @@
+[ 2025-06-23 12:37:01,919 ] 62 RERAScrapper - INFO - Browser initialized successfully.
+[ 2025-06-23 12:37:05,899 ] 70 RERAScrapper - INFO - Navigated to URL: https://rera.karnataka.gov.in/viewAllProjects
+[ 2025-06-23 12:37:06,069 ] 83 RERAScrapper - INFO - City 'Kolar' selected from dropdown.
+[ 2025-06-23 12:37:07,117 ] 90 RERAScrapper - INFO - Select Button Clicked.

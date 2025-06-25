@@ -1,0 +1,171 @@
+[ 2025-06-24 11:56:05,970 ] 346 undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Utkarsh\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+[ 2025-06-24 11:56:07,060 ] 62 RERAScrapper - INFO - Browser initialized successfully.
+[ 2025-06-24 11:56:10,953 ] 70 RERAScrapper - INFO - Navigated to URL: https://rera.karnataka.gov.in/viewAllProjects
+[ 2025-06-24 11:56:11,127 ] 83 RERAScrapper - INFO - City 'Kolar' selected from dropdown.
+[ 2025-06-24 11:56:15,991 ] 90 RERAScrapper - INFO - Select Button Clicked.
+[ 2025-06-24 11:56:17,059 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 11:56:17,092 ] 130 RERAScrapper - INFO - Home Table JSON '{
+    "S.No": "1",
+    "ACKNOWLEDGEMENT NO": "PR/KN/170726/000020",
+    "REGISTRATION NO": "PRM/KA/RERA/1265/347/PR/170824/000020",
+    "View Project Details": "",
+    "PROMOTER NAME": "AARRA COMMUNITIES HOLDINGS",
+    "PROJECT NAME": "AARRA SPRINGS",
+    "STATUS": "APPROVED",
+    "DISTRICT": "Kolar",
+    "TALUK": "Maluru",
+    "PROJECT TYPE": "Residential/Group Housing",
+    "APPROVED ON": "24/08/2017",
+    "PROPOSED COMPLETION DATE": "31/01/2021",
+    "PROPOSED COMPLETION DATE AT THE TIME OF REGISTRATION": "31-07-2020",
+    "COVID-19 EXTENSION DATE": "31-07-2020 - 31-01-2021",
+    "SECTION 6 EXTENSION DATE": "",
+    "FURTHER EXTENSION DATE": "",
+    "Certificate": "/certificate?CER_NO=PRM/KA/RERA/1265/347/PR/170824/000020",
+    "Covid Certificate": "/covidcertificate?CER_NO=PRM/KA/RERA/1265/347/PR/170824/000020",
+    "Renewed Certificate": "",
+    "FURTHER EXTENSION ORDER": "",
+    "COMPLAINTS / LITIGATION": ""
+}' scrapped.
+[ 2025-06-24 11:56:17,972 ] 140 RERAScrapper - INFO - Promoter Details 'promoter_details' scrapped.
+[ 2025-06-24 11:56:17,973 ] 141 RERAScrapper - INFO - Authorized Signatory Detail 'authorized_signatory_details' scrapped.
+[ 2025-06-24 11:56:17,973 ] 142 RERAScrapper - INFO - Project Member Details 'project_member_details' scrapped.
+[ 2025-06-24 11:56:17,973 ] 143 RERAScrapper - INFO - Project Land Owner Details 'project_land_owner_details' scrapped.
+[ 2025-06-24 11:56:17,973 ] 144 RERAScrapper - INFO - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' scrapped.
+[ 2025-06-24 11:56:17,973 ] 145 RERAScrapper - INFO - Previous Project Details (Last 5 years only) 'previous_project_details' scrapped.
+[ 2025-06-24 11:56:20,010 ] 154 RERAScrapper - INFO - Project Details page clicked.
+[ 2025-06-24 11:56:21,295 ] 169 RERAScrapper - INFO - Project Details 'project_details' scrapped.
+[ 2025-06-24 11:56:21,296 ] 170 RERAScrapper - INFO - Development Details 'development_details' scrapped.
+[ 2025-06-24 11:56:21,296 ] 171 RERAScrapper - INFO - External Development Work 'external_development_work' scrapped.
+[ 2025-06-24 11:56:21,296 ] 172 RERAScrapper - INFO - Other External Development Work 'other_external_development_work' scrapped.
+[ 2025-06-24 11:56:21,296 ] 173 RERAScrapper - INFO - Project Bank ( Escrow Account ) Details 'project_bank_details' scrapped.
+[ 2025-06-24 11:56:21,296 ] 174 RERAScrapper - INFO - Project Agents 'project_agents' scrapped.
+[ 2025-06-24 11:56:21,296 ] 175 RERAScrapper - INFO - Project Detail Table 'project_detail_table' scrapped.
+[ 2025-06-24 11:56:21,333 ] 182 RERAScrapper - INFO - Uploaded Documents page clicked.
+[ 2025-06-24 11:56:23,159 ] 196 RERAScrapper - INFO - Project Documents 'project_documents' scrapped.
+[ 2025-06-24 11:56:23,159 ] 197 RERAScrapper - INFO - Project Approval 'project_approval' scrapped.
+[ 2025-06-24 11:56:23,159 ] 198 RERAScrapper - INFO - Declaration 'declaration' scrapped.
+[ 2025-06-24 11:56:23,159 ] 199 RERAScrapper - INFO - Other Documents 'other_documents' scrapped.
+[ 2025-06-24 11:56:23,159 ] 200 RERAScrapper - INFO - Project Photo 'project_photo' scrapped.
+[ 2025-06-24 11:56:23,159 ] 201 RERAScrapper - INFO - Financial Document 'financial_document' scrapped.
+[ 2025-06-24 11:56:23,197 ] 210 RERAScrapper - INFO - Completion Details page clicked.
+[ 2025-06-24 11:56:26,082 ] 226 RERAScrapper - INFO - Completion Details '{
+    "": {
+        "Promoter has Applied for Completion on 15/01/2021": [
+            "Project Start Date: 01-01-2017",
+            "Project End Date: 31-01-2021",
+            "If any extension of time has been granted: NO"
+        ]
+    }
+}' scrapped.
+[ 2025-06-24 11:56:26,082 ] 227 RERAScrapper - INFO - Development Details '{
+    "Development Details": [
+        "Whether the project has been completed within the stipulated Period?: YES",
+        "Delay Reason: https://rera.karnataka.gov.in/download_jc?DOC_ID=",
+        "Whether there is any Change in inventory list or specification?: NO",
+        "Change in inventory/specification details: https://rera.karnataka.gov.in/download_jc?DOC_ID=",
+        "As built drawing approved by the planning Authority: YES"
+    ]
+}' scrapped.
+[ 2025-06-24 11:56:26,082 ] 228 RERAScrapper - INFO - Uploaded Documents '{
+    "Uploaded Documents": [
+        "Stability Certificate: https://rera.karnataka.gov.in/download_jc?DOC_ID=ZxpIbt6XopWb0yO6Wp%2B4Dw%3D%3D",
+        "Road cutting permission letter issued by the planning Authority for laying Water supply line, sanitary line, Under Ground Electrical Cable: https://rera.karnataka.gov.in/download_jc?DOC_ID=",
+        "NOC issued by the Fire Force department after completion of work: https://rera.karnataka.gov.in/download_jc?DOC_ID=wth74pRvDjD7GYRBiMWTyA%3D%3D",
+        "Occupancy certificate received?: YES",
+        "Occupancy certificate received date: 27-04-2020",
+        "Occupancy Certificate: https://rera.karnataka.gov.in/download_jc?DOC_ID=AtjarLZl1RUx16bgnqURYw%3D%3D",
+        "Consent for operation issued by KSPCB: https://rera.karnataka.gov.in/download_jc?DOC_ID=",
+        "Certificate of operation for lifts issued by the Chief of Department of Electrical inspectorate Government of Karnataka: https://rera.karnataka.gov.in/download_jc?DOC_ID=",
+        "Sanctioned Letter issued by concerned ESCOM of Power sanction and details of transformer installed and whether the same has been charged or not.: https://rera.karnataka.gov.in/download_jc?DOC_ID=HMnoM0ATmiKB%2F6Vw0mVkMA%3D%3D",
+        "Sanctioned letter issued by concerned water supply and sanitary board for the project: https://rera.karnataka.gov.in/download_jc?DOC_ID=w7rtgz8zVW%2F2k0yMpet0TQ%3D%3D",
+        "Details of external infrastructure work such as drive way, play area, park, STP and water treatment plant, Whether the above works are completed.: https://rera.karnataka.gov.in/download_jc?DOC_ID=",
+        "Common Area and other amenities facilities are completed or not and details of handling over of the same to association of allotees: https://rera.karnataka.gov.in/download_jc?DOC_ID=",
+        "Details of undivided share of land handed over to the association of allottees: https://rera.karnataka.gov.in/download_jc?DOC_ID=",
+        "Architect certificate for having completed the work(in format no 5): https://rera.karnataka.gov.in/download_jc?DOC_ID=4Kt5qZn9pdX4XU2w9xbBIA%3D%3D",
+        "Chartered Accountant certificate for having completed the work(in format no 4): https://rera.karnataka.gov.in/download_jc?DOC_ID=zLeO8Uxgbae9F20AR3E5qA%3D%3D",
+        "Affidavit cum declaration from promoter for having completed the project as per specification and as per advertisement published in brochure of the project: https://rera.karnataka.gov.in/download_jc?DOC_ID=weIN0UHGm%2BVoZnRMGuAfEQ%3D%3D"
+    ]
+}' scrapped.
+[ 2025-06-24 11:56:26,083 ] 229 RERAScrapper - INFO - Photos Uploaded '{
+    "Photos Uploaded": [
+        "Photo 1: https://rera.karnataka.gov.in/download_jc?DOC_ID=hEulBw29zXDTnQ%2BOWzH%2BkQ%3D%3D",
+        "Photo 2: https://rera.karnataka.gov.in/download_jc?DOC_ID=EnDuZpz8yDyrbqVAHzGYsw%3D%3D",
+        "Photo 3: https://rera.karnataka.gov.in/download_jc?DOC_ID=rHMlBZflNQLFAxEBXd3dBA%3D%3D",
+        "Photo 4: https://rera.karnataka.gov.in/download_jc?DOC_ID=%2BzZDMjYXgPVEgjKtMBrdTA%3D%3D"
+    ]
+}' scrapped.
+[ 2025-06-24 11:56:35,392 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 11:56:35,426 ] 130 RERAScrapper - INFO - Home Table JSON '{
+    "S.No": "2",
+    "ACKNOWLEDGEMENT NO": "PR/KN/170731/000682",
+    "REGISTRATION NO": "PRM/KA/RERA/1265/347/PR/171024/000682",
+    "View Project Details": "",
+    "PROMOTER NAME": "indes projects india pvt ltd",
+    "PROJECT NAME": "DEWDROPS",
+    "STATUS": "APPROVED",
+    "DISTRICT": "Kolar",
+    "TALUK": "Maluru",
+    "PROJECT TYPE": "Plotted Development",
+    "APPROVED ON": "24/10/2017",
+    "PROPOSED COMPLETION DATE": "14/06/2018",
+    "PROPOSED COMPLETION DATE AT THE TIME OF REGISTRATION": "14-06-2018",
+    "COVID-19 EXTENSION DATE": "",
+    "SECTION 6 EXTENSION DATE": "",
+    "FURTHER EXTENSION DATE": "",
+    "Certificate": "/certificate?CER_NO=PRM/KA/RERA/1265/347/PR/171024/000682",
+    "Covid Certificate": "",
+    "Renewed Certificate": "",
+    "FURTHER EXTENSION ORDER": "",
+    "COMPLAINTS / LITIGATION": ""
+}' scrapped.
+[ 2025-06-24 11:56:55,944 ] 274 RERAScrapper - ERROR - An error occurred in scrape_project_details: local variable 'h1_elements' referenced before assignment
+[ 2025-06-24 11:57:00,007 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 11:57:00,040 ] 130 RERAScrapper - INFO - Home Table JSON '{
+    "S.No": "3",
+    "ACKNOWLEDGEMENT NO": "PR/KN/170731/000717",
+    "REGISTRATION NO": "PRM/KA/RERA/1265/347/PR/171015/000717",
+    "View Project Details": "",
+    "PROMOTER NAME": "FIRE Luxur Developers Private Limited",
+    "PROJECT NAME": "FIRE Luxur Developers Private Limited",
+    "STATUS": "APPROVED",
+    "DISTRICT": "Kolar",
+    "TALUK": "Maluru",
+    "PROJECT TYPE": "Mixed Development",
+    "APPROVED ON": "15/10/2017",
+    "PROPOSED COMPLETION DATE": "30/12/2023",
+    "PROPOSED COMPLETION DATE AT THE TIME OF REGISTRATION": "31-03-2023",
+    "COVID-19 EXTENSION DATE": "31-03-2023 - 31-12-2023",
+    "SECTION 6 EXTENSION DATE": "",
+    "FURTHER EXTENSION DATE": "",
+    "Certificate": "/certificate?CER_NO=PRM/KA/RERA/1265/347/PR/171015/000717",
+    "Covid Certificate": "/covidcertificate?CER_NO=PRM/KA/RERA/1265/347/PR/171015/000717",
+    "Renewed Certificate": "",
+    "FURTHER EXTENSION ORDER": "",
+    "COMPLAINTS / LITIGATION": ""
+}' scrapped.
+[ 2025-06-24 11:57:20,553 ] 274 RERAScrapper - ERROR - An error occurred in scrape_project_details: local variable 'h1_elements' referenced before assignment
+[ 2025-06-24 11:57:24,618 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 11:57:24,649 ] 130 RERAScrapper - INFO - Home Table JSON '{
+    "S.No": "4",
+    "ACKNOWLEDGEMENT NO": "PR/KN/170828/001408",
+    "REGISTRATION NO": "PRM/KA/RERA/1265/339/PR/171031/001408",
+    "View Project Details": "",
+    "PROMOTER NAME": "KADAM GROUP",
+    "PROJECT NAME": "ROYAL CYPRESS",
+    "STATUS": "APPROVED",
+    "DISTRICT": "Kolar",
+    "TALUK": "Kolar",
+    "PROJECT TYPE": "Plotted Development",
+    "APPROVED ON": "31/10/2017",
+    "PROPOSED COMPLETION DATE": "31/08/2018",
+    "PROPOSED COMPLETION DATE AT THE TIME OF REGISTRATION": "31-08-2018",
+    "COVID-19 EXTENSION DATE": "",
+    "SECTION 6 EXTENSION DATE": "",
+    "FURTHER EXTENSION DATE": "",
+    "Certificate": "/certificate?CER_NO=PRM/KA/RERA/1265/339/PR/171031/001408",
+    "Covid Certificate": "",
+    "Renewed Certificate": "",
+    "FURTHER EXTENSION ORDER": "",
+    "COMPLAINTS / LITIGATION": ""
+}' scrapped.

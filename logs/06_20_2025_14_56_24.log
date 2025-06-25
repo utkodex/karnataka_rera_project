@@ -1,0 +1,97 @@
+[ 2025-06-20 14:56:26,697 ] 346 undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Utkarsh\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+[ 2025-06-20 14:56:27,318 ] 62 RERAScrapper - INFO - Browser initialized successfully.
+[ 2025-06-20 14:56:32,352 ] 70 RERAScrapper - INFO - Navigated to URL: https://rera.karnataka.gov.in/viewAllProjects
+[ 2025-06-20 14:56:32,549 ] 83 RERAScrapper - INFO - City 'Kolar' selected from dropdown.
+[ 2025-06-20 14:56:37,970 ] 90 RERAScrapper - INFO - Select Button Clicked.
+[ 2025-06-20 14:56:39,042 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-20 14:56:39,083 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-20 14:56:40,269 ] 141 RERAScrapper - INFO - Promoter Details '{
+    "Promoter Details": []
+}' scrapped.
+[ 2025-06-20 14:56:40,269 ] 142 RERAScrapper - INFO - Authorized Signatory Detail 'authorized_signatory_details' scrapped.
+[ 2025-06-20 14:56:40,269 ] 143 RERAScrapper - INFO - Project Member Details 'project_member_details' scrapped.
+[ 2025-06-20 14:56:40,269 ] 144 RERAScrapper - INFO - Project Land Owner Details 'project_land_owner_details' scrapped.
+[ 2025-06-20 14:56:40,269 ] 145 RERAScrapper - INFO - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' scrapped.
+[ 2025-06-20 14:56:40,269 ] 146 RERAScrapper - INFO - Previous Project Details (Last 5 years only) 'previous_project_details' scrapped.
+[ 2025-06-20 14:56:42,304 ] 155 RERAScrapper - INFO - Project Details page clicked.
+[ 2025-06-20 14:56:42,415 ] 170 RERAScrapper - INFO - Project Details 'project_details' scrapped.
+[ 2025-06-20 14:56:42,415 ] 171 RERAScrapper - INFO - Development Details 'development_details' scrapped.
+[ 2025-06-20 14:56:42,415 ] 172 RERAScrapper - INFO - External Development Work 'external_development_work' scrapped.
+[ 2025-06-20 14:56:42,416 ] 173 RERAScrapper - INFO - Other External Development Work 'other_external_development_work' scrapped.
+[ 2025-06-20 14:56:42,416 ] 174 RERAScrapper - INFO - Project Bank ( Escrow Account ) Details 'project_bank_details' scrapped.
+[ 2025-06-20 14:56:42,416 ] 175 RERAScrapper - INFO - Project Agents 'project_agents' scrapped.
+[ 2025-06-20 14:56:42,416 ] 176 RERAScrapper - INFO - Project Detail Table 'project_detail_table' scrapped.
+[ 2025-06-20 14:56:42,451 ] 183 RERAScrapper - INFO - Uploaded Documents page clicked.
+[ 2025-06-20 14:56:42,564 ] 197 RERAScrapper - INFO - Project Documents 'project_documents' scrapped.
+[ 2025-06-20 14:56:42,564 ] 198 RERAScrapper - INFO - Project Approval 'project_approval' scrapped.
+[ 2025-06-20 14:56:42,564 ] 199 RERAScrapper - INFO - Declaration 'declaration' scrapped.
+[ 2025-06-20 14:56:42,564 ] 200 RERAScrapper - INFO - Other Documents 'other_documents' scrapped.
+[ 2025-06-20 14:56:42,564 ] 201 RERAScrapper - INFO - Project Photo 'project_photo' scrapped.
+[ 2025-06-20 14:56:42,565 ] 202 RERAScrapper - INFO - Financial Document 'financial_document' scrapped.
+[ 2025-06-20 14:56:42,605 ] 211 RERAScrapper - INFO - Completion Details page clicked.
+[ 2025-06-20 14:56:42,645 ] 219 RERAScrapper - INFO - Completion Details '{
+    "": {
+        "": []
+    }
+}' scrapped.
+[ 2025-06-20 14:56:45,348 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-20 14:56:46,416 ] 115 RERAScrapper - ERROR - Error during project details table process: Message: element click intercepted: Element <td style="font-size: 13px;">...</td> is not clickable at point (744, 842). Other element would receive the click: <div class="col-md-3 col-sm-6 col-xs-6">...</div>
+  (Session info: chrome=137.0.7151.105)
+Stacktrace:
+	GetHandleVerifier [0x0xfd3b03+62899]
+	GetHandleVerifier [0x0xfd3b44+62964]
+	(No symbol) [0x0xe010f3]
+	(No symbol) [0x0xe4fb30]
+	(No symbol) [0x0xe4deea]
+	(No symbol) [0x0xe4ba67]
+	(No symbol) [0x0xe4ad37]
+	(No symbol) [0x0xe3f3e5]
+	(No symbol) [0x0xe6e50c]
+	(No symbol) [0x0xe3ee74]
+	(No symbol) [0x0xe6e784]
+	(No symbol) [0x0xe8fd81]
+	(No symbol) [0x0xe6e306]
+	(No symbol) [0x0xe3d670]
+	(No symbol) [0x0xe3e4e4]
+	GetHandleVerifier [0x0x1234793+2556483]
+	GetHandleVerifier [0x0x122fd02+2537394]
+	GetHandleVerifier [0x0xffa2fa+220586]
+	GetHandleVerifier [0x0xfeaae8+157080]
+	GetHandleVerifier [0x0xff141d+184013]
+	GetHandleVerifier [0x0xfdba68+95512]
+	GetHandleVerifier [0x0xfdbc10+95936]
+	GetHandleVerifier [0x0xfc6b5a+9738]
+	BaseThreadInitThunk [0x0x75edfcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77e682ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77e6827e+238]
+
+[ 2025-06-20 14:56:46,418 ] 264 RERAScrapper - ERROR - An error occurred in scrape_project_details: Error occured in python script name [C:\Users\Utkarsh\Downloads\Coding\Tut\Lawsikho Projects\upwork\RERA Project\karnataka\karnataka_rera_project\workflow\workflow.py] line number [110] error message [Message: element click intercepted: Element <td style="font-size: 13px;">...</td> is not clickable at point (744, 842). Other element would receive the click: <div class="col-md-3 col-sm-6 col-xs-6">...</div>
+  (Session info: chrome=137.0.7151.105)
+Stacktrace:
+	GetHandleVerifier [0x0xfd3b03+62899]
+	GetHandleVerifier [0x0xfd3b44+62964]
+	(No symbol) [0x0xe010f3]
+	(No symbol) [0x0xe4fb30]
+	(No symbol) [0x0xe4deea]
+	(No symbol) [0x0xe4ba67]
+	(No symbol) [0x0xe4ad37]
+	(No symbol) [0x0xe3f3e5]
+	(No symbol) [0x0xe6e50c]
+	(No symbol) [0x0xe3ee74]
+	(No symbol) [0x0xe6e784]
+	(No symbol) [0x0xe8fd81]
+	(No symbol) [0x0xe6e306]
+	(No symbol) [0x0xe3d670]
+	(No symbol) [0x0xe3e4e4]
+	GetHandleVerifier [0x0x1234793+2556483]
+	GetHandleVerifier [0x0x122fd02+2537394]
+	GetHandleVerifier [0x0xffa2fa+220586]
+	GetHandleVerifier [0x0xfeaae8+157080]
+	GetHandleVerifier [0x0xff141d+184013]
+	GetHandleVerifier [0x0xfdba68+95512]
+	GetHandleVerifier [0x0xfdbc10+95936]
+	GetHandleVerifier [0x0xfc6b5a+9738]
+	BaseThreadInitThunk [0x0x75edfcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77e682ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77e6827e+238]
+]

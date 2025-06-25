@@ -4,6 +4,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
 import time
+import random
 
 class SimpleTools:
 
@@ -73,3 +74,18 @@ class SimpleTools:
             next_button_element.click()
             
             time.sleep(1)
+
+    def random_scroll(driver):
+        random_integer = random.randint(0, 4)
+        for _ in range(random_integer):
+            
+            random_integer = random.randint(5, 8)
+            for _ in range(random_integer):
+                
+                # Execute JavaScript to scroll down
+                random_number = random.uniform(600, 800)
+                driver.execute_script(f"window.scrollBy(0, {random_number});")
+                
+                # Wait for the content to load if applicable
+                random_number = random.uniform(0, 1)
+                time.sleep(random_number)

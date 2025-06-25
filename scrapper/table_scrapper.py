@@ -10,15 +10,15 @@ import json
 
 class TableScrapper:
 
-    def home_table_extractor(driver):
-        enter_username = WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH,"//tbody/tr[2]")))
+    def home_table_extractor(driver, i):
+        enter_username = WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH,f"//tbody/tr[{i}]")))
         html_content=enter_username.get_attribute("outerHTML")
         # print(html_content)
         return html_content
 
-    def home_table_json(driver):
+    def home_table_json(driver, i):
 
-        html_content = TableScrapper.home_table_extractor(driver)
+        html_content = TableScrapper.home_table_extractor(driver, i)
 
         soup = BeautifulSoup(html_content, "html.parser")
         row = soup.find("tr")

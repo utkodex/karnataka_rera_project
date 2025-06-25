@@ -1,0 +1,97 @@
+[ 2025-06-20 15:02:34,548 ] 346 undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Utkarsh\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+[ 2025-06-20 15:02:35,175 ] 62 RERAScrapper - INFO - Browser initialized successfully.
+[ 2025-06-20 15:02:39,111 ] 70 RERAScrapper - INFO - Navigated to URL: https://rera.karnataka.gov.in/viewAllProjects
+[ 2025-06-20 15:02:39,292 ] 83 RERAScrapper - INFO - City 'Kolar' selected from dropdown.
+[ 2025-06-20 15:02:40,338 ] 90 RERAScrapper - INFO - Select Button Clicked.
+[ 2025-06-20 15:02:48,667 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-20 15:02:49,269 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-20 15:02:50,420 ] 141 RERAScrapper - INFO - Promoter Details '{
+    "Promoter Details": []
+}' scrapped.
+[ 2025-06-20 15:02:50,421 ] 142 RERAScrapper - INFO - Authorized Signatory Detail 'authorized_signatory_details' scrapped.
+[ 2025-06-20 15:02:50,421 ] 143 RERAScrapper - INFO - Project Member Details 'project_member_details' scrapped.
+[ 2025-06-20 15:02:50,421 ] 144 RERAScrapper - INFO - Project Land Owner Details 'project_land_owner_details' scrapped.
+[ 2025-06-20 15:02:50,421 ] 145 RERAScrapper - INFO - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' scrapped.
+[ 2025-06-20 15:02:50,421 ] 146 RERAScrapper - INFO - Previous Project Details (Last 5 years only) 'previous_project_details' scrapped.
+[ 2025-06-20 15:02:52,476 ] 155 RERAScrapper - INFO - Project Details page clicked.
+[ 2025-06-20 15:02:52,588 ] 170 RERAScrapper - INFO - Project Details 'project_details' scrapped.
+[ 2025-06-20 15:02:52,589 ] 171 RERAScrapper - INFO - Development Details 'development_details' scrapped.
+[ 2025-06-20 15:02:52,589 ] 172 RERAScrapper - INFO - External Development Work 'external_development_work' scrapped.
+[ 2025-06-20 15:02:52,589 ] 173 RERAScrapper - INFO - Other External Development Work 'other_external_development_work' scrapped.
+[ 2025-06-20 15:02:52,589 ] 174 RERAScrapper - INFO - Project Bank ( Escrow Account ) Details 'project_bank_details' scrapped.
+[ 2025-06-20 15:02:52,589 ] 175 RERAScrapper - INFO - Project Agents 'project_agents' scrapped.
+[ 2025-06-20 15:02:52,589 ] 176 RERAScrapper - INFO - Project Detail Table 'project_detail_table' scrapped.
+[ 2025-06-20 15:02:52,620 ] 183 RERAScrapper - INFO - Uploaded Documents page clicked.
+[ 2025-06-20 15:02:52,724 ] 197 RERAScrapper - INFO - Project Documents 'project_documents' scrapped.
+[ 2025-06-20 15:02:52,724 ] 198 RERAScrapper - INFO - Project Approval 'project_approval' scrapped.
+[ 2025-06-20 15:02:52,724 ] 199 RERAScrapper - INFO - Declaration 'declaration' scrapped.
+[ 2025-06-20 15:02:52,724 ] 200 RERAScrapper - INFO - Other Documents 'other_documents' scrapped.
+[ 2025-06-20 15:02:52,724 ] 201 RERAScrapper - INFO - Project Photo 'project_photo' scrapped.
+[ 2025-06-20 15:02:52,725 ] 202 RERAScrapper - INFO - Financial Document 'financial_document' scrapped.
+[ 2025-06-20 15:02:52,760 ] 211 RERAScrapper - INFO - Completion Details page clicked.
+[ 2025-06-20 15:02:52,797 ] 219 RERAScrapper - INFO - Completion Details '{
+    "": {
+        "": []
+    }
+}' scrapped.
+[ 2025-06-20 15:02:54,957 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-20 15:02:56,036 ] 115 RERAScrapper - ERROR - Error during project details table process: Message: element click intercepted: Element <td style="font-size: 13px;">...</td> is not clickable at point (744, 742). Other element would receive the click: <p>...</p>
+  (Session info: chrome=137.0.7151.105)
+Stacktrace:
+	GetHandleVerifier [0x0x403b03+62899]
+	GetHandleVerifier [0x0x403b44+62964]
+	(No symbol) [0x0x2310f3]
+	(No symbol) [0x0x27fb30]
+	(No symbol) [0x0x27deea]
+	(No symbol) [0x0x27ba67]
+	(No symbol) [0x0x27ad37]
+	(No symbol) [0x0x26f3e5]
+	(No symbol) [0x0x29e50c]
+	(No symbol) [0x0x26ee74]
+	(No symbol) [0x0x29e784]
+	(No symbol) [0x0x2bfd81]
+	(No symbol) [0x0x29e306]
+	(No symbol) [0x0x26d670]
+	(No symbol) [0x0x26e4e4]
+	GetHandleVerifier [0x0x664793+2556483]
+	GetHandleVerifier [0x0x65fd02+2537394]
+	GetHandleVerifier [0x0x42a2fa+220586]
+	GetHandleVerifier [0x0x41aae8+157080]
+	GetHandleVerifier [0x0x42141d+184013]
+	GetHandleVerifier [0x0x40ba68+95512]
+	GetHandleVerifier [0x0x40bc10+95936]
+	GetHandleVerifier [0x0x3f6b5a+9738]
+	BaseThreadInitThunk [0x0x75edfcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77e682ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77e6827e+238]
+
+[ 2025-06-20 15:02:56,037 ] 264 RERAScrapper - ERROR - An error occurred in scrape_project_details: Error occured in python script name [C:\Users\Utkarsh\Downloads\Coding\Tut\Lawsikho Projects\upwork\RERA Project\karnataka\karnataka_rera_project\workflow\workflow.py] line number [110] error message [Message: element click intercepted: Element <td style="font-size: 13px;">...</td> is not clickable at point (744, 742). Other element would receive the click: <p>...</p>
+  (Session info: chrome=137.0.7151.105)
+Stacktrace:
+	GetHandleVerifier [0x0x403b03+62899]
+	GetHandleVerifier [0x0x403b44+62964]
+	(No symbol) [0x0x2310f3]
+	(No symbol) [0x0x27fb30]
+	(No symbol) [0x0x27deea]
+	(No symbol) [0x0x27ba67]
+	(No symbol) [0x0x27ad37]
+	(No symbol) [0x0x26f3e5]
+	(No symbol) [0x0x29e50c]
+	(No symbol) [0x0x26ee74]
+	(No symbol) [0x0x29e784]
+	(No symbol) [0x0x2bfd81]
+	(No symbol) [0x0x29e306]
+	(No symbol) [0x0x26d670]
+	(No symbol) [0x0x26e4e4]
+	GetHandleVerifier [0x0x664793+2556483]
+	GetHandleVerifier [0x0x65fd02+2537394]
+	GetHandleVerifier [0x0x42a2fa+220586]
+	GetHandleVerifier [0x0x41aae8+157080]
+	GetHandleVerifier [0x0x42141d+184013]
+	GetHandleVerifier [0x0x40ba68+95512]
+	GetHandleVerifier [0x0x40bc10+95936]
+	GetHandleVerifier [0x0x3f6b5a+9738]
+	BaseThreadInitThunk [0x0x75edfcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77e682ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77e6827e+238]
+]

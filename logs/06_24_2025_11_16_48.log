@@ -1,0 +1,876 @@
+[ 2025-06-24 11:16:49,209 ] 62 RERAScrapper - INFO - Browser initialized successfully.
+[ 2025-06-24 11:16:55,031 ] 70 RERAScrapper - INFO - Navigated to URL: https://rera.karnataka.gov.in/viewAllProjects
+[ 2025-06-24 11:16:59,286 ] 83 RERAScrapper - INFO - City 'Kolar' selected from dropdown.
+[ 2025-06-24 11:17:08,826 ] 90 RERAScrapper - INFO - Select Button Clicked.
+[ 2025-06-24 11:17:09,894 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 11:17:09,924 ] 130 RERAScrapper - INFO - Home Table JSON '{
+    "S.No": "1",
+    "ACKNOWLEDGEMENT NO": "PR/KN/170726/000020",
+    "REGISTRATION NO": "PRM/KA/RERA/1265/347/PR/170824/000020",
+    "View Project Details": "",
+    "PROMOTER NAME": "AARRA COMMUNITIES HOLDINGS",
+    "PROJECT NAME": "AARRA SPRINGS",
+    "STATUS": "APPROVED",
+    "DISTRICT": "Kolar",
+    "TALUK": "Maluru",
+    "PROJECT TYPE": "Residential/Group Housing",
+    "APPROVED ON": "24/08/2017",
+    "PROPOSED COMPLETION DATE": "31/01/2021",
+    "PROPOSED COMPLETION DATE AT THE TIME OF REGISTRATION": "31-07-2020",
+    "COVID-19 EXTENSION DATE": "31-07-2020 - 31-01-2021",
+    "SECTION 6 EXTENSION DATE": "",
+    "FURTHER EXTENSION DATE": "",
+    "Certificate": "/certificate?CER_NO=PRM/KA/RERA/1265/347/PR/170824/000020",
+    "Covid Certificate": "/covidcertificate?CER_NO=PRM/KA/RERA/1265/347/PR/170824/000020",
+    "Renewed Certificate": "",
+    "FURTHER EXTENSION ORDER": "",
+    "COMPLAINTS / LITIGATION": ""
+}' scrapped.
+[ 2025-06-24 11:17:11,379 ] 140 RERAScrapper - INFO - Promoter Details 'promoter_details' scrapped.
+[ 2025-06-24 11:17:11,379 ] 141 RERAScrapper - INFO - Authorized Signatory Detail 'authorized_signatory_details' scrapped.
+[ 2025-06-24 11:17:11,379 ] 142 RERAScrapper - INFO - Project Member Details 'project_member_details' scrapped.
+[ 2025-06-24 11:17:11,379 ] 143 RERAScrapper - INFO - Project Land Owner Details 'project_land_owner_details' scrapped.
+[ 2025-06-24 11:17:11,379 ] 144 RERAScrapper - INFO - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' scrapped.
+[ 2025-06-24 11:17:11,379 ] 145 RERAScrapper - INFO - Previous Project Details (Last 5 years only) 'previous_project_details' scrapped.
+[ 2025-06-24 11:17:13,428 ] 154 RERAScrapper - INFO - Project Details page clicked.
+[ 2025-06-24 11:17:14,715 ] 169 RERAScrapper - INFO - Project Details 'project_details' scrapped.
+[ 2025-06-24 11:17:14,715 ] 170 RERAScrapper - INFO - Development Details 'development_details' scrapped.
+[ 2025-06-24 11:17:14,716 ] 171 RERAScrapper - INFO - External Development Work 'external_development_work' scrapped.
+[ 2025-06-24 11:17:14,716 ] 172 RERAScrapper - INFO - Other External Development Work 'other_external_development_work' scrapped.
+[ 2025-06-24 11:17:14,716 ] 173 RERAScrapper - INFO - Project Bank ( Escrow Account ) Details 'project_bank_details' scrapped.
+[ 2025-06-24 11:17:14,716 ] 174 RERAScrapper - INFO - Project Agents 'project_agents' scrapped.
+[ 2025-06-24 11:17:14,716 ] 175 RERAScrapper - INFO - Project Detail Table 'project_detail_table' scrapped.
+[ 2025-06-24 11:17:14,750 ] 182 RERAScrapper - INFO - Uploaded Documents page clicked.
+[ 2025-06-24 11:17:16,473 ] 196 RERAScrapper - INFO - Project Documents 'project_documents' scrapped.
+[ 2025-06-24 11:17:16,473 ] 197 RERAScrapper - INFO - Project Approval 'project_approval' scrapped.
+[ 2025-06-24 11:17:16,474 ] 198 RERAScrapper - INFO - Declaration 'declaration' scrapped.
+[ 2025-06-24 11:17:16,474 ] 199 RERAScrapper - INFO - Other Documents 'other_documents' scrapped.
+[ 2025-06-24 11:17:16,474 ] 200 RERAScrapper - INFO - Project Photo 'project_photo' scrapped.
+[ 2025-06-24 11:17:16,474 ] 201 RERAScrapper - INFO - Financial Document 'financial_document' scrapped.
+[ 2025-06-24 11:17:16,507 ] 210 RERAScrapper - INFO - Completion Details page clicked.
+[ 2025-06-24 11:17:19,361 ] 226 RERAScrapper - INFO - Completion Details '{
+    "Completion Details": {
+        "Promoter has Applied for Completion on 15/01/2021": [
+            "Project Start Date: 01-01-2017",
+            "Project End Date: 31-01-2021",
+            "If any extension of time has been granted: NO"
+        ]
+    }
+}' scrapped.
+[ 2025-06-24 11:17:19,362 ] 227 RERAScrapper - INFO - Development Details '{
+    "Development Details": [
+        "Whether the project has been completed within the stipulated Period?: YES",
+        "Delay Reason: https://rera.karnataka.gov.in/download_jc?DOC_ID=",
+        "Whether there is any Change in inventory list or specification?: NO",
+        "Change in inventory/specification details: https://rera.karnataka.gov.in/download_jc?DOC_ID=",
+        "As built drawing approved by the planning Authority: YES"
+    ]
+}' scrapped.
+[ 2025-06-24 11:17:19,362 ] 228 RERAScrapper - INFO - Uploaded Documents '{
+    "Uploaded Documents": [
+        "Stability Certificate: https://rera.karnataka.gov.in/download_jc?DOC_ID=ZxpIbt6XopWb0yO6Wp%2B4Dw%3D%3D",
+        "Road cutting permission letter issued by the planning Authority for laying Water supply line, sanitary line, Under Ground Electrical Cable: https://rera.karnataka.gov.in/download_jc?DOC_ID=",
+        "NOC issued by the Fire Force department after completion of work: https://rera.karnataka.gov.in/download_jc?DOC_ID=wth74pRvDjD7GYRBiMWTyA%3D%3D",
+        "Occupancy certificate received?: YES",
+        "Occupancy certificate received date: 27-04-2020",
+        "Occupancy Certificate: https://rera.karnataka.gov.in/download_jc?DOC_ID=AtjarLZl1RUx16bgnqURYw%3D%3D",
+        "Consent for operation issued by KSPCB: https://rera.karnataka.gov.in/download_jc?DOC_ID=",
+        "Certificate of operation for lifts issued by the Chief of Department of Electrical inspectorate Government of Karnataka: https://rera.karnataka.gov.in/download_jc?DOC_ID=",
+        "Sanctioned Letter issued by concerned ESCOM of Power sanction and details of transformer installed and whether the same has been charged or not.: https://rera.karnataka.gov.in/download_jc?DOC_ID=HMnoM0ATmiKB%2F6Vw0mVkMA%3D%3D",
+        "Sanctioned letter issued by concerned water supply and sanitary board for the project: https://rera.karnataka.gov.in/download_jc?DOC_ID=w7rtgz8zVW%2F2k0yMpet0TQ%3D%3D",
+        "Details of external infrastructure work such as drive way, play area, park, STP and water treatment plant, Whether the above works are completed.: https://rera.karnataka.gov.in/download_jc?DOC_ID=",
+        "Common Area and other amenities facilities are completed or not and details of handling over of the same to association of allotees: https://rera.karnataka.gov.in/download_jc?DOC_ID=",
+        "Details of undivided share of land handed over to the association of allottees: https://rera.karnataka.gov.in/download_jc?DOC_ID=",
+        "Architect certificate for having completed the work(in format no 5): https://rera.karnataka.gov.in/download_jc?DOC_ID=4Kt5qZn9pdX4XU2w9xbBIA%3D%3D",
+        "Chartered Accountant certificate for having completed the work(in format no 4): https://rera.karnataka.gov.in/download_jc?DOC_ID=zLeO8Uxgbae9F20AR3E5qA%3D%3D",
+        "Affidavit cum declaration from promoter for having completed the project as per specification and as per advertisement published in brochure of the project: https://rera.karnataka.gov.in/download_jc?DOC_ID=weIN0UHGm%2BVoZnRMGuAfEQ%3D%3D"
+    ]
+}' scrapped.
+[ 2025-06-24 11:17:19,364 ] 229 RERAScrapper - INFO - Photos Uploaded '{
+    "Photos Uploaded": [
+        "Photo 1: https://rera.karnataka.gov.in/download_jc?DOC_ID=hEulBw29zXDTnQ%2BOWzH%2BkQ%3D%3D",
+        "Photo 2: https://rera.karnataka.gov.in/download_jc?DOC_ID=EnDuZpz8yDyrbqVAHzGYsw%3D%3D",
+        "Photo 3: https://rera.karnataka.gov.in/download_jc?DOC_ID=rHMlBZflNQLFAxEBXd3dBA%3D%3D",
+        "Photo 4: https://rera.karnataka.gov.in/download_jc?DOC_ID=%2BzZDMjYXgPVEgjKtMBrdTA%3D%3D"
+    ]
+}' scrapped.
+[ 2025-06-24 11:17:28,379 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 11:17:28,411 ] 130 RERAScrapper - INFO - Home Table JSON '{
+    "S.No": "2",
+    "ACKNOWLEDGEMENT NO": "PR/KN/170731/000682",
+    "REGISTRATION NO": "PRM/KA/RERA/1265/347/PR/171024/000682",
+    "View Project Details": "",
+    "PROMOTER NAME": "indes projects india pvt ltd",
+    "PROJECT NAME": "DEWDROPS",
+    "STATUS": "APPROVED",
+    "DISTRICT": "Kolar",
+    "TALUK": "Maluru",
+    "PROJECT TYPE": "Plotted Development",
+    "APPROVED ON": "24/10/2017",
+    "PROPOSED COMPLETION DATE": "14/06/2018",
+    "PROPOSED COMPLETION DATE AT THE TIME OF REGISTRATION": "14-06-2018",
+    "COVID-19 EXTENSION DATE": "",
+    "SECTION 6 EXTENSION DATE": "",
+    "FURTHER EXTENSION DATE": "",
+    "Certificate": "/certificate?CER_NO=PRM/KA/RERA/1265/347/PR/171024/000682",
+    "Covid Certificate": "",
+    "Renewed Certificate": "",
+    "FURTHER EXTENSION ORDER": "",
+    "COMPLAINTS / LITIGATION": ""
+}' scrapped.
+[ 2025-06-24 11:17:29,943 ] 140 RERAScrapper - INFO - Promoter Details 'promoter_details' scrapped.
+[ 2025-06-24 11:17:29,944 ] 141 RERAScrapper - INFO - Authorized Signatory Detail 'authorized_signatory_details' scrapped.
+[ 2025-06-24 11:17:29,944 ] 142 RERAScrapper - INFO - Project Member Details 'project_member_details' scrapped.
+[ 2025-06-24 11:17:29,944 ] 143 RERAScrapper - INFO - Project Land Owner Details 'project_land_owner_details' scrapped.
+[ 2025-06-24 11:17:29,944 ] 144 RERAScrapper - INFO - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' scrapped.
+[ 2025-06-24 11:17:29,944 ] 145 RERAScrapper - INFO - Previous Project Details (Last 5 years only) 'previous_project_details' scrapped.
+[ 2025-06-24 11:17:31,976 ] 154 RERAScrapper - INFO - Project Details page clicked.
+[ 2025-06-24 11:17:33,965 ] 169 RERAScrapper - INFO - Project Details 'project_details' scrapped.
+[ 2025-06-24 11:17:33,965 ] 170 RERAScrapper - INFO - Development Details 'development_details' scrapped.
+[ 2025-06-24 11:17:33,965 ] 171 RERAScrapper - INFO - External Development Work 'external_development_work' scrapped.
+[ 2025-06-24 11:17:33,965 ] 172 RERAScrapper - INFO - Other External Development Work 'other_external_development_work' scrapped.
+[ 2025-06-24 11:17:33,965 ] 173 RERAScrapper - INFO - Project Bank ( Escrow Account ) Details 'project_bank_details' scrapped.
+[ 2025-06-24 11:17:33,965 ] 174 RERAScrapper - INFO - Project Agents 'project_agents' scrapped.
+[ 2025-06-24 11:17:33,966 ] 175 RERAScrapper - INFO - Project Detail Table 'project_detail_table' scrapped.
+[ 2025-06-24 11:17:33,999 ] 182 RERAScrapper - INFO - Uploaded Documents page clicked.
+[ 2025-06-24 11:17:36,441 ] 196 RERAScrapper - INFO - Project Documents 'project_documents' scrapped.
+[ 2025-06-24 11:17:36,441 ] 197 RERAScrapper - INFO - Project Approval 'project_approval' scrapped.
+[ 2025-06-24 11:17:36,441 ] 198 RERAScrapper - INFO - Declaration 'declaration' scrapped.
+[ 2025-06-24 11:17:36,441 ] 199 RERAScrapper - INFO - Other Documents 'other_documents' scrapped.
+[ 2025-06-24 11:17:36,441 ] 200 RERAScrapper - INFO - Project Photo 'project_photo' scrapped.
+[ 2025-06-24 11:17:36,441 ] 201 RERAScrapper - INFO - Financial Document 'financial_document' scrapped.
+[ 2025-06-24 11:17:56,939 ] 212 RERAScrapper - ERROR - Timed out waiting for Completion Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x8e3b03+62899]
+	GetHandleVerifier [0x0x8e3b44+62964]
+	(No symbol) [0x0x7110f3]
+	(No symbol) [0x0x75980e]
+	(No symbol) [0x0x759bab]
+	(No symbol) [0x0x7a25c2]
+	(No symbol) [0x0x77e554]
+	(No symbol) [0x0x79fd81]
+	(No symbol) [0x0x77e306]
+	(No symbol) [0x0x74d670]
+	(No symbol) [0x0x74e4e4]
+	GetHandleVerifier [0x0xb44793+2556483]
+	GetHandleVerifier [0x0xb3fd02+2537394]
+	GetHandleVerifier [0x0x90a2fa+220586]
+	GetHandleVerifier [0x0x8faae8+157080]
+	GetHandleVerifier [0x0x90141d+184013]
+	GetHandleVerifier [0x0x8eba68+95512]
+	GetHandleVerifier [0x0x8ebc10+95936]
+	GetHandleVerifier [0x0x8d6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 11:18:05,084 ] 83 RERAScrapper - INFO - City 'Kolar' selected from dropdown.
+[ 2025-06-24 11:18:10,451 ] 90 RERAScrapper - INFO - Select Button Clicked.
+[ 2025-06-24 11:18:17,580 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 11:18:17,622 ] 130 RERAScrapper - INFO - Home Table JSON '{
+    "S.No": "3",
+    "ACKNOWLEDGEMENT NO": "PR/KN/170731/000717",
+    "REGISTRATION NO": "PRM/KA/RERA/1265/347/PR/171015/000717",
+    "View Project Details": "",
+    "PROMOTER NAME": "FIRE Luxur Developers Private Limited",
+    "PROJECT NAME": "FIRE Luxur Developers Private Limited",
+    "STATUS": "APPROVED",
+    "DISTRICT": "Kolar",
+    "TALUK": "Maluru",
+    "PROJECT TYPE": "Mixed Development",
+    "APPROVED ON": "15/10/2017",
+    "PROPOSED COMPLETION DATE": "30/12/2023",
+    "PROPOSED COMPLETION DATE AT THE TIME OF REGISTRATION": "31-03-2023",
+    "COVID-19 EXTENSION DATE": "31-03-2023 - 31-12-2023",
+    "SECTION 6 EXTENSION DATE": "",
+    "FURTHER EXTENSION DATE": "",
+    "Certificate": "/certificate?CER_NO=PRM/KA/RERA/1265/347/PR/171015/000717",
+    "Covid Certificate": "/covidcertificate?CER_NO=PRM/KA/RERA/1265/347/PR/171015/000717",
+    "Renewed Certificate": "",
+    "FURTHER EXTENSION ORDER": "",
+    "COMPLAINTS / LITIGATION": ""
+}' scrapped.
+[ 2025-06-24 11:18:37,642 ] 270 RERAScrapper - ERROR - An error occurred in scrape_project_details: local variable 'h1_elements' referenced before assignment
+[ 2025-06-24 11:18:41,711 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 11:18:41,746 ] 130 RERAScrapper - INFO - Home Table JSON '{
+    "S.No": "4",
+    "ACKNOWLEDGEMENT NO": "PR/KN/170828/001408",
+    "REGISTRATION NO": "PRM/KA/RERA/1265/339/PR/171031/001408",
+    "View Project Details": "",
+    "PROMOTER NAME": "KADAM GROUP",
+    "PROJECT NAME": "ROYAL CYPRESS",
+    "STATUS": "APPROVED",
+    "DISTRICT": "Kolar",
+    "TALUK": "Kolar",
+    "PROJECT TYPE": "Plotted Development",
+    "APPROVED ON": "31/10/2017",
+    "PROPOSED COMPLETION DATE": "31/08/2018",
+    "PROPOSED COMPLETION DATE AT THE TIME OF REGISTRATION": "31-08-2018",
+    "COVID-19 EXTENSION DATE": "",
+    "SECTION 6 EXTENSION DATE": "",
+    "FURTHER EXTENSION DATE": "",
+    "Certificate": "/certificate?CER_NO=PRM/KA/RERA/1265/339/PR/171031/001408",
+    "Covid Certificate": "",
+    "Renewed Certificate": "",
+    "FURTHER EXTENSION ORDER": "",
+    "COMPLAINTS / LITIGATION": ""
+}' scrapped.
+[ 2025-06-24 11:18:44,102 ] 140 RERAScrapper - INFO - Promoter Details 'promoter_details' scrapped.
+[ 2025-06-24 11:18:44,102 ] 141 RERAScrapper - INFO - Authorized Signatory Detail 'authorized_signatory_details' scrapped.
+[ 2025-06-24 11:18:44,102 ] 142 RERAScrapper - INFO - Project Member Details 'project_member_details' scrapped.
+[ 2025-06-24 11:18:44,103 ] 143 RERAScrapper - INFO - Project Land Owner Details 'project_land_owner_details' scrapped.
+[ 2025-06-24 11:18:44,103 ] 144 RERAScrapper - INFO - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' scrapped.
+[ 2025-06-24 11:18:44,103 ] 145 RERAScrapper - INFO - Previous Project Details (Last 5 years only) 'previous_project_details' scrapped.
+[ 2025-06-24 11:18:46,152 ] 154 RERAScrapper - INFO - Project Details page clicked.
+[ 2025-06-24 11:18:48,944 ] 169 RERAScrapper - INFO - Project Details 'project_details' scrapped.
+[ 2025-06-24 11:18:48,944 ] 170 RERAScrapper - INFO - Development Details 'development_details' scrapped.
+[ 2025-06-24 11:18:48,944 ] 171 RERAScrapper - INFO - External Development Work 'external_development_work' scrapped.
+[ 2025-06-24 11:18:48,945 ] 172 RERAScrapper - INFO - Other External Development Work 'other_external_development_work' scrapped.
+[ 2025-06-24 11:18:48,945 ] 173 RERAScrapper - INFO - Project Bank ( Escrow Account ) Details 'project_bank_details' scrapped.
+[ 2025-06-24 11:18:48,945 ] 174 RERAScrapper - INFO - Project Agents 'project_agents' scrapped.
+[ 2025-06-24 11:18:48,945 ] 175 RERAScrapper - INFO - Project Detail Table 'project_detail_table' scrapped.
+[ 2025-06-24 11:18:48,981 ] 182 RERAScrapper - INFO - Uploaded Documents page clicked.
+[ 2025-06-24 11:18:52,129 ] 196 RERAScrapper - INFO - Project Documents 'project_documents' scrapped.
+[ 2025-06-24 11:18:52,130 ] 197 RERAScrapper - INFO - Project Approval 'project_approval' scrapped.
+[ 2025-06-24 11:18:52,130 ] 198 RERAScrapper - INFO - Declaration 'declaration' scrapped.
+[ 2025-06-24 11:18:52,130 ] 199 RERAScrapper - INFO - Other Documents 'other_documents' scrapped.
+[ 2025-06-24 11:18:52,130 ] 200 RERAScrapper - INFO - Project Photo 'project_photo' scrapped.
+[ 2025-06-24 11:18:52,130 ] 201 RERAScrapper - INFO - Financial Document 'financial_document' scrapped.
+[ 2025-06-24 11:18:52,168 ] 210 RERAScrapper - INFO - Completion Details page clicked.
+[ 2025-06-24 11:18:55,201 ] 270 RERAScrapper - ERROR - An error occurred in scrape_project_details: local variable 'h1_elements' referenced before assignment
+[ 2025-06-24 11:18:59,453 ] 83 RERAScrapper - INFO - City 'Kolar' selected from dropdown.
+[ 2025-06-24 11:19:04,249 ] 90 RERAScrapper - INFO - Select Button Clicked.
+[ 2025-06-24 11:19:11,409 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 11:19:11,449 ] 130 RERAScrapper - INFO - Home Table JSON '{
+    "S.No": "5",
+    "ACKNOWLEDGEMENT NO": "PR/KN/170831/001409",
+    "REGISTRATION NO": "PRM/KA/RERA/1265/339/PR/171031/001409",
+    "View Project Details": "",
+    "PROMOTER NAME": "madhusudhan rao kadam",
+    "PROJECT NAME": "ROYAL OAK WOODS",
+    "STATUS": "APPROVED",
+    "DISTRICT": "Kolar",
+    "TALUK": "Kolar",
+    "PROJECT TYPE": "Plotted Development",
+    "APPROVED ON": "31/10/2017",
+    "PROPOSED COMPLETION DATE": "30/11/2017",
+    "PROPOSED COMPLETION DATE AT THE TIME OF REGISTRATION": "30-11-2017",
+    "COVID-19 EXTENSION DATE": "",
+    "SECTION 6 EXTENSION DATE": "",
+    "FURTHER EXTENSION DATE": "",
+    "Certificate": "/certificate?CER_NO=PRM/KA/RERA/1265/339/PR/171031/001409",
+    "Covid Certificate": "",
+    "Renewed Certificate": "",
+    "FURTHER EXTENSION ORDER": "",
+    "COMPLAINTS / LITIGATION": ""
+}' scrapped.
+[ 2025-06-24 11:19:13,050 ] 270 RERAScrapper - ERROR - An error occurred in scrape_project_details: local variable 'h1_elements' referenced before assignment
+[ 2025-06-24 11:19:17,290 ] 83 RERAScrapper - INFO - City 'Kolar' selected from dropdown.
+[ 2025-06-24 11:19:22,363 ] 90 RERAScrapper - INFO - Select Button Clicked.
+[ 2025-06-24 11:19:29,538 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 11:19:29,573 ] 130 RERAScrapper - INFO - Home Table JSON '{
+    "S.No": "6",
+    "ACKNOWLEDGEMENT NO": "PR/KN/170830/001534",
+    "REGISTRATION NO": "PRM/KA/RERA/1265/339/PR/171215/001534",
+    "View Project Details": "",
+    "PROMOTER NAME": "ADISESH PROJECTS",
+    "PROJECT NAME": "ADISESH PALM TREE",
+    "STATUS": "APPROVED",
+    "DISTRICT": "Kolar",
+    "TALUK": "Kolar",
+    "PROJECT TYPE": "Plotted Development",
+    "APPROVED ON": "15/12/2017",
+    "PROPOSED COMPLETION DATE": "31/12/2019",
+    "PROPOSED COMPLETION DATE AT THE TIME OF REGISTRATION": "31-12-2018",
+    "COVID-19 EXTENSION DATE": "",
+    "SECTION 6 EXTENSION DATE": "31-12-2018 - 31-12-2019",
+    "FURTHER EXTENSION DATE": "",
+    "Certificate": "/certificate?CER_NO=PRM/KA/RERA/1265/339/PR/171215/001534",
+    "Covid Certificate": "",
+    "Renewed Certificate": "/extensionCertificate?CER_NO=EX/PRM/KA/RERA/1265/339/PR/220620/001534",
+    "FURTHER EXTENSION ORDER": "",
+    "COMPLAINTS / LITIGATION": ""
+}' scrapped.
+[ 2025-06-24 11:19:31,832 ] 140 RERAScrapper - INFO - Promoter Details 'promoter_details' scrapped.
+[ 2025-06-24 11:19:31,832 ] 141 RERAScrapper - INFO - Authorized Signatory Detail 'authorized_signatory_details' scrapped.
+[ 2025-06-24 11:19:31,834 ] 142 RERAScrapper - INFO - Project Member Details 'project_member_details' scrapped.
+[ 2025-06-24 11:19:31,834 ] 143 RERAScrapper - INFO - Project Land Owner Details 'project_land_owner_details' scrapped.
+[ 2025-06-24 11:19:31,834 ] 144 RERAScrapper - INFO - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' scrapped.
+[ 2025-06-24 11:19:31,834 ] 145 RERAScrapper - INFO - Previous Project Details (Last 5 years only) 'previous_project_details' scrapped.
+[ 2025-06-24 11:19:33,870 ] 154 RERAScrapper - INFO - Project Details page clicked.
+[ 2025-06-24 11:19:37,087 ] 169 RERAScrapper - INFO - Project Details 'project_details' scrapped.
+[ 2025-06-24 11:19:37,087 ] 170 RERAScrapper - INFO - Development Details 'development_details' scrapped.
+[ 2025-06-24 11:19:37,088 ] 171 RERAScrapper - INFO - External Development Work 'external_development_work' scrapped.
+[ 2025-06-24 11:19:37,088 ] 172 RERAScrapper - INFO - Other External Development Work 'other_external_development_work' scrapped.
+[ 2025-06-24 11:19:37,088 ] 173 RERAScrapper - INFO - Project Bank ( Escrow Account ) Details 'project_bank_details' scrapped.
+[ 2025-06-24 11:19:37,088 ] 174 RERAScrapper - INFO - Project Agents 'project_agents' scrapped.
+[ 2025-06-24 11:19:37,088 ] 175 RERAScrapper - INFO - Project Detail Table 'project_detail_table' scrapped.
+[ 2025-06-24 11:19:37,124 ] 182 RERAScrapper - INFO - Uploaded Documents page clicked.
+[ 2025-06-24 11:19:41,022 ] 196 RERAScrapper - INFO - Project Documents 'project_documents' scrapped.
+[ 2025-06-24 11:19:41,022 ] 197 RERAScrapper - INFO - Project Approval 'project_approval' scrapped.
+[ 2025-06-24 11:19:41,022 ] 198 RERAScrapper - INFO - Declaration 'declaration' scrapped.
+[ 2025-06-24 11:19:41,022 ] 199 RERAScrapper - INFO - Other Documents 'other_documents' scrapped.
+[ 2025-06-24 11:19:41,023 ] 200 RERAScrapper - INFO - Project Photo 'project_photo' scrapped.
+[ 2025-06-24 11:19:41,023 ] 201 RERAScrapper - INFO - Financial Document 'financial_document' scrapped.
+[ 2025-06-24 11:19:41,059 ] 210 RERAScrapper - INFO - Completion Details page clicked.
+[ 2025-06-24 11:19:44,357 ] 270 RERAScrapper - ERROR - An error occurred in scrape_project_details: local variable 'h1_elements' referenced before assignment
+[ 2025-06-24 11:19:48,648 ] 83 RERAScrapper - INFO - City 'Kolar' selected from dropdown.
+[ 2025-06-24 11:19:54,066 ] 90 RERAScrapper - INFO - Select Button Clicked.
+[ 2025-06-24 11:20:01,272 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 11:20:01,310 ] 130 RERAScrapper - INFO - Home Table JSON '{
+    "S.No": "7",
+    "ACKNOWLEDGEMENT NO": "PR/KN/170831/001624",
+    "REGISTRATION NO": "PRM/KA/RERA/1265/339/PR/171214/001624",
+    "View Project Details": "",
+    "PROMOTER NAME": "M/S SRISHIGRA BUILDERS DEVELOPERS",
+    "PROJECT NAME": "SHIGRA PALMS",
+    "STATUS": "APPROVED",
+    "DISTRICT": "Kolar",
+    "TALUK": "Kolar",
+    "PROJECT TYPE": "Plotted Development",
+    "APPROVED ON": "14/12/2017",
+    "PROPOSED COMPLETION DATE": "28/05/2021",
+    "PROPOSED COMPLETION DATE AT THE TIME OF REGISTRATION": "31-08-2020",
+    "COVID-19 EXTENSION DATE": "31-08-2020 - 31-05-2021",
+    "SECTION 6 EXTENSION DATE": "",
+    "FURTHER EXTENSION DATE": "",
+    "Certificate": "/certificate?CER_NO=PRM/KA/RERA/1265/339/PR/171214/001624",
+    "Covid Certificate": "/covidcertificate?CER_NO=PRM/KA/RERA/1265/339/PR/171214/001624",
+    "Renewed Certificate": "",
+    "FURTHER EXTENSION ORDER": "",
+    "COMPLAINTS / LITIGATION": ""
+}' scrapped.
+[ 2025-06-24 11:20:03,025 ] 140 RERAScrapper - INFO - Promoter Details 'promoter_details' scrapped.
+[ 2025-06-24 11:20:03,025 ] 141 RERAScrapper - INFO - Authorized Signatory Detail 'authorized_signatory_details' scrapped.
+[ 2025-06-24 11:20:03,026 ] 142 RERAScrapper - INFO - Project Member Details 'project_member_details' scrapped.
+[ 2025-06-24 11:20:03,026 ] 143 RERAScrapper - INFO - Project Land Owner Details 'project_land_owner_details' scrapped.
+[ 2025-06-24 11:20:03,026 ] 144 RERAScrapper - INFO - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' scrapped.
+[ 2025-06-24 11:20:03,026 ] 145 RERAScrapper - INFO - Previous Project Details (Last 5 years only) 'previous_project_details' scrapped.
+[ 2025-06-24 11:20:05,071 ] 154 RERAScrapper - INFO - Project Details page clicked.
+[ 2025-06-24 11:20:08,843 ] 169 RERAScrapper - INFO - Project Details 'project_details' scrapped.
+[ 2025-06-24 11:20:08,843 ] 170 RERAScrapper - INFO - Development Details 'development_details' scrapped.
+[ 2025-06-24 11:20:08,843 ] 171 RERAScrapper - INFO - External Development Work 'external_development_work' scrapped.
+[ 2025-06-24 11:20:08,844 ] 172 RERAScrapper - INFO - Other External Development Work 'other_external_development_work' scrapped.
+[ 2025-06-24 11:20:08,844 ] 173 RERAScrapper - INFO - Project Bank ( Escrow Account ) Details 'project_bank_details' scrapped.
+[ 2025-06-24 11:20:08,844 ] 174 RERAScrapper - INFO - Project Agents 'project_agents' scrapped.
+[ 2025-06-24 11:20:08,844 ] 175 RERAScrapper - INFO - Project Detail Table 'project_detail_table' scrapped.
+[ 2025-06-24 11:20:08,873 ] 182 RERAScrapper - INFO - Uploaded Documents page clicked.
+[ 2025-06-24 11:20:13,374 ] 196 RERAScrapper - INFO - Project Documents 'project_documents' scrapped.
+[ 2025-06-24 11:20:13,375 ] 197 RERAScrapper - INFO - Project Approval 'project_approval' scrapped.
+[ 2025-06-24 11:20:13,375 ] 198 RERAScrapper - INFO - Declaration 'declaration' scrapped.
+[ 2025-06-24 11:20:13,375 ] 199 RERAScrapper - INFO - Other Documents 'other_documents' scrapped.
+[ 2025-06-24 11:20:13,375 ] 200 RERAScrapper - INFO - Project Photo 'project_photo' scrapped.
+[ 2025-06-24 11:20:13,376 ] 201 RERAScrapper - INFO - Financial Document 'financial_document' scrapped.
+[ 2025-06-24 11:20:33,878 ] 212 RERAScrapper - ERROR - Timed out waiting for Completion Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x8e3b03+62899]
+	GetHandleVerifier [0x0x8e3b44+62964]
+	(No symbol) [0x0x7110f3]
+	(No symbol) [0x0x75980e]
+	(No symbol) [0x0x759bab]
+	(No symbol) [0x0x7a25c2]
+	(No symbol) [0x0x77e554]
+	(No symbol) [0x0x79fd81]
+	(No symbol) [0x0x77e306]
+	(No symbol) [0x0x74d670]
+	(No symbol) [0x0x74e4e4]
+	GetHandleVerifier [0x0xb44793+2556483]
+	GetHandleVerifier [0x0xb3fd02+2537394]
+	GetHandleVerifier [0x0x90a2fa+220586]
+	GetHandleVerifier [0x0x8faae8+157080]
+	GetHandleVerifier [0x0x90141d+184013]
+	GetHandleVerifier [0x0x8eba68+95512]
+	GetHandleVerifier [0x0x8ebc10+95936]
+	GetHandleVerifier [0x0x8d6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 11:20:42,147 ] 83 RERAScrapper - INFO - City 'Kolar' selected from dropdown.
+[ 2025-06-24 11:20:51,764 ] 90 RERAScrapper - INFO - Select Button Clicked.
+[ 2025-06-24 11:20:58,993 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 11:20:59,029 ] 130 RERAScrapper - INFO - Home Table JSON '{
+    "S.No": "8",
+    "ACKNOWLEDGEMENT NO": "PR/KN/170831/001717",
+    "REGISTRATION NO": "PRM/KA/RERA/1265/347/PR/171031/001717",
+    "View Project Details": "",
+    "PROMOTER NAME": "skanda avani properties pvt ltd",
+    "PROJECT NAME": "SKANDA SAGE",
+    "STATUS": "APPROVED",
+    "DISTRICT": "Kolar",
+    "TALUK": "Maluru",
+    "PROJECT TYPE": "Plotted Development",
+    "APPROVED ON": "31/10/2017",
+    "PROPOSED COMPLETION DATE": "31/12/2019",
+    "PROPOSED COMPLETION DATE AT THE TIME OF REGISTRATION": "31-12-2019",
+    "COVID-19 EXTENSION DATE": "",
+    "SECTION 6 EXTENSION DATE": "",
+    "FURTHER EXTENSION DATE": "",
+    "Certificate": "/certificate?CER_NO=PRM/KA/RERA/1265/347/PR/171031/001717",
+    "Covid Certificate": "",
+    "Renewed Certificate": "",
+    "FURTHER EXTENSION ORDER": "",
+    "COMPLAINTS / LITIGATION": ""
+}' scrapped.
+[ 2025-06-24 11:21:01,813 ] 140 RERAScrapper - INFO - Promoter Details 'promoter_details' scrapped.
+[ 2025-06-24 11:21:01,814 ] 141 RERAScrapper - INFO - Authorized Signatory Detail 'authorized_signatory_details' scrapped.
+[ 2025-06-24 11:21:01,814 ] 142 RERAScrapper - INFO - Project Member Details 'project_member_details' scrapped.
+[ 2025-06-24 11:21:01,814 ] 143 RERAScrapper - INFO - Project Land Owner Details 'project_land_owner_details' scrapped.
+[ 2025-06-24 11:21:01,814 ] 144 RERAScrapper - INFO - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' scrapped.
+[ 2025-06-24 11:21:01,814 ] 145 RERAScrapper - INFO - Previous Project Details (Last 5 years only) 'previous_project_details' scrapped.
+[ 2025-06-24 11:21:03,861 ] 154 RERAScrapper - INFO - Project Details page clicked.
+[ 2025-06-24 11:21:08,685 ] 169 RERAScrapper - INFO - Project Details 'project_details' scrapped.
+[ 2025-06-24 11:21:08,685 ] 170 RERAScrapper - INFO - Development Details 'development_details' scrapped.
+[ 2025-06-24 11:21:08,685 ] 171 RERAScrapper - INFO - External Development Work 'external_development_work' scrapped.
+[ 2025-06-24 11:21:08,685 ] 172 RERAScrapper - INFO - Other External Development Work 'other_external_development_work' scrapped.
+[ 2025-06-24 11:21:08,686 ] 173 RERAScrapper - INFO - Project Bank ( Escrow Account ) Details 'project_bank_details' scrapped.
+[ 2025-06-24 11:21:08,686 ] 174 RERAScrapper - INFO - Project Agents 'project_agents' scrapped.
+[ 2025-06-24 11:21:08,686 ] 175 RERAScrapper - INFO - Project Detail Table 'project_detail_table' scrapped.
+[ 2025-06-24 11:21:08,719 ] 182 RERAScrapper - INFO - Uploaded Documents page clicked.
+[ 2025-06-24 11:21:13,874 ] 196 RERAScrapper - INFO - Project Documents 'project_documents' scrapped.
+[ 2025-06-24 11:21:13,874 ] 197 RERAScrapper - INFO - Project Approval 'project_approval' scrapped.
+[ 2025-06-24 11:21:13,874 ] 198 RERAScrapper - INFO - Declaration 'declaration' scrapped.
+[ 2025-06-24 11:21:13,874 ] 199 RERAScrapper - INFO - Other Documents 'other_documents' scrapped.
+[ 2025-06-24 11:21:13,874 ] 200 RERAScrapper - INFO - Project Photo 'project_photo' scrapped.
+[ 2025-06-24 11:21:13,875 ] 201 RERAScrapper - INFO - Financial Document 'financial_document' scrapped.
+[ 2025-06-24 11:21:34,376 ] 212 RERAScrapper - ERROR - Timed out waiting for Completion Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x8e3b03+62899]
+	GetHandleVerifier [0x0x8e3b44+62964]
+	(No symbol) [0x0x7110f3]
+	(No symbol) [0x0x75980e]
+	(No symbol) [0x0x759bab]
+	(No symbol) [0x0x7a25c2]
+	(No symbol) [0x0x77e554]
+	(No symbol) [0x0x79fd81]
+	(No symbol) [0x0x77e306]
+	(No symbol) [0x0x74d670]
+	(No symbol) [0x0x74e4e4]
+	GetHandleVerifier [0x0xb44793+2556483]
+	GetHandleVerifier [0x0xb3fd02+2537394]
+	GetHandleVerifier [0x0x90a2fa+220586]
+	GetHandleVerifier [0x0x8faae8+157080]
+	GetHandleVerifier [0x0x90141d+184013]
+	GetHandleVerifier [0x0x8eba68+95512]
+	GetHandleVerifier [0x0x8ebc10+95936]
+	GetHandleVerifier [0x0x8d6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 11:21:42,674 ] 83 RERAScrapper - INFO - City 'Kolar' selected from dropdown.
+[ 2025-06-24 11:21:47,555 ] 90 RERAScrapper - INFO - Select Button Clicked.
+[ 2025-06-24 11:21:54,816 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 11:21:54,851 ] 130 RERAScrapper - INFO - Home Table JSON '{
+    "S.No": "9",
+    "ACKNOWLEDGEMENT NO": "PR/KN/170831/001795",
+    "REGISTRATION NO": "PRM/KA/RERA/1265/347/PR/180120/001795",
+    "View Project Details": "",
+    "PROMOTER NAME": "Syed Humayun Khalid",
+    "PROJECT NAME": "S.K. Daffodils",
+    "STATUS": "APPROVED",
+    "DISTRICT": "Kolar",
+    "TALUK": "Maluru",
+    "PROJECT TYPE": "Plotted Development",
+    "APPROVED ON": "20/01/2018",
+    "PROPOSED COMPLETION DATE": "20/11/2017",
+    "PROPOSED COMPLETION DATE AT THE TIME OF REGISTRATION": "20-11-2017",
+    "COVID-19 EXTENSION DATE": "",
+    "SECTION 6 EXTENSION DATE": "",
+    "FURTHER EXTENSION DATE": "",
+    "Certificate": "/certificate?CER_NO=PRM/KA/RERA/1265/347/PR/180120/001795",
+    "Covid Certificate": "",
+    "Renewed Certificate": "",
+    "FURTHER EXTENSION ORDER": "",
+    "COMPLAINTS / LITIGATION": ""
+}' scrapped.
+[ 2025-06-24 11:21:56,844 ] 270 RERAScrapper - ERROR - An error occurred in scrape_project_details: local variable 'h1_elements' referenced before assignment
+[ 2025-06-24 11:22:01,213 ] 83 RERAScrapper - INFO - City 'Kolar' selected from dropdown.
+[ 2025-06-24 11:22:06,049 ] 90 RERAScrapper - INFO - Select Button Clicked.
+[ 2025-06-24 11:22:13,332 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 11:22:13,369 ] 130 RERAScrapper - INFO - Home Table JSON '{
+    "S.No": "10",
+    "ACKNOWLEDGEMENT NO": "ACK/KA/RERA/1265/339/PR/181212/002888",
+    "REGISTRATION NO": "PRM/KA/RERA/1265/339/PR/210130/003806",
+    "View Project Details": "",
+    "PROMOTER NAME": "ADISESH PROJECTS",
+    "PROJECT NAME": "Adisesh Boulevard",
+    "STATUS": "APPROVED",
+    "DISTRICT": "Kolar",
+    "TALUK": "Kolar",
+    "PROJECT TYPE": "Plotted Development",
+    "APPROVED ON": "30/01/2021",
+    "PROPOSED COMPLETION DATE": "30/09/2024",
+    "PROPOSED COMPLETION DATE AT THE TIME OF REGISTRATION": "31-12-2023",
+    "COVID-19 EXTENSION DATE": "31-12-2023 - 30-06-2024",
+    "SECTION 6 EXTENSION DATE": "",
+    "FURTHER EXTENSION DATE": "",
+    "Certificate": "/certificate?CER_NO=PRM/KA/RERA/1265/339/PR/210130/003806",
+    "Covid Certificate": "/covidcertificate?CER_NO=PRM/KA/RERA/1265/339/PR/210130/003806",
+    "Renewed Certificate": "",
+    "FURTHER EXTENSION ORDER": "",
+    "COMPLAINTS / LITIGATION": ""
+}' scrapped.
+[ 2025-06-24 11:22:16,352 ] 140 RERAScrapper - INFO - Promoter Details 'promoter_details' scrapped.
+[ 2025-06-24 11:22:16,352 ] 141 RERAScrapper - INFO - Authorized Signatory Detail 'authorized_signatory_details' scrapped.
+[ 2025-06-24 11:22:16,353 ] 142 RERAScrapper - INFO - Project Member Details 'project_member_details' scrapped.
+[ 2025-06-24 11:22:16,353 ] 143 RERAScrapper - INFO - Project Land Owner Details 'project_land_owner_details' scrapped.
+[ 2025-06-24 11:22:16,353 ] 144 RERAScrapper - INFO - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' scrapped.
+[ 2025-06-24 11:22:16,353 ] 145 RERAScrapper - INFO - Previous Project Details (Last 5 years only) 'previous_project_details' scrapped.
+[ 2025-06-24 11:22:18,396 ] 154 RERAScrapper - INFO - Project Details page clicked.
+[ 2025-06-24 11:22:23,404 ] 169 RERAScrapper - INFO - Project Details 'project_details' scrapped.
+[ 2025-06-24 11:22:23,404 ] 170 RERAScrapper - INFO - Development Details 'development_details' scrapped.
+[ 2025-06-24 11:22:23,404 ] 171 RERAScrapper - INFO - External Development Work 'external_development_work' scrapped.
+[ 2025-06-24 11:22:23,404 ] 172 RERAScrapper - INFO - Other External Development Work 'other_external_development_work' scrapped.
+[ 2025-06-24 11:22:23,404 ] 173 RERAScrapper - INFO - Project Bank ( Escrow Account ) Details 'project_bank_details' scrapped.
+[ 2025-06-24 11:22:23,404 ] 174 RERAScrapper - INFO - Project Agents 'project_agents' scrapped.
+[ 2025-06-24 11:22:23,404 ] 175 RERAScrapper - INFO - Project Detail Table 'project_detail_table' scrapped.
+[ 2025-06-24 11:22:23,438 ] 182 RERAScrapper - INFO - Uploaded Documents page clicked.
+[ 2025-06-24 11:22:29,270 ] 196 RERAScrapper - INFO - Project Documents 'project_documents' scrapped.
+[ 2025-06-24 11:22:29,270 ] 197 RERAScrapper - INFO - Project Approval 'project_approval' scrapped.
+[ 2025-06-24 11:22:29,270 ] 198 RERAScrapper - INFO - Declaration 'declaration' scrapped.
+[ 2025-06-24 11:22:29,271 ] 199 RERAScrapper - INFO - Other Documents 'other_documents' scrapped.
+[ 2025-06-24 11:22:29,271 ] 200 RERAScrapper - INFO - Project Photo 'project_photo' scrapped.
+[ 2025-06-24 11:22:29,271 ] 201 RERAScrapper - INFO - Financial Document 'financial_document' scrapped.
+[ 2025-06-24 11:22:49,756 ] 212 RERAScrapper - ERROR - Timed out waiting for Completion Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x8e3b03+62899]
+	GetHandleVerifier [0x0x8e3b44+62964]
+	(No symbol) [0x0x7110f3]
+	(No symbol) [0x0x75980e]
+	(No symbol) [0x0x759bab]
+	(No symbol) [0x0x7a25c2]
+	(No symbol) [0x0x77e554]
+	(No symbol) [0x0x79fd81]
+	(No symbol) [0x0x77e306]
+	(No symbol) [0x0x74d670]
+	(No symbol) [0x0x74e4e4]
+	GetHandleVerifier [0x0xb44793+2556483]
+	GetHandleVerifier [0x0xb3fd02+2537394]
+	GetHandleVerifier [0x0x90a2fa+220586]
+	GetHandleVerifier [0x0x8faae8+157080]
+	GetHandleVerifier [0x0x90141d+184013]
+	GetHandleVerifier [0x0x8eba68+95512]
+	GetHandleVerifier [0x0x8ebc10+95936]
+	GetHandleVerifier [0x0x8d6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 11:22:58,047 ] 83 RERAScrapper - INFO - City 'Kolar' selected from dropdown.
+[ 2025-06-24 11:23:03,651 ] 90 RERAScrapper - INFO - Select Button Clicked.
+[ 2025-06-24 11:23:13,275 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 11:23:13,305 ] 130 RERAScrapper - INFO - Home Table JSON '{
+    "S.No": "11",
+    "ACKNOWLEDGEMENT NO": "ACK/KA/RERA/1265/339/PR/190116/002960",
+    "REGISTRATION NO": "PRM/KA/RERA/1265/339/PR/190913/002844",
+    "View Project Details": "",
+    "PROMOTER NAME": "B suresh",
+    "PROJECT NAME": "BHUMIKA AMOGH ( Phase-1 )",
+    "STATUS": "APPROVED",
+    "DISTRICT": "Kolar",
+    "TALUK": "Kolar",
+    "PROJECT TYPE": "Plotted Development",
+    "APPROVED ON": "13/09/2019",
+    "PROPOSED COMPLETION DATE": "15/03/2021",
+    "PROPOSED COMPLETION DATE AT THE TIME OF REGISTRATION": "15-06-2020",
+    "COVID-19 EXTENSION DATE": "15-06-2020 - 15-03-2021",
+    "SECTION 6 EXTENSION DATE": "",
+    "FURTHER EXTENSION DATE": "",
+    "Certificate": "/certificate?CER_NO=PRM/KA/RERA/1265/339/PR/190913/002844",
+    "Covid Certificate": "/covidcertificate?CER_NO=PRM/KA/RERA/1265/339/PR/190913/002844",
+    "Renewed Certificate": "",
+    "FURTHER EXTENSION ORDER": "",
+    "COMPLAINTS / LITIGATION": ""
+}' scrapped.
+[ 2025-06-24 11:23:16,574 ] 140 RERAScrapper - INFO - Promoter Details 'promoter_details' scrapped.
+[ 2025-06-24 11:23:16,574 ] 141 RERAScrapper - INFO - Authorized Signatory Detail 'authorized_signatory_details' scrapped.
+[ 2025-06-24 11:23:16,574 ] 142 RERAScrapper - INFO - Project Member Details 'project_member_details' scrapped.
+[ 2025-06-24 11:23:16,574 ] 143 RERAScrapper - INFO - Project Land Owner Details 'project_land_owner_details' scrapped.
+[ 2025-06-24 11:23:16,575 ] 144 RERAScrapper - INFO - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' scrapped.
+[ 2025-06-24 11:23:16,575 ] 145 RERAScrapper - INFO - Previous Project Details (Last 5 years only) 'previous_project_details' scrapped.
+[ 2025-06-24 11:23:18,620 ] 154 RERAScrapper - INFO - Project Details page clicked.
+[ 2025-06-24 11:23:24,953 ] 169 RERAScrapper - INFO - Project Details 'project_details' scrapped.
+[ 2025-06-24 11:23:24,954 ] 170 RERAScrapper - INFO - Development Details 'development_details' scrapped.
+[ 2025-06-24 11:23:24,954 ] 171 RERAScrapper - INFO - External Development Work 'external_development_work' scrapped.
+[ 2025-06-24 11:23:24,954 ] 172 RERAScrapper - INFO - Other External Development Work 'other_external_development_work' scrapped.
+[ 2025-06-24 11:23:24,954 ] 173 RERAScrapper - INFO - Project Bank ( Escrow Account ) Details 'project_bank_details' scrapped.
+[ 2025-06-24 11:23:24,954 ] 174 RERAScrapper - INFO - Project Agents 'project_agents' scrapped.
+[ 2025-06-24 11:23:24,954 ] 175 RERAScrapper - INFO - Project Detail Table 'project_detail_table' scrapped.
+[ 2025-06-24 11:23:24,991 ] 182 RERAScrapper - INFO - Uploaded Documents page clicked.
+[ 2025-06-24 11:23:31,528 ] 196 RERAScrapper - INFO - Project Documents 'project_documents' scrapped.
+[ 2025-06-24 11:23:31,528 ] 197 RERAScrapper - INFO - Project Approval 'project_approval' scrapped.
+[ 2025-06-24 11:23:31,528 ] 198 RERAScrapper - INFO - Declaration 'declaration' scrapped.
+[ 2025-06-24 11:23:31,528 ] 199 RERAScrapper - INFO - Other Documents 'other_documents' scrapped.
+[ 2025-06-24 11:23:31,528 ] 200 RERAScrapper - INFO - Project Photo 'project_photo' scrapped.
+[ 2025-06-24 11:23:31,528 ] 201 RERAScrapper - INFO - Financial Document 'financial_document' scrapped.
+[ 2025-06-24 11:23:52,026 ] 212 RERAScrapper - ERROR - Timed out waiting for Completion Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x8e3b03+62899]
+	GetHandleVerifier [0x0x8e3b44+62964]
+	(No symbol) [0x0x7110f3]
+	(No symbol) [0x0x75980e]
+	(No symbol) [0x0x759bab]
+	(No symbol) [0x0x7a25c2]
+	(No symbol) [0x0x77e554]
+	(No symbol) [0x0x79fd81]
+	(No symbol) [0x0x77e306]
+	(No symbol) [0x0x74d670]
+	(No symbol) [0x0x74e4e4]
+	GetHandleVerifier [0x0xb44793+2556483]
+	GetHandleVerifier [0x0xb3fd02+2537394]
+	GetHandleVerifier [0x0x90a2fa+220586]
+	GetHandleVerifier [0x0x8faae8+157080]
+	GetHandleVerifier [0x0x90141d+184013]
+	GetHandleVerifier [0x0x8eba68+95512]
+	GetHandleVerifier [0x0x8ebc10+95936]
+	GetHandleVerifier [0x0x8d6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 11:24:00,224 ] 83 RERAScrapper - INFO - City 'Kolar' selected from dropdown.
+[ 2025-06-24 11:24:05,224 ] 90 RERAScrapper - INFO - Select Button Clicked.
+[ 2025-06-24 11:24:13,621 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 11:24:13,662 ] 130 RERAScrapper - INFO - Home Table JSON '{
+    "S.No": "12",
+    "ACKNOWLEDGEMENT NO": "PR/KN/171201/002256",
+    "REGISTRATION NO": "",
+    "View Project Details": "",
+    "PROMOTER NAME": "BALAJI MADHAVASHETTY",
+    "PROJECT NAME": "VVS ROSE GARDENS",
+    "STATUS": "REJECTEDYour Project has been Rejected because of non payment of penalty",
+    "DISTRICT": "Kolar",
+    "TALUK": "Kolar",
+    "PROJECT TYPE": "Plotted Development",
+    "APPROVED ON": "",
+    "PROPOSED COMPLETION DATE": "10/03/2017",
+    "PROPOSED COMPLETION DATE AT THE TIME OF REGISTRATION": "10-03-2017",
+    "COVID-19 EXTENSION DATE": "",
+    "SECTION 6 EXTENSION DATE": "",
+    "FURTHER EXTENSION DATE": "",
+    "Certificate": "",
+    "Covid Certificate": "",
+    "Renewed Certificate": "",
+    "FURTHER EXTENSION ORDER": "",
+    "COMPLAINTS / LITIGATION": ""
+}' scrapped.
+[ 2025-06-24 11:24:34,140 ] 270 RERAScrapper - ERROR - An error occurred in scrape_project_details: local variable 'h1_elements' referenced before assignment
+[ 2025-06-24 11:24:38,204 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 11:24:38,237 ] 130 RERAScrapper - INFO - Home Table JSON '{
+    "S.No": "13",
+    "ACKNOWLEDGEMENT NO": "PR/KN/171124/002446",
+    "REGISTRATION NO": "",
+    "View Project Details": "",
+    "PROMOTER NAME": "CV Shelters Private limited.",
+    "PROJECT NAME": "One World",
+    "STATUS": "REJECTEDYour Project has been rejected",
+    "DISTRICT": "Kolar",
+    "TALUK": "Maluru",
+    "PROJECT TYPE": "Plotted Development",
+    "APPROVED ON": "",
+    "PROPOSED COMPLETION DATE": "15/06/2019",
+    "PROPOSED COMPLETION DATE AT THE TIME OF REGISTRATION": "15-06-2019",
+    "COVID-19 EXTENSION DATE": "",
+    "SECTION 6 EXTENSION DATE": "",
+    "FURTHER EXTENSION DATE": "",
+    "Certificate": "",
+    "Covid Certificate": "",
+    "Renewed Certificate": "",
+    "FURTHER EXTENSION ORDER": "",
+    "COMPLAINTS / LITIGATION": ""
+}' scrapped.
+[ 2025-06-24 11:24:58,739 ] 270 RERAScrapper - ERROR - An error occurred in scrape_project_details: local variable 'h1_elements' referenced before assignment
+[ 2025-06-24 11:25:02,814 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 11:25:02,846 ] 130 RERAScrapper - INFO - Home Table JSON '{
+    "S.No": "14",
+    "ACKNOWLEDGEMENT NO": "PR/KN/171206/002501",
+    "REGISTRATION NO": "PRM/KA/RERA/1265/347/PR/190427/002533",
+    "View Project Details": "",
+    "PROMOTER NAME": "MEENAKSHI DEVELOPER BANGALORE PRIVATE LIMITED",
+    "PROJECT NAME": "MEENAKSHI PEARL",
+    "STATUS": "APPROVED",
+    "DISTRICT": "Kolar",
+    "TALUK": "Maluru",
+    "PROJECT TYPE": "Plotted Development",
+    "APPROVED ON": "27/04/2019",
+    "PROPOSED COMPLETION DATE": "01/07/2018",
+    "PROPOSED COMPLETION DATE AT THE TIME OF REGISTRATION": "01-07-2018",
+    "COVID-19 EXTENSION DATE": "",
+    "SECTION 6 EXTENSION DATE": "",
+    "FURTHER EXTENSION DATE": "",
+    "Certificate": "/certificate?CER_NO=PRM/KA/RERA/1265/347/PR/190427/002533",
+    "Covid Certificate": "",
+    "Renewed Certificate": "",
+    "FURTHER EXTENSION ORDER": "",
+    "COMPLAINTS / LITIGATION": ""
+}' scrapped.
+[ 2025-06-24 11:25:06,374 ] 140 RERAScrapper - INFO - Promoter Details 'promoter_details' scrapped.
+[ 2025-06-24 11:25:06,374 ] 141 RERAScrapper - INFO - Authorized Signatory Detail 'authorized_signatory_details' scrapped.
+[ 2025-06-24 11:25:06,374 ] 142 RERAScrapper - INFO - Project Member Details 'project_member_details' scrapped.
+[ 2025-06-24 11:25:06,374 ] 143 RERAScrapper - INFO - Project Land Owner Details 'project_land_owner_details' scrapped.
+[ 2025-06-24 11:25:06,374 ] 144 RERAScrapper - INFO - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' scrapped.
+[ 2025-06-24 11:25:06,375 ] 145 RERAScrapper - INFO - Previous Project Details (Last 5 years only) 'previous_project_details' scrapped.
+[ 2025-06-24 11:25:08,411 ] 154 RERAScrapper - INFO - Project Details page clicked.
+[ 2025-06-24 11:25:15,326 ] 169 RERAScrapper - INFO - Project Details 'project_details' scrapped.
+[ 2025-06-24 11:25:15,327 ] 170 RERAScrapper - INFO - Development Details 'development_details' scrapped.
+[ 2025-06-24 11:25:15,327 ] 171 RERAScrapper - INFO - External Development Work 'external_development_work' scrapped.
+[ 2025-06-24 11:25:15,327 ] 172 RERAScrapper - INFO - Other External Development Work 'other_external_development_work' scrapped.
+[ 2025-06-24 11:25:15,327 ] 173 RERAScrapper - INFO - Project Bank ( Escrow Account ) Details 'project_bank_details' scrapped.
+[ 2025-06-24 11:25:15,327 ] 174 RERAScrapper - INFO - Project Agents 'project_agents' scrapped.
+[ 2025-06-24 11:25:15,327 ] 175 RERAScrapper - INFO - Project Detail Table 'project_detail_table' scrapped.
+[ 2025-06-24 11:25:15,371 ] 182 RERAScrapper - INFO - Uploaded Documents page clicked.
+[ 2025-06-24 11:25:22,561 ] 196 RERAScrapper - INFO - Project Documents 'project_documents' scrapped.
+[ 2025-06-24 11:25:22,562 ] 197 RERAScrapper - INFO - Project Approval 'project_approval' scrapped.
+[ 2025-06-24 11:25:22,562 ] 198 RERAScrapper - INFO - Declaration 'declaration' scrapped.
+[ 2025-06-24 11:25:22,562 ] 199 RERAScrapper - INFO - Other Documents 'other_documents' scrapped.
+[ 2025-06-24 11:25:22,562 ] 200 RERAScrapper - INFO - Project Photo 'project_photo' scrapped.
+[ 2025-06-24 11:25:22,563 ] 201 RERAScrapper - INFO - Financial Document 'financial_document' scrapped.
+[ 2025-06-24 11:25:43,069 ] 212 RERAScrapper - ERROR - Timed out waiting for Completion Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x8e3b03+62899]
+	GetHandleVerifier [0x0x8e3b44+62964]
+	(No symbol) [0x0x7110f3]
+	(No symbol) [0x0x75980e]
+	(No symbol) [0x0x759bab]
+	(No symbol) [0x0x7a25c2]
+	(No symbol) [0x0x77e554]
+	(No symbol) [0x0x79fd81]
+	(No symbol) [0x0x77e306]
+	(No symbol) [0x0x74d670]
+	(No symbol) [0x0x74e4e4]
+	GetHandleVerifier [0x0xb44793+2556483]
+	GetHandleVerifier [0x0xb3fd02+2537394]
+	GetHandleVerifier [0x0x90a2fa+220586]
+	GetHandleVerifier [0x0x8faae8+157080]
+	GetHandleVerifier [0x0x90141d+184013]
+	GetHandleVerifier [0x0x8eba68+95512]
+	GetHandleVerifier [0x0x8ebc10+95936]
+	GetHandleVerifier [0x0x8d6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 11:25:51,859 ] 83 RERAScrapper - INFO - City 'Kolar' selected from dropdown.
+[ 2025-06-24 11:25:57,000 ] 90 RERAScrapper - INFO - Select Button Clicked.
+[ 2025-06-24 11:26:05,406 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 11:26:05,450 ] 130 RERAScrapper - INFO - Home Table JSON '{
+    "S.No": "15",
+    "ACKNOWLEDGEMENT NO": "PR/KN/180103/002608",
+    "REGISTRATION NO": "PRM/KA/RERA/1265/347/PR/180420/001516",
+    "View Project Details": "",
+    "PROMOTER NAME": "MAANYA VENTURES & DEVELOPERS",
+    "PROJECT NAME": "MAANYA LOTUS",
+    "STATUS": "APPROVED",
+    "DISTRICT": "Kolar",
+    "TALUK": "Maluru",
+    "PROJECT TYPE": "Plotted Development",
+    "APPROVED ON": "20/04/2018",
+    "PROPOSED COMPLETION DATE": "30/09/2020",
+    "PROPOSED COMPLETION DATE AT THE TIME OF REGISTRATION": "30-03-2020",
+    "COVID-19 EXTENSION DATE": "30-03-2020 - 30-09-2020",
+    "SECTION 6 EXTENSION DATE": "",
+    "FURTHER EXTENSION DATE": "",
+    "Certificate": "/certificate?CER_NO=PRM/KA/RERA/1265/347/PR/180420/001516",
+    "Covid Certificate": "/covidcertificate?CER_NO=PRM/KA/RERA/1265/347/PR/180420/001516",
+    "Renewed Certificate": "",
+    "FURTHER EXTENSION ORDER": "",
+    "COMPLAINTS / LITIGATION": ""
+}' scrapped.
+[ 2025-06-24 11:26:08,549 ] 140 RERAScrapper - INFO - Promoter Details 'promoter_details' scrapped.
+[ 2025-06-24 11:26:08,549 ] 141 RERAScrapper - INFO - Authorized Signatory Detail 'authorized_signatory_details' scrapped.
+[ 2025-06-24 11:26:08,550 ] 142 RERAScrapper - INFO - Project Member Details 'project_member_details' scrapped.
+[ 2025-06-24 11:26:08,550 ] 143 RERAScrapper - INFO - Project Land Owner Details 'project_land_owner_details' scrapped.
+[ 2025-06-24 11:26:08,550 ] 144 RERAScrapper - INFO - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' scrapped.
+[ 2025-06-24 11:26:08,550 ] 145 RERAScrapper - INFO - Previous Project Details (Last 5 years only) 'previous_project_details' scrapped.
+[ 2025-06-24 11:26:10,589 ] 154 RERAScrapper - INFO - Project Details page clicked.
+[ 2025-06-24 11:26:18,167 ] 169 RERAScrapper - INFO - Project Details 'project_details' scrapped.
+[ 2025-06-24 11:26:18,168 ] 170 RERAScrapper - INFO - Development Details 'development_details' scrapped.
+[ 2025-06-24 11:26:18,168 ] 171 RERAScrapper - INFO - External Development Work 'external_development_work' scrapped.
+[ 2025-06-24 11:26:18,168 ] 172 RERAScrapper - INFO - Other External Development Work 'other_external_development_work' scrapped.
+[ 2025-06-24 11:26:18,168 ] 173 RERAScrapper - INFO - Project Bank ( Escrow Account ) Details 'project_bank_details' scrapped.
+[ 2025-06-24 11:26:18,168 ] 174 RERAScrapper - INFO - Project Agents 'project_agents' scrapped.
+[ 2025-06-24 11:26:18,169 ] 175 RERAScrapper - INFO - Project Detail Table 'project_detail_table' scrapped.
+[ 2025-06-24 11:26:18,213 ] 182 RERAScrapper - INFO - Uploaded Documents page clicked.
+[ 2025-06-24 11:26:26,208 ] 196 RERAScrapper - INFO - Project Documents 'project_documents' scrapped.
+[ 2025-06-24 11:26:26,208 ] 197 RERAScrapper - INFO - Project Approval 'project_approval' scrapped.
+[ 2025-06-24 11:26:26,209 ] 198 RERAScrapper - INFO - Declaration 'declaration' scrapped.
+[ 2025-06-24 11:26:26,209 ] 199 RERAScrapper - INFO - Other Documents 'other_documents' scrapped.
+[ 2025-06-24 11:26:26,209 ] 200 RERAScrapper - INFO - Project Photo 'project_photo' scrapped.
+[ 2025-06-24 11:26:26,209 ] 201 RERAScrapper - INFO - Financial Document 'financial_document' scrapped.
+[ 2025-06-24 11:26:26,245 ] 210 RERAScrapper - INFO - Completion Details page clicked.
+[ 2025-06-24 11:26:30,872 ] 270 RERAScrapper - ERROR - An error occurred in scrape_project_details: local variable 'h1_elements' referenced before assignment
+[ 2025-06-24 11:26:35,405 ] 83 RERAScrapper - INFO - City 'Kolar' selected from dropdown.
+[ 2025-06-24 11:26:42,588 ] 90 RERAScrapper - INFO - Select Button Clicked.
+[ 2025-06-24 11:26:51,025 ] 102 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-24 11:26:51,057 ] 130 RERAScrapper - INFO - Home Table JSON '{
+    "S.No": "16",
+    "ACKNOWLEDGEMENT NO": "ACK/KA/RERA/1265/347/PR/180622/002370",
+    "REGISTRATION NO": "PRM/KA/RERA/1265/347/PR/190529/002583",
+    "View Project Details": "",
+    "PROMOTER NAME": "T. Narasimhulu",
+    "PROJECT NAME": "Kumari Hamlet",
+    "STATUS": "APPROVED",
+    "DISTRICT": "Kolar",
+    "TALUK": "Maluru",
+    "PROJECT TYPE": "Plotted Development",
+    "APPROVED ON": "29/05/2019",
+    "PROPOSED COMPLETION DATE": "03/05/2021",
+    "PROPOSED COMPLETION DATE AT THE TIME OF REGISTRATION": "03-08-2020",
+    "COVID-19 EXTENSION DATE": "03-08-2020 - 03-05-2021",
+    "SECTION 6 EXTENSION DATE": "",
+    "FURTHER EXTENSION DATE": "",
+    "Certificate": "/certificate?CER_NO=PRM/KA/RERA/1265/347/PR/190529/002583",
+    "Covid Certificate": "/covidcertificate?CER_NO=PRM/KA/RERA/1265/347/PR/190529/002583",
+    "Renewed Certificate": "",
+    "FURTHER EXTENSION ORDER": "",
+    "COMPLAINTS / LITIGATION": ""
+}' scrapped.
+[ 2025-06-24 11:26:52,431 ] 140 RERAScrapper - INFO - Promoter Details 'promoter_details' scrapped.
+[ 2025-06-24 11:26:52,431 ] 141 RERAScrapper - INFO - Authorized Signatory Detail 'authorized_signatory_details' scrapped.
+[ 2025-06-24 11:26:52,431 ] 142 RERAScrapper - INFO - Project Member Details 'project_member_details' scrapped.
+[ 2025-06-24 11:26:52,432 ] 143 RERAScrapper - INFO - Project Land Owner Details 'project_land_owner_details' scrapped.
+[ 2025-06-24 11:26:52,432 ] 144 RERAScrapper - INFO - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' scrapped.
+[ 2025-06-24 11:26:52,432 ] 145 RERAScrapper - INFO - Previous Project Details (Last 5 years only) 'previous_project_details' scrapped.
+[ 2025-06-24 11:26:54,488 ] 154 RERAScrapper - INFO - Project Details page clicked.
+[ 2025-06-24 11:26:55,392 ] 169 RERAScrapper - INFO - Project Details 'project_details' scrapped.
+[ 2025-06-24 11:26:55,393 ] 170 RERAScrapper - INFO - Development Details 'development_details' scrapped.
+[ 2025-06-24 11:26:55,393 ] 171 RERAScrapper - INFO - External Development Work 'external_development_work' scrapped.
+[ 2025-06-24 11:26:55,393 ] 172 RERAScrapper - INFO - Other External Development Work 'other_external_development_work' scrapped.
+[ 2025-06-24 11:26:55,393 ] 173 RERAScrapper - INFO - Project Bank ( Escrow Account ) Details 'project_bank_details' scrapped.
+[ 2025-06-24 11:26:55,393 ] 174 RERAScrapper - INFO - Project Agents 'project_agents' scrapped.
+[ 2025-06-24 11:26:55,393 ] 175 RERAScrapper - INFO - Project Detail Table 'project_detail_table' scrapped.
+[ 2025-06-24 11:26:55,424 ] 182 RERAScrapper - INFO - Uploaded Documents page clicked.
+[ 2025-06-24 11:26:56,608 ] 196 RERAScrapper - INFO - Project Documents 'project_documents' scrapped.
+[ 2025-06-24 11:26:56,608 ] 197 RERAScrapper - INFO - Project Approval 'project_approval' scrapped.
+[ 2025-06-24 11:26:56,608 ] 198 RERAScrapper - INFO - Declaration 'declaration' scrapped.
+[ 2025-06-24 11:26:56,608 ] 199 RERAScrapper - INFO - Other Documents 'other_documents' scrapped.
+[ 2025-06-24 11:26:56,608 ] 200 RERAScrapper - INFO - Project Photo 'project_photo' scrapped.
+[ 2025-06-24 11:26:56,609 ] 201 RERAScrapper - INFO - Financial Document 'financial_document' scrapped.
+[ 2025-06-24 11:27:17,013 ] 212 RERAScrapper - ERROR - Timed out waiting for Completion Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x8e3b03+62899]
+	GetHandleVerifier [0x0x8e3b44+62964]
+	(No symbol) [0x0x7110f3]
+	(No symbol) [0x0x75980e]
+	(No symbol) [0x0x759bab]
+	(No symbol) [0x0x7a25c2]
+	(No symbol) [0x0x77e554]
+	(No symbol) [0x0x79fd81]
+	(No symbol) [0x0x77e306]
+	(No symbol) [0x0x74d670]
+	(No symbol) [0x0x74e4e4]
+	GetHandleVerifier [0x0xb44793+2556483]
+	GetHandleVerifier [0x0xb3fd02+2537394]
+	GetHandleVerifier [0x0x90a2fa+220586]
+	GetHandleVerifier [0x0x8faae8+157080]
+	GetHandleVerifier [0x0x90141d+184013]
+	GetHandleVerifier [0x0x8eba68+95512]
+	GetHandleVerifier [0x0x8ebc10+95936]
+	GetHandleVerifier [0x0x8d6b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-24 11:27:24,930 ] 83 RERAScrapper - INFO - City 'Kolar' selected from dropdown.
+[ 2025-06-24 11:27:25,972 ] 90 RERAScrapper - INFO - Select Button Clicked.
