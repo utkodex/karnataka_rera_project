@@ -30,6 +30,7 @@ from scrapper.project_details_scrapper import *
 from exception.exceptions import SeleniumBotException
 from custom_logging.my_logger import logger
 from utils.utita_tools import SimpleTools
+from config.config_loader import load_config
 
 class RERAScrapper:
 
@@ -55,13 +56,12 @@ class RERAScrapper:
             options.add_argument("--disable-offline-load-stale-cache")
             options.add_argument("--disk-cache-size=0")
             # Uncomment if you want headless mode
-            # options.add_argument("--headless=new")
 
             if self.headless:
                 options.add_argument("--headless=new")
 
-            # Initialize undetected-chromedriver
-            self.driver = uc.Chrome(version_main=137, options=options)
+            config=load_config()
+            self.driver = uc.Chrome(version_main=config["chrome-driver-version"], options=options)
             logger.info("Browser initialized successfully.")
         except Exception as e:
             logger.error(f"Error initializing browser: {e}")
