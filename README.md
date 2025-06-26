@@ -5,6 +5,7 @@
     3. [Download Docker Desktop](#download-docker-desktop)
 2. [How to Run](#how-to-run)
 3. [DEMO](#DEMO)
+    * [Scraper Instructions](#scraper-instructions)
 
 # Prerequisites
 
@@ -29,7 +30,7 @@ streamlit run ./main.py
 
 ![UI Photo](media/ui_pic.jpeg)
 
-#### Scraper Instructions
+### Scraper Instructions
 
 1. **Select the City**  
    Choose a city from the dropdown menu.
