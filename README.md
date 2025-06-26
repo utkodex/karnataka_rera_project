@@ -20,17 +20,17 @@ This project scrapes detailed information from the Karnataka RERA website, provi
 ## **Features**
 The scraper extracts the following details:
 
-### Project Details
+### 👉 Project Details
 - **Promoter Details**: Information about the promoter of the project.
 - **Authorized Signatory Details**: Details of the authorized signatories for the project.
 - **Project Member Details**: Data on members associated with the project.
 - **Project Land Owner Details**: Information about the owners of the land used for the project.
 
-### Registration and Compliance
+### 👉 Registration and Compliance
 - **RERA Registration Details with any other State/UTs**: Registration details from other states/UTs if applicable.
 - **Previous Project Details (Last 5 Years Only)**: History of projects completed by the promoter in the last 5 years.
 
-### Project Information
+### 👉 Project Information
 - **Project Details**: General information about the project.
 - **Development Details**: Details about the project's internal development.
 - **External Development Work**: Work related to external development.
@@ -39,18 +39,18 @@ The scraper extracts the following details:
 - **Project Approval**: Details of approvals obtained for the project.
 - **Declaration**: Official declarations related to the project.
 
-### Documents and Media
+### 👉 Documents and Media
 - **Pan Card**: Pan card details of the promoter.
 - **Other Documents**: Additional documents associated with the project.
 - **Project Photo**: Images of the project.
 - **Uploaded Documents**: All uploaded documents for compliance.
 - **Photos Uploaded**: Photos submitted to RERA.
 
-### Financial and Administrative Data
+### 👉 Financial and Administrative Data
 - **Balance Sheet**: Financial details related to the project.
 - **Project Agents**: Details of agents associated with the project.
 
-### Additional Information
+### 👉 Additional Information
 - **Project Table**: A summary table of project details.
 - **Complaints on this Promoter**: Complaints filed against the promoter.
 - **Complaints on this Project**: Complaints related to the project.
