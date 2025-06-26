@@ -1,0 +1,306 @@
+[ 2025-06-25 16:02:38,570 ] 346 undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Utkarsh\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+[ 2025-06-25 16:02:39,194 ] 64 RERAScrapper - INFO - Browser initialized successfully.
+[ 2025-06-25 16:03:12,041 ] 64 RERAScrapper - INFO - Browser initialized successfully.
+[ 2025-06-25 16:03:12,619 ] 64 RERAScrapper - INFO - Browser initialized successfully.
+[ 2025-06-25 16:09:45,782 ] 65 RERAScrapper - INFO - Browser initialized successfully.
+[ 2025-06-25 16:10:33,366 ] 65 RERAScrapper - INFO - Browser initialized successfully.
+[ 2025-06-25 16:11:33,799 ] 65 RERAScrapper - INFO - Browser initialized successfully.
+[ 2025-06-25 16:11:34,381 ] 65 RERAScrapper - INFO - Browser initialized successfully.
+[ 2025-06-25 16:13:30,589 ] 61 RERAScrapper - INFO - Browser initialized successfully.
+[ 2025-06-25 16:14:33,593 ] 69 RERAScrapper - INFO - Navigated to URL: https://rera.karnataka.gov.in/viewAllProjects
+[ 2025-06-25 16:14:33,772 ] 82 RERAScrapper - INFO - City 'Vijayapura' selected from dropdown.
+[ 2025-06-25 16:14:38,480 ] 89 RERAScrapper - INFO - Select Button Clicked.
+[ 2025-06-25 16:14:39,540 ] 101 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-25 16:14:39,573 ] 130 RERAScrapper - INFO - Home Table JSON 'home_table_json' scrapped.
+[ 2025-06-25 16:14:40,860 ] 168 RERAScrapper - INFO - Promoter Details 'promoter_details' scrapped.
+[ 2025-06-25 16:14:40,945 ] 174 RERAScrapper - INFO - Authorized Signatory Detail 'authorized_signatory_details' scrapped.
+[ 2025-06-25 16:14:42,726 ] 180 RERAScrapper - INFO - Project Member Details 'project_member_details' scrapped.
+[ 2025-06-25 16:14:42,747 ] 186 RERAScrapper - INFO - Project Land Owner Details 'project_land_owner_details' scrapped.
+[ 2025-06-25 16:14:42,768 ] 192 RERAScrapper - INFO - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' scrapped.
+[ 2025-06-25 16:14:42,790 ] 198 RERAScrapper - INFO - Previous Project Details (Last 5 years only) 'previous_project_details' scrapped.
+[ 2025-06-25 16:14:42,833 ] 207 RERAScrapper - INFO - Project Details page clicked.
+[ 2025-06-25 16:14:43,683 ] 214 RERAScrapper - INFO - Project Details 'project_details' scrapped.
+[ 2025-06-25 16:14:43,859 ] 220 RERAScrapper - INFO - Development Details 'development_details' scrapped.
+[ 2025-06-25 16:14:44,178 ] 226 RERAScrapper - INFO - External Development Work 'external_development_work' scrapped.
+[ 2025-06-25 16:14:44,199 ] 232 RERAScrapper - INFO - Other External Development Work 'other_external_development_work' scrapped.
+[ 2025-06-25 16:14:44,428 ] 238 RERAScrapper - INFO - Project Bank ( Escrow Account ) Details 'project_bank_details' scrapped.
+[ 2025-06-25 16:14:44,452 ] 244 RERAScrapper - INFO - Project Agents 'project_agents' scrapped.
+[ 2025-06-25 16:14:44,461 ] 251 RERAScrapper - INFO - Project Detail Table 'project_detail_table' scrapped.
+[ 2025-06-25 16:14:44,509 ] 260 RERAScrapper - INFO - Uploaded Documents page clicked.
+[ 2025-06-25 16:14:44,582 ] 267 RERAScrapper - INFO - Project Documents 'project_documents' scrapped.
+[ 2025-06-25 16:14:46,362 ] 273 RERAScrapper - INFO - Project Approval 'project_approval' scrapped.
+[ 2025-06-25 16:14:46,429 ] 279 RERAScrapper - INFO - Declaration 'declaration' scrapped.
+[ 2025-06-25 16:14:46,454 ] 285 RERAScrapper - INFO - Other Documents 'other_documents' scrapped.
+[ 2025-06-25 16:14:46,608 ] 291 RERAScrapper - INFO - Project Photo 'project_photo' scrapped.
+[ 2025-06-25 16:14:46,617 ] 297 RERAScrapper - INFO - Financial Document 'financial_document' scrapped.
+[ 2025-06-25 16:14:46,655 ] 306 RERAScrapper - INFO - Complaint page clicked.
+[ 2025-06-25 16:14:46,664 ] 315 RERAScrapper - WARNING - Promoter Table 'project_table' **not** scrapped.
+[ 2025-06-25 16:14:48,704 ] 321 RERAScrapper - INFO - Project Complaint sub-page clicked.
+[ 2025-06-25 16:14:48,711 ] 330 RERAScrapper - WARNING - Other Documents 'project_table' **not** scrapped.
+[ 2025-06-25 16:14:48,748 ] 339 RERAScrapper - INFO - Completion Details page clicked.
+[ 2025-06-25 16:14:51,394 ] 348 RERAScrapper - INFO - Completion Details 'completion_details' scrapped.
+[ 2025-06-25 16:14:51,404 ] 356 RERAScrapper - WARNING - Development Details 'development_details_completion' **not** scrapped.
+[ 2025-06-25 16:14:51,415 ] 362 RERAScrapper - WARNING - Uploaded Documents 'uploaded_documents' **not** scrapped.
+[ 2025-06-25 16:14:51,426 ] 368 RERAScrapper - WARNING - Photos Uploaded 'photos_uploaded' **not** scrapped.
+[ 2025-06-25 16:14:55,839 ] 439 RERAScrapper - INFO - Project Details Page Detected.
+[ 2025-06-25 16:15:06,925 ] 101 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-25 16:15:06,962 ] 130 RERAScrapper - INFO - Home Table JSON 'home_table_json' scrapped.
+[ 2025-06-25 16:15:08,356 ] 168 RERAScrapper - INFO - Promoter Details 'promoter_details' scrapped.
+[ 2025-06-25 16:15:08,364 ] 176 RERAScrapper - WARNING - Authorized Signatory Detail 'authorized_signatory_details' **************not************** scrapped.
+[ 2025-06-25 16:15:08,373 ] 182 RERAScrapper - WARNING - Project Member Details 'project_member_details' **************not************** scrapped.
+[ 2025-06-25 16:15:08,407 ] 186 RERAScrapper - INFO - Project Land Owner Details 'project_land_owner_details' scrapped.
+[ 2025-06-25 16:15:08,417 ] 194 RERAScrapper - WARNING - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' **************not************** scrapped.
+[ 2025-06-25 16:15:08,449 ] 198 RERAScrapper - INFO - Previous Project Details (Last 5 years only) 'previous_project_details' scrapped.
+[ 2025-06-25 16:15:08,487 ] 207 RERAScrapper - INFO - Project Details page clicked.
+[ 2025-06-25 16:15:09,778 ] 214 RERAScrapper - INFO - Project Details 'project_details' scrapped.
+[ 2025-06-25 16:15:10,026 ] 220 RERAScrapper - INFO - Development Details 'development_details' scrapped.
+[ 2025-06-25 16:15:10,460 ] 226 RERAScrapper - INFO - External Development Work 'external_development_work' scrapped.
+[ 2025-06-25 16:15:10,490 ] 232 RERAScrapper - INFO - Other External Development Work 'other_external_development_work' scrapped.
+[ 2025-06-25 16:15:10,801 ] 238 RERAScrapper - INFO - Project Bank ( Escrow Account ) Details 'project_bank_details' scrapped.
+[ 2025-06-25 16:15:10,833 ] 244 RERAScrapper - INFO - Project Agents 'project_agents' scrapped.
+[ 2025-06-25 16:15:10,842 ] 251 RERAScrapper - INFO - Project Detail Table 'project_detail_table' scrapped.
+[ 2025-06-25 16:15:10,880 ] 260 RERAScrapper - INFO - Uploaded Documents page clicked.
+[ 2025-06-25 16:15:10,973 ] 267 RERAScrapper - INFO - Project Documents 'project_documents' scrapped.
+[ 2025-06-25 16:15:13,449 ] 273 RERAScrapper - INFO - Project Approval 'project_approval' scrapped.
+[ 2025-06-25 16:15:13,541 ] 279 RERAScrapper - INFO - Declaration 'declaration' scrapped.
+[ 2025-06-25 16:15:13,573 ] 285 RERAScrapper - INFO - Other Documents 'other_documents' scrapped.
+[ 2025-06-25 16:15:13,608 ] 291 RERAScrapper - INFO - Project Photo 'project_photo' scrapped.
+[ 2025-06-25 16:15:13,619 ] 297 RERAScrapper - INFO - Financial Document 'financial_document' scrapped.
+[ 2025-06-25 16:15:13,656 ] 306 RERAScrapper - INFO - Complaint page clicked.
+[ 2025-06-25 16:15:13,664 ] 315 RERAScrapper - WARNING - Promoter Table 'project_table' **not** scrapped.
+[ 2025-06-25 16:15:15,703 ] 321 RERAScrapper - INFO - Project Complaint sub-page clicked.
+[ 2025-06-25 16:15:15,710 ] 330 RERAScrapper - WARNING - Other Documents 'project_table' **not** scrapped.
+[ 2025-06-25 16:15:15,745 ] 339 RERAScrapper - INFO - Completion Details page clicked.
+[ 2025-06-25 16:15:18,612 ] 348 RERAScrapper - INFO - Completion Details 'completion_details' scrapped.
+[ 2025-06-25 16:15:18,621 ] 356 RERAScrapper - WARNING - Development Details 'development_details_completion' **not** scrapped.
+[ 2025-06-25 16:15:18,631 ] 362 RERAScrapper - WARNING - Uploaded Documents 'uploaded_documents' **not** scrapped.
+[ 2025-06-25 16:15:18,641 ] 368 RERAScrapper - WARNING - Photos Uploaded 'photos_uploaded' **not** scrapped.
+[ 2025-06-25 16:15:22,749 ] 439 RERAScrapper - INFO - Project Details Page Detected.
+[ 2025-06-25 16:15:24,809 ] 447 RERAScrapper - WARNING - Table Disappeared
+[ 2025-06-25 16:15:24,951 ] 82 RERAScrapper - INFO - City 'Vijayapura' selected from dropdown.
+[ 2025-06-25 16:15:30,139 ] 89 RERAScrapper - INFO - Select Button Clicked.
+[ 2025-06-25 16:15:47,846 ] 101 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-25 16:15:47,882 ] 130 RERAScrapper - INFO - Home Table JSON 'home_table_json' scrapped.
+[ 2025-06-25 16:15:49,410 ] 168 RERAScrapper - INFO - Promoter Details 'promoter_details' scrapped.
+[ 2025-06-25 16:15:49,594 ] 174 RERAScrapper - INFO - Authorized Signatory Detail 'authorized_signatory_details' scrapped.
+[ 2025-06-25 16:15:49,630 ] 180 RERAScrapper - INFO - Project Member Details 'project_member_details' scrapped.
+[ 2025-06-25 16:15:49,667 ] 186 RERAScrapper - INFO - Project Land Owner Details 'project_land_owner_details' scrapped.
+[ 2025-06-25 16:15:49,703 ] 192 RERAScrapper - INFO - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' scrapped.
+[ 2025-06-25 16:15:49,742 ] 198 RERAScrapper - INFO - Previous Project Details (Last 5 years only) 'previous_project_details' scrapped.
+[ 2025-06-25 16:15:49,780 ] 207 RERAScrapper - INFO - Project Details page clicked.
+[ 2025-06-25 16:15:51,438 ] 214 RERAScrapper - INFO - Project Details 'project_details' scrapped.
+[ 2025-06-25 16:15:51,770 ] 220 RERAScrapper - INFO - Development Details 'development_details' scrapped.
+[ 2025-06-25 16:15:52,343 ] 226 RERAScrapper - INFO - External Development Work 'external_development_work' scrapped.
+[ 2025-06-25 16:15:52,380 ] 232 RERAScrapper - INFO - Other External Development Work 'other_external_development_work' scrapped.
+[ 2025-06-25 16:15:52,787 ] 238 RERAScrapper - INFO - Project Bank ( Escrow Account ) Details 'project_bank_details' scrapped.
+[ 2025-06-25 16:15:52,823 ] 244 RERAScrapper - INFO - Project Agents 'project_agents' scrapped.
+[ 2025-06-25 16:15:52,831 ] 251 RERAScrapper - INFO - Project Detail Table 'project_detail_table' scrapped.
+[ 2025-06-25 16:15:52,861 ] 260 RERAScrapper - INFO - Uploaded Documents page clicked.
+[ 2025-06-25 16:15:52,974 ] 267 RERAScrapper - INFO - Project Documents 'project_documents' scrapped.
+[ 2025-06-25 16:15:56,058 ] 273 RERAScrapper - INFO - Project Approval 'project_approval' scrapped.
+[ 2025-06-25 16:15:56,171 ] 279 RERAScrapper - INFO - Declaration 'declaration' scrapped.
+[ 2025-06-25 16:15:56,216 ] 285 RERAScrapper - INFO - Other Documents 'other_documents' scrapped.
+[ 2025-06-25 16:15:56,326 ] 291 RERAScrapper - INFO - Project Photo 'project_photo' scrapped.
+[ 2025-06-25 16:15:56,333 ] 297 RERAScrapper - INFO - Financial Document 'financial_document' scrapped.
+[ 2025-06-25 16:15:56,366 ] 306 RERAScrapper - INFO - Complaint page clicked.
+[ 2025-06-25 16:15:56,374 ] 315 RERAScrapper - WARNING - Promoter Table 'project_table' **not** scrapped.
+[ 2025-06-25 16:15:58,409 ] 321 RERAScrapper - INFO - Project Complaint sub-page clicked.
+[ 2025-06-25 16:15:58,416 ] 330 RERAScrapper - WARNING - Other Documents 'project_table' **not** scrapped.
+[ 2025-06-25 16:15:58,448 ] 339 RERAScrapper - INFO - Completion Details page clicked.
+[ 2025-06-25 16:16:01,565 ] 348 RERAScrapper - INFO - Completion Details 'completion_details' scrapped.
+[ 2025-06-25 16:16:01,572 ] 356 RERAScrapper - WARNING - Development Details 'development_details_completion' **not** scrapped.
+[ 2025-06-25 16:16:01,580 ] 362 RERAScrapper - WARNING - Uploaded Documents 'uploaded_documents' **not** scrapped.
+[ 2025-06-25 16:16:01,588 ] 368 RERAScrapper - WARNING - Photos Uploaded 'photos_uploaded' **not** scrapped.
+[ 2025-06-25 16:16:05,659 ] 439 RERAScrapper - INFO - Project Details Page Detected.
+[ 2025-06-25 16:16:07,711 ] 447 RERAScrapper - WARNING - Table Disappeared
+[ 2025-06-25 16:16:07,887 ] 82 RERAScrapper - INFO - City 'Vijayapura' selected from dropdown.
+[ 2025-06-25 16:16:12,330 ] 89 RERAScrapper - INFO - Select Button Clicked.
+[ 2025-06-25 16:16:23,347 ] 101 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-25 16:16:23,382 ] 130 RERAScrapper - INFO - Home Table JSON 'home_table_json' scrapped.
+[ 2025-06-25 16:16:43,882 ] 170 RERAScrapper - WARNING - Promoter Details 'promoter_details' **************not************** scrapped.
+[ 2025-06-25 16:17:04,399 ] 176 RERAScrapper - WARNING - Authorized Signatory Detail 'authorized_signatory_details' **************not************** scrapped.
+[ 2025-06-25 16:17:24,893 ] 182 RERAScrapper - WARNING - Project Member Details 'project_member_details' **************not************** scrapped.
+[ 2025-06-25 16:17:44,903 ] 188 RERAScrapper - WARNING - Project Land Owner Details 'project_land_owner_details' **************not************** scrapped.
+[ 2025-06-25 16:18:05,425 ] 194 RERAScrapper - WARNING - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' **************not************** scrapped.
+[ 2025-06-25 16:18:25,443 ] 200 RERAScrapper - WARNING - Previous Project Details (Last 5 years only) 'previous_project_details' **************not************** scrapped.
+[ 2025-06-25 16:18:27,493 ] 209 RERAScrapper - ERROR - Timed out waiting for Project Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x743b03+62899]
+	GetHandleVerifier [0x0x743b44+62964]
+	(No symbol) [0x0x5710f3]
+	(No symbol) [0x0x5b980e]
+	(No symbol) [0x0x5b9bab]
+	(No symbol) [0x0x6025c2]
+	(No symbol) [0x0x5de554]
+	(No symbol) [0x0x5ffd81]
+	(No symbol) [0x0x5de306]
+	(No symbol) [0x0x5ad670]
+	(No symbol) [0x0x5ae4e4]
+	GetHandleVerifier [0x0x9a4793+2556483]
+	GetHandleVerifier [0x0x99fd02+2537394]
+	GetHandleVerifier [0x0x76a2fa+220586]
+	GetHandleVerifier [0x0x75aae8+157080]
+	GetHandleVerifier [0x0x76141d+184013]
+	GetHandleVerifier [0x0x74ba68+95512]
+	GetHandleVerifier [0x0x74bc10+95936]
+	GetHandleVerifier [0x0x736b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-25 16:18:29,550 ] 262 RERAScrapper - ERROR - Timed out waiting for Uploaded Documents page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x743b03+62899]
+	GetHandleVerifier [0x0x743b44+62964]
+	(No symbol) [0x0x5710f3]
+	(No symbol) [0x0x5b980e]
+	(No symbol) [0x0x5b9bab]
+	(No symbol) [0x0x6025c2]
+	(No symbol) [0x0x5de554]
+	(No symbol) [0x0x5ffd81]
+	(No symbol) [0x0x5de306]
+	(No symbol) [0x0x5ad670]
+	(No symbol) [0x0x5ae4e4]
+	GetHandleVerifier [0x0x9a4793+2556483]
+	GetHandleVerifier [0x0x99fd02+2537394]
+	GetHandleVerifier [0x0x76a2fa+220586]
+	GetHandleVerifier [0x0x75aae8+157080]
+	GetHandleVerifier [0x0x76141d+184013]
+	GetHandleVerifier [0x0x74ba68+95512]
+	GetHandleVerifier [0x0x74bc10+95936]
+	GetHandleVerifier [0x0x736b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-25 16:18:31,599 ] 308 RERAScrapper - ERROR - Timed out waiting for Complaint page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x743b03+62899]
+	GetHandleVerifier [0x0x743b44+62964]
+	(No symbol) [0x0x5710f3]
+	(No symbol) [0x0x5b980e]
+	(No symbol) [0x0x5b9bab]
+	(No symbol) [0x0x6025c2]
+	(No symbol) [0x0x5de554]
+	(No symbol) [0x0x5ffd81]
+	(No symbol) [0x0x5de306]
+	(No symbol) [0x0x5ad670]
+	(No symbol) [0x0x5ae4e4]
+	GetHandleVerifier [0x0x9a4793+2556483]
+	GetHandleVerifier [0x0x99fd02+2537394]
+	GetHandleVerifier [0x0x76a2fa+220586]
+	GetHandleVerifier [0x0x75aae8+157080]
+	GetHandleVerifier [0x0x76141d+184013]
+	GetHandleVerifier [0x0x74ba68+95512]
+	GetHandleVerifier [0x0x74bc10+95936]
+	GetHandleVerifier [0x0x736b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-25 16:18:33,656 ] 341 RERAScrapper - ERROR - Timed out waiting for Completion Details page: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x743b03+62899]
+	GetHandleVerifier [0x0x743b44+62964]
+	(No symbol) [0x0x5710f3]
+	(No symbol) [0x0x5b980e]
+	(No symbol) [0x0x5b9bab]
+	(No symbol) [0x0x6025c2]
+	(No symbol) [0x0x5de554]
+	(No symbol) [0x0x5ffd81]
+	(No symbol) [0x0x5de306]
+	(No symbol) [0x0x5ad670]
+	(No symbol) [0x0x5ae4e4]
+	GetHandleVerifier [0x0x9a4793+2556483]
+	GetHandleVerifier [0x0x99fd02+2537394]
+	GetHandleVerifier [0x0x76a2fa+220586]
+	GetHandleVerifier [0x0x75aae8+157080]
+	GetHandleVerifier [0x0x76141d+184013]
+	GetHandleVerifier [0x0x74ba68+95512]
+	GetHandleVerifier [0x0x74bc10+95936]
+	GetHandleVerifier [0x0x736b5a+9738]
+	BaseThreadInitThunk [0x0x774afcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x776a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x776a827e+238]
+
+[ 2025-06-25 16:18:41,889 ] 435 RERAScrapper - WARNING - Row 4 not clickable. Skipping...
+[ 2025-06-25 16:18:47,970 ] 101 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-25 16:18:48,001 ] 130 RERAScrapper - INFO - Home Table JSON 'home_table_json' scrapped.
+[ 2025-06-25 16:18:49,686 ] 168 RERAScrapper - INFO - Promoter Details 'promoter_details' scrapped.
+[ 2025-06-25 16:18:49,913 ] 174 RERAScrapper - INFO - Authorized Signatory Detail 'authorized_signatory_details' scrapped.
+[ 2025-06-25 16:18:50,946 ] 180 RERAScrapper - INFO - Project Member Details 'project_member_details' scrapped.
+[ 2025-06-25 16:18:50,992 ] 186 RERAScrapper - INFO - Project Land Owner Details 'project_land_owner_details' scrapped.
+[ 2025-06-25 16:18:51,036 ] 192 RERAScrapper - INFO - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' scrapped.
+[ 2025-06-25 16:18:52,855 ] 198 RERAScrapper - INFO - Previous Project Details (Last 5 years only) 'previous_project_details' scrapped.
+[ 2025-06-25 16:18:52,892 ] 207 RERAScrapper - INFO - Project Details page clicked.
+[ 2025-06-25 16:18:55,078 ] 214 RERAScrapper - INFO - Project Details 'project_details' scrapped.
+[ 2025-06-25 16:18:55,509 ] 220 RERAScrapper - INFO - Development Details 'development_details' scrapped.
+[ 2025-06-25 16:18:56,262 ] 226 RERAScrapper - INFO - External Development Work 'external_development_work' scrapped.
+[ 2025-06-25 16:18:56,310 ] 232 RERAScrapper - INFO - Other External Development Work 'other_external_development_work' scrapped.
+[ 2025-06-25 16:18:56,835 ] 238 RERAScrapper - INFO - Project Bank ( Escrow Account ) Details 'project_bank_details' scrapped.
+[ 2025-06-25 16:18:56,884 ] 244 RERAScrapper - INFO - Project Agents 'project_agents' scrapped.
+[ 2025-06-25 16:18:56,892 ] 251 RERAScrapper - INFO - Project Detail Table 'project_detail_table' scrapped.
+[ 2025-06-25 16:18:56,928 ] 260 RERAScrapper - INFO - Uploaded Documents page clicked.
+[ 2025-06-25 16:18:57,078 ] 267 RERAScrapper - INFO - Project Documents 'project_documents' scrapped.
+[ 2025-06-25 16:19:01,100 ] 273 RERAScrapper - INFO - Project Approval 'project_approval' scrapped.
+[ 2025-06-25 16:19:01,242 ] 279 RERAScrapper - INFO - Declaration 'declaration' scrapped.
+[ 2025-06-25 16:19:01,295 ] 285 RERAScrapper - INFO - Other Documents 'other_documents' scrapped.
+[ 2025-06-25 16:19:01,694 ] 291 RERAScrapper - INFO - Project Photo 'project_photo' scrapped.
+[ 2025-06-25 16:19:01,703 ] 297 RERAScrapper - INFO - Financial Document 'financial_document' scrapped.
+[ 2025-06-25 16:19:01,741 ] 306 RERAScrapper - INFO - Complaint page clicked.
+[ 2025-06-25 16:19:01,750 ] 315 RERAScrapper - WARNING - Promoter Table 'project_table' **not** scrapped.
+[ 2025-06-25 16:19:03,789 ] 321 RERAScrapper - INFO - Project Complaint sub-page clicked.
+[ 2025-06-25 16:19:03,796 ] 330 RERAScrapper - WARNING - Other Documents 'project_table' **not** scrapped.
+[ 2025-06-25 16:19:03,832 ] 339 RERAScrapper - INFO - Completion Details page clicked.
+[ 2025-06-25 16:19:07,266 ] 348 RERAScrapper - INFO - Completion Details 'completion_details' scrapped.
+[ 2025-06-25 16:19:07,275 ] 356 RERAScrapper - WARNING - Development Details 'development_details_completion' **not** scrapped.
+[ 2025-06-25 16:19:07,290 ] 362 RERAScrapper - WARNING - Uploaded Documents 'uploaded_documents' **not** scrapped.
+[ 2025-06-25 16:19:07,300 ] 368 RERAScrapper - WARNING - Photos Uploaded 'photos_uploaded' **not** scrapped.
+[ 2025-06-25 16:19:11,363 ] 439 RERAScrapper - INFO - Project Details Page Detected.
+[ 2025-06-25 16:19:13,435 ] 447 RERAScrapper - WARNING - Table Disappeared
+[ 2025-06-25 16:19:13,675 ] 82 RERAScrapper - INFO - City 'Vijayapura' selected from dropdown.
+[ 2025-06-25 16:19:18,148 ] 89 RERAScrapper - INFO - Select Button Clicked.
+[ 2025-06-25 16:19:35,174 ] 101 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-25 16:19:35,209 ] 130 RERAScrapper - INFO - Home Table JSON 'home_table_json' scrapped.
+[ 2025-06-25 16:19:37,034 ] 168 RERAScrapper - INFO - Promoter Details 'promoter_details' scrapped.
+[ 2025-06-25 16:19:37,319 ] 174 RERAScrapper - INFO - Authorized Signatory Detail 'authorized_signatory_details' scrapped.
+[ 2025-06-25 16:19:37,793 ] 180 RERAScrapper - INFO - Project Member Details 'project_member_details' scrapped.
+[ 2025-06-25 16:19:37,851 ] 186 RERAScrapper - INFO - Project Land Owner Details 'project_land_owner_details' scrapped.
+[ 2025-06-25 16:19:37,910 ] 192 RERAScrapper - INFO - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' scrapped.
+[ 2025-06-25 16:19:39,069 ] 198 RERAScrapper - INFO - Previous Project Details (Last 5 years only) 'previous_project_details' scrapped.
+[ 2025-06-25 16:19:39,101 ] 207 RERAScrapper - INFO - Project Details page clicked.
+[ 2025-06-25 16:19:41,357 ] 868 urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/1b112825a0c6bf65cbcb04e0d184bd07/element/f.658A85AB0922346D0F72E7344762115B.d.D2D0D085E318C74DC4EB7A1A3EA8819E.e.2741/text
+[ 2025-06-25 16:19:45,461 ] 868 urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C8A9C50580>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1b112825a0c6bf65cbcb04e0d184bd07/element/f.658A85AB0922346D0F72E7344762115B.d.D2D0D085E318C74DC4EB7A1A3EA8819E.e.2741/text
+[ 2025-06-25 16:19:49,540 ] 868 urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C8F77D5510>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1b112825a0c6bf65cbcb04e0d184bd07/element/f.658A85AB0922346D0F72E7344762115B.d.D2D0D085E318C74DC4EB7A1A3EA8819E.e.2741/text
+[ 2025-06-25 16:19:53,633 ] 216 RERAScrapper - WARNING - Project Details 'project_details' **not** scrapped.
+[ 2025-06-25 16:19:57,746 ] 868 urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C8F852E140>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1b112825a0c6bf65cbcb04e0d184bd07/element
+[ 2025-06-25 16:20:01,857 ] 868 urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C8F87C5ED0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1b112825a0c6bf65cbcb04e0d184bd07/element
+[ 2025-06-25 16:20:05,971 ] 868 urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C8F87C7010>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1b112825a0c6bf65cbcb04e0d184bd07/element
+[ 2025-06-25 16:20:10,095 ] 222 RERAScrapper - WARNING - Development Details 'development_details' **not** scrapped.
+[ 2025-06-25 16:20:14,187 ] 868 urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C8F87C5FF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1b112825a0c6bf65cbcb04e0d184bd07/element
+[ 2025-06-25 16:20:18,288 ] 868 urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C8F87C6170>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1b112825a0c6bf65cbcb04e0d184bd07/element
+[ 2025-06-25 16:20:22,400 ] 868 urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C8A9C52E90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1b112825a0c6bf65cbcb04e0d184bd07/element
+[ 2025-06-25 16:20:26,499 ] 228 RERAScrapper - WARNING - External Development Work 'external_development_work' **not** scrapped.
+[ 2025-06-25 16:20:30,617 ] 868 urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C8A9C51540>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1b112825a0c6bf65cbcb04e0d184bd07/element
+[ 2025-06-25 16:20:34,715 ] 868 urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C8A9C52BC0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1b112825a0c6bf65cbcb04e0d184bd07/element
+[ 2025-06-25 16:20:38,831 ] 868 urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C8A9C504F0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1b112825a0c6bf65cbcb04e0d184bd07/element
+[ 2025-06-25 16:20:42,920 ] 234 RERAScrapper - WARNING - Other External Development Work 'other_external_development_work' **not** scrapped.
+[ 2025-06-25 16:20:47,053 ] 868 urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C8F87C6050>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1b112825a0c6bf65cbcb04e0d184bd07/element
+[ 2025-06-25 16:20:51,154 ] 868 urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C8F87C6800>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1b112825a0c6bf65cbcb04e0d184bd07/element
+[ 2025-06-25 16:20:55,263 ] 868 urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C8F87C6470>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1b112825a0c6bf65cbcb04e0d184bd07/element
+[ 2025-06-25 16:20:59,367 ] 240 RERAScrapper - WARNING - Project Bank ( Escrow Account ) Details 'project_bank_details' **not** scrapped.
+[ 2025-06-25 16:21:03,453 ] 868 urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C8F87C5ED0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1b112825a0c6bf65cbcb04e0d184bd07/element
+[ 2025-06-25 16:21:07,574 ] 868 urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C8F852E140>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1b112825a0c6bf65cbcb04e0d184bd07/element
+[ 2025-06-25 16:21:11,649 ] 868 urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C8A944CFD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1b112825a0c6bf65cbcb04e0d184bd07/element
+[ 2025-06-25 16:21:15,750 ] 246 RERAScrapper - WARNING - Project Agents 'project_agents' **not** scrapped.
+[ 2025-06-25 16:21:19,870 ] 868 urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C8A9C51780>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1b112825a0c6bf65cbcb04e0d184bd07/element
+[ 2025-06-25 16:21:23,954 ] 868 urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C8A9C50700>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1b112825a0c6bf65cbcb04e0d184bd07/element
+[ 2025-06-25 16:21:28,047 ] 868 urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C8A9C52BC0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1b112825a0c6bf65cbcb04e0d184bd07/element
+[ 2025-06-25 16:21:32,149 ] 253 RERAScrapper - WARNING - Project Detail Table 'project_detail_table' **not** scrapped.
+[ 2025-06-25 16:21:36,247 ] 868 urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C8A9C50D30>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1b112825a0c6bf65cbcb04e0d184bd07/element
+[ 2025-06-25 16:21:40,357 ] 868 urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C8A9C51210>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1b112825a0c6bf65cbcb04e0d184bd07/element
+[ 2025-06-25 16:21:44,457 ] 868 urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C8A9C50A30>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1b112825a0c6bf65cbcb04e0d184bd07/element
+[ 2025-06-25 16:21:48,552 ] 412 RERAScrapper - ERROR - An error occurred in scrape_project_details: HTTPConnectionPool(host='localhost', port=65255): Max retries exceeded with url: /session/1b112825a0c6bf65cbcb04e0d184bd07/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C8A9C51FC0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+[ 2025-06-25 16:21:54,641 ] 868 urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C8A9C4E680>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1b112825a0c6bf65cbcb04e0d184bd07/element
+[ 2025-06-25 16:21:58,722 ] 868 urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C8A9C4FB80>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1b112825a0c6bf65cbcb04e0d184bd07/element
+[ 2025-06-25 16:22:02,814 ] 868 urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C8F8374AC0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1b112825a0c6bf65cbcb04e0d184bd07/element

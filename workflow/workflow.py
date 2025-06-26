@@ -33,10 +33,11 @@ from utils.utita_tools import SimpleTools
 
 class RERAScrapper:
 
-    def __init__(self):
+    def __init__(self, city, headless=True):
         self.url="https://rera.karnataka.gov.in/viewAllProjects"
-        self.city="Vijayapura"
+        self.city=city
         self.driver=None
+        self.headless = headless
 
     def initiailise_browers(self):
         try:
@@ -55,6 +56,9 @@ class RERAScrapper:
             options.add_argument("--disk-cache-size=0")
             # Uncomment if you want headless mode
             # options.add_argument("--headless=new")
+
+            if self.headless:
+                options.add_argument("--headless=new")
 
             # Initialize undetected-chromedriver
             self.driver = uc.Chrome(version_main=137, options=options)
@@ -501,13 +505,11 @@ class RERAScrapper:
 
 
 
-def main():
-    scrapper = RERAScrapper()
+def main(city, headless_mode):
+    scrapper = RERAScrapper(city, headless_mode)
     scrapper.initiailise_browers()
     scrapper.get_url()
     scrapper.city_selection()
-    # scrapper.view_project_details_table_process()
-    # scrapper.scrape_project_details()``
     scrapper.page_iter()
     time.sleep(20000)
 

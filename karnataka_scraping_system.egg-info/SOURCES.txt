@@ -1,5 +1,7 @@
 README.md
 setup.py
+config/__init__.py
+config/config_loader.py
 custom_logging/__init__.py
 custom_logging/my_logger.py
 exception/__init__.py
@@ -12,6 +14,9 @@ karnataka_scraping_system.egg-info/dependency_links.txt
 karnataka_scraping_system.egg-info/requires.txt
 karnataka_scraping_system.egg-info/top_level.txt
 scrapper/__init__.py
+scrapper/project_details_scrapper.py
+scrapper/table_scrapper.py
 utils/__init__.py
+utils/utita_tools.py
 workflow/__init__.py
 workflow/workflow.py

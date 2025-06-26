@@ -9,12 +9,16 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from custom_logging.my_logger import logger
 
+from config.config_loader import load_config
+
+config=load_config()
+
 class Google_sheet_init:
 
     def __init__(self):
-        self.google_credentials="credentials.json"
-        self.sheet_url="https://docs.google.com/spreadsheets/d/1lnVDiO3xTA43cIDGd5OEoxC2P1hFFpM9L5BQw2AIxUs/edit?gid=0#gid=0"
-        self.sub_sheet="RERA JSON Data"
+        self.google_credentials=config["sheet_info"]["credential_json"]
+        self.sheet_url=config["sheet_info"]["sheet_link"]
+        self.sub_sheet=config["sheet_info"]["subsheet_name"]
 
     def sheet(self):
         # Google Sheets configuration
@@ -24,13 +28,13 @@ class Google_sheet_init:
         sh = gc.open_by_url(self.sheet_url)
 
         try:
-            # Try to open the subsheet by title
             worksheet = sh.worksheet(self.sub_sheet)
-            print(f"Worksheet '{self.sub_sheet}' found.")
+            # print(f"Worksheet '{self.sub_sheet}' found.")
+            logger.info(f"Worksheet '{self.sub_sheet}' found.")
         except gspread.exceptions.WorksheetNotFound:
-            # If subsheet is not found, create it
             worksheet = sh.add_worksheet(title=self.sub_sheet, rows="1000", cols="100")
-            print(f"Worksheet '{self.sub_sheet}' created.")
+            # print(f"Worksheet '{self.sub_sheet}' created.")
+            logger.error(f"Worksheet '{self.sub_sheet}' created.")
 
         return worksheet
     

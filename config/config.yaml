@@ -1,3 +1,4 @@
 sheet_info:
   sheet_link: "https://docs.google.com/spreadsheets/d/1lnVDiO3xTA43cIDGd5OEoxC2P1hFFpM9L5BQw2AIxUs/edit?gid=0#gid=0"
   subsheet_name: "RERA JSON Data"
+  credential_json: "credentials.json"
