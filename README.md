@@ -23,4 +23,4 @@ streamlit run ./main.py
 
 # DEMO
 
-![Alt Text](media\ui_pic.jpeg)
+![UI Photo](media\ui_pic.jpeg)
