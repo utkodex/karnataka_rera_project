@@ -3,6 +3,8 @@
 ## **Overview**
 This project scrapes detailed information from the Karnataka RERA website, providing comprehensive data on real estate projects and their associated entities. The tool is designed to extract valuable information for analysis, compliance, and reporting.
 
+![UI Photo](media/ui_pic.jpeg)
+
 ## Table of Content
 1. [Overview](#Overview)
 2. [Features](#Features)
