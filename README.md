@@ -18,5 +18,9 @@ conda create -p env python=3.10 -y
 # How to Run
 
 ```python
-Streamlit run ./main.py
+streamlit run ./main.py
 ```
+
+# DEMO
+
+![Alt Text](media\ui_pic.jpeg)
