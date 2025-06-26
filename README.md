@@ -24,3 +24,17 @@ streamlit run ./main.py
 # DEMO
 
 ![UI Photo](media/ui_pic.jpeg)
+
+#### Scraper Instructions
+
+1. **Select the City**  
+   Choose a city from the dropdown menu.
+
+2. **Scrape Button**  
+   Click on the **"Scrape"** button to start the scraping process.
+
+3. **Mode Selection**  
+   - **Headless Mode**: The scraping process runs in the background without displaying the browser UI.  
+     _Recommended for faster and smoother execution._
+   - **With GUI**: The Chrome browser UI will appear, and the scraping process will happen visibly.  
+     _Suitable for observing the scraping process in real time._
