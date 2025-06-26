@@ -1,7 +1,7 @@
 ## Table of Content
 1. [Prerequisites](#Prerequisites)
     1. [Create virtual Environment](#create-virtual-environment)
-    2. [How to create credentials.json](#how-to-create-credentials.json)
+    2. [How to create credentials.json](#how-to-create-credentialsjson)
     3. [Download Docker Desktop](#download-docker-desktop)
 2. [How to Run](#how-to-run)
 3. [DEMO](#DEMO)
