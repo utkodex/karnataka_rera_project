@@ -103,4 +103,5 @@ streamlit run ./main.py
    - **With GUI**: The Chrome browser UI will appear, and the scraping process will happen visibly.  
      _Suitable for observing the scraping process in real time._
 
-4. Click on "Scrape" Button to running the scrapper.
+4. **Scrape Button** 
+   Click on "Scrape" Button to running the scrapper.
