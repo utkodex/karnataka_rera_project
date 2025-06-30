@@ -11,8 +11,8 @@ This project scrapes detailed information from the Karnataka RERA website, provi
 3. [Requirements](#Requirements)
 4. [Prerequisites](#Prerequisites)
     1. [Create virtual Environment](#create-virtual-environment)
-    2. [How to create credentials.json](#how-to-create-credentialsjson)
-    3. [Download Docker Desktop](#download-docker-desktop)
+    2. [pip install dependencies](#pip-install-dependencies)
+    3. [How to create credentials.json](#how-to-create-credentialsjson)
 5. [How to Run](#how-to-run)
 6. [DEMO](#DEMO)
     * [Scraper Instructions](#scraper-instructions)
@@ -65,18 +65,22 @@ The scraper extracts the following details:
 ## **Prerequisites**
 
 ### Create virtual Environment
+Create Virtual Environment by running this command
 ```python
 conda create -p env python=3.10 -y
+```
+
+### pip install dependencies
+PIP install all dependencies by running this command
+```python
+pip install karnataka-scraping-system
 ```
 
 ### How to create credentials.json
 [Watch the Video to how to create credentials.json](https://youtu.be/k_PB4ORz2r0?si=aIw30wu4buzkaPB-)
 
-### Download Docker Desktop
-[Download Docker Desktop](https://www.docker.com/products/docker-desktop/)
-
 ## **How to Run**
-
+Run the following command to run the UI.
 ```python
 streamlit run ./main.py
 ```
@@ -98,3 +102,5 @@ streamlit run ./main.py
      _Recommended for faster and smoother execution._
    - **With GUI**: The Chrome browser UI will appear, and the scraping process will happen visibly.  
      _Suitable for observing the scraping process in real time._
+
+4. Click on "Scrape" Button to running the scrapper.
