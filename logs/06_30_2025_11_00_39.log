@@ -1,0 +1,9 @@
+[ 2025-06-30 11:00:50,672 ] 346 undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Utkarsh\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+[ 2025-06-30 11:00:51,262 ] 66 RERAScrapper - INFO - Browser initialized successfully.
+[ 2025-06-30 11:00:55,728 ] 74 RERAScrapper - INFO - Navigated to URL: https://rera.karnataka.gov.in/viewAllProjects
+[ 2025-06-30 11:00:55,870 ] 87 RERAScrapper - INFO - City 'Bagalkot' selected from dropdown.
+[ 2025-06-30 11:01:00,282 ] 94 RERAScrapper - INFO - Select Button Clicked.
+[ 2025-06-30 11:01:04,728 ] 106 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-30 11:01:04,762 ] 135 RERAScrapper - INFO - Home Table JSON 'home_table_json' scrapped.
+[ 2025-06-30 11:01:24,954 ] 175 RERAScrapper - WARNING - Promoter Details 'promoter_details' **************not************** scrapped.
+[ 2025-06-30 11:01:45,148 ] 181 RERAScrapper - WARNING - Authorized Signatory Detail 'authorized_signatory_details' **************not************** scrapped.

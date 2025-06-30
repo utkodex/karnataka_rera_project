@@ -1,0 +1,37 @@
+[ 2025-06-30 11:05:52,795 ] 346 undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Utkarsh\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+[ 2025-06-30 11:05:53,445 ] 66 RERAScrapper - INFO - Browser initialized successfully.
+[ 2025-06-30 11:06:04,705 ] 74 RERAScrapper - INFO - Navigated to URL: https://rera.karnataka.gov.in/viewAllProjects
+[ 2025-06-30 11:06:08,846 ] 87 RERAScrapper - INFO - City 'Bagalkot' selected from dropdown.
+[ 2025-06-30 11:06:14,362 ] 94 RERAScrapper - INFO - Select Button Clicked.
+[ 2025-06-30 11:06:15,409 ] 106 RERAScrapper - INFO - Home table JSON extracted: home_table_json
+[ 2025-06-30 11:06:15,445 ] 135 RERAScrapper - INFO - Home Table JSON 'home_table_json' scrapped.
+[ 2025-06-30 11:06:35,638 ] 175 RERAScrapper - WARNING - Promoter Details 'promoter_details' **************not************** scrapped.
+[ 2025-06-30 11:06:51,279 ] 181 RERAScrapper - WARNING - Authorized Signatory Detail 'authorized_signatory_details' **************not************** scrapped.
+[ 2025-06-30 11:06:51,280 ] 187 RERAScrapper - WARNING - Project Member Details 'project_member_details' **************not************** scrapped.
+[ 2025-06-30 11:06:51,280 ] 193 RERAScrapper - WARNING - Project Land Owner Details 'project_land_owner_details' **************not************** scrapped.
+[ 2025-06-30 11:06:51,281 ] 199 RERAScrapper - WARNING - RERA Registration Details with any other State/UTs 'rera_registration_details_with_any_details' **************not************** scrapped.
+[ 2025-06-30 11:06:51,281 ] 205 RERAScrapper - WARNING - Previous Project Details (Last 5 years only) 'previous_project_details' **************not************** scrapped.
+[ 2025-06-30 11:06:51,282 ] 417 RERAScrapper - ERROR - An error occurred in scrape_project_details: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0xf93b03+62899]
+	GetHandleVerifier [0x0xf93b44+62964]
+	(No symbol) [0x0xdc0f50]
+	(No symbol) [0x0xdfc938]
+	(No symbol) [0x0xe2e3c6]
+	(No symbol) [0x0xe29e72]
+	(No symbol) [0x0xe29406]
+	(No symbol) [0x0xd93a05]
+	(No symbol) [0x0xd93f5e]
+	(No symbol) [0x0xd943fd]
+	GetHandleVerifier [0x0x11f4793+2556483]
+	GetHandleVerifier [0x0x11efd02+2537394]
+	GetHandleVerifier [0x0xfba2fa+220586]
+	GetHandleVerifier [0x0xfaaae8+157080]
+	GetHandleVerifier [0x0xfb141d+184013]
+	(No symbol) [0x0xd936d0]
+	(No symbol) [0x0xd92f47]
+	GetHandleVerifier [0x0x132aa2c+3826908]
+	BaseThreadInitThunk [0x0x76aefcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x771a82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x771a827e+238]
+

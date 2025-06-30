@@ -1,0 +1,5 @@
+[ 2025-06-30 13:58:26,049 ] 346 undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\Utkarsh\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+[ 2025-06-30 13:58:27,275 ] 65 RERAScrapper - INFO - Browser initialized successfully.
+[ 2025-06-30 13:58:32,272 ] 73 RERAScrapper - INFO - Navigated to URL: https://rera.karnataka.gov.in/viewAllProjects
+[ 2025-06-30 13:58:32,471 ] 86 RERAScrapper - INFO - City 'Kolar' selected from dropdown.
+[ 2025-06-30 13:58:33,765 ] 93 RERAScrapper - INFO - Select Button Clicked.

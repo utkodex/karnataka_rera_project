@@ -12,7 +12,7 @@ class scrape_project_details:
 
     def col_md(page_name, xpath_text, driver, default_heading_one="Default Heading"):
         try:
-            project_details = WebDriverWait(driver, 20).until(
+            project_details = WebDriverWait(driver, 3).until(
                 EC.presence_of_element_located((By.XPATH, f"//div[@id='{page_name}']"))
             )
 
@@ -64,7 +64,7 @@ class scrape_project_details:
         # heading_one=h1_elements.text
 
         try:
-            project_details = WebDriverWait(driver, 20).until(
+            project_details = WebDriverWait(driver, 3).until(
                 EC.presence_of_element_located((By.XPATH, f"//div[@id='{page_name}']"))
             )
 
@@ -106,7 +106,7 @@ class scrape_project_details:
 
     def uploaded_doc_extractor (text1, text2, driver):
         # Wait for the project_details element
-        project_details = WebDriverWait(driver, 20).until(
+        project_details = WebDriverWait(driver, 3).until(
             EC.presence_of_element_located((By.XPATH, "//div[@id='menu2']"))
         )
 
@@ -161,7 +161,7 @@ class scrape_project_details:
 
 
     def completion_details(text1, text2, driver):
-        project_details = WebDriverWait(driver, 20).until(
+        project_details = WebDriverWait(driver, 3).until(
                 EC.presence_of_element_located((By.XPATH, "//div[@id='completion']"))
             )
         

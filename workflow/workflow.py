@@ -144,6 +144,7 @@ class RERAScrapper:
             # -----------------------------------
             project_details=None
             development_details=None
+            project_ongoing_status=None
             external_development_work=None
             other_external_development_work=None
             project_bank_details=None
@@ -167,6 +168,8 @@ class RERAScrapper:
 
             # ===========================================================================================================================================================================
 
+            time.sleep(2)
+            
             try:
                 promoter_details=scrape_project_details.col_md("home", "Promoter", self.driver)
                 logger.info(f"Promoter Details 'promoter_details' scrapped.")
@@ -212,6 +215,8 @@ class RERAScrapper:
             except TimeoutException as te:
                 logger.error(f"Timed out waiting for Project Details page: {te}")
 
+            time.sleep(2)
+
             if project_details_page:
                 try:
                     project_details=scrape_project_details.col_md("menu1", "Project", self.driver, "Project Details")
@@ -224,7 +229,13 @@ class RERAScrapper:
                     logger.info(f"Development Details 'development_details' scrapped.")
                 except Exception as e:
                     logger.warning(f"Development Details 'development_details' **not** scrapped.")
-
+                
+                try:
+                    project_ongoing_status=scrape_project_details.h1("menu1", "Project Ongoing", "Status", self.driver)
+                    logger.info(f"Project Ongoing Status 'project_ongoing_status' scrapped.")
+                except Exception as e:
+                    logger.warning(f"Project Ongoing Status 'project_ongoing_status' **not** scrapped.")
+                
                 try:
                     external_development_work=scrape_project_details.h1("menu1", "External Development", "Work", self.driver)
                     logger.info(f"External Development Work 'external_development_work' scrapped.")
@@ -264,6 +275,8 @@ class RERAScrapper:
                 logger.info(f"Uploaded Documents page clicked.")
             except TimeoutException as te:
                 logger.error(f"Timed out waiting for Uploaded Documents page: {te}")
+
+            time.sleep(2)
 
             if uploaded_documents_page:  
                 try:  
@@ -310,6 +323,8 @@ class RERAScrapper:
                 logger.info(f"Complaint page clicked.")
             except TimeoutException as te:
                 logger.error(f"Timed out waiting for Complaint page: {te}")
+
+            time.sleep(2)
 
             if complaint_page:
                 try:  
@@ -381,8 +396,10 @@ class RERAScrapper:
                     'Project Land Owner Details': project_land_owner_details,
                     'RERA Registration Details': rera_registration_details_with_any_details,
                     'Previous Project Details': previous_project_details,
+
                     'Project Details': project_details,
                     'Development Details': development_details,
+                    'Project Ongoing Status': project_ongoing_status,
                     'External Development Work': external_development_work,
                     'Other External Development Work': other_external_development_work,
                     'Project Bank Details': project_bank_details,
